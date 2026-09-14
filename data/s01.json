@@ -1,0 +1,176 @@
+{
+  "id": "s01",
+  "title": "Enzym 1 · Khái niệm và tính chất",
+  "group": "Enzym học lâm sàng",
+  "description": "Bản chất enzym, tính đặc hiệu và vai trò trong kỹ thuật y sinh.",
+  "sections": [
+    {
+      "title": "Bản chất và nơi hoạt động",
+      "from": 8,
+      "to": 11,
+      "points": [
+        "Enzym là chất xúc tác sinh học, có bản chất protein hoặc axit nucleic.",
+        "Enzym được tổng hợp bên trong tế bào sống và có thể xúc tác phản ứng trong hoặc ngoài tế bào."
+      ]
+    },
+    {
+      "title": "Các tính chất được nhấn mạnh",
+      "from": 12,
+      "to": 17,
+      "points": [
+        "Enzym có cường lực xúc tác lớn và tính đặc hiệu cao.",
+        "Tính đặc hiệu liên quan đến sự tương ứng không gian giữa trung tâm hoạt động và cơ chất ở trạng thái chuyển tiếp.",
+        "Slide nêu điều kiện tác dụng thường thích hợp: 30–50 °C, pH trung tính, áp suất thường; đây là mô tả chung, không phải điều kiện của mọi enzym.",
+        "Kỹ thuật đột biến và xáo trộn DNA có thể cải thiện độ bền, giúp enzym phù hợp với điều kiện sử dụng."
+      ]
+    },
+    {
+      "title": "Ứng dụng và hoạt độ",
+      "from": 18,
+      "to": 19,
+      "points": [
+        "Enzym có thể là chỉ thị chẩn đoán, mục tiêu của thuốc và tác nhân dùng điều trị.",
+        "IU: lượng enzym xúc tác chuyển hóa 1 micromol cơ chất trong 1 phút ở điều kiện tiêu chuẩn.",
+        "Katal: lượng enzym xúc tác chuyển hóa 1 mol cơ chất trong 1 giây."
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "s01-q001",
+      "page": 10,
+      "prompt": "Theo slide, enzym có bản chất nào?",
+      "options": [
+        "Protein hoặc axit nucleic",
+        "Chỉ là lipid",
+        "Chỉ là muối vô cơ",
+        "Chỉ là gluxit"
+      ],
+      "answer": 0,
+      "explanation": "Slide định nghĩa enzym là chất xúc tác sinh học có bản chất protein hoặc axit nucleic."
+    },
+    {
+      "id": "s01-q002",
+      "page": 11,
+      "prompt": "Enzym được tổng hợp ở đâu?",
+      "options": [
+        "Bên trong tế bào sống",
+        "Chỉ trong huyết tương",
+        "Chỉ ngoài tế bào",
+        "Chỉ trong ống nghiệm"
+      ],
+      "answer": 0,
+      "explanation": "Enzym được tổng hợp trong tế bào sống, dù nơi xúc tác có thể ở trong hoặc ngoài tế bào."
+    },
+    {
+      "id": "s01-q003",
+      "page": 11,
+      "prompt": "Phạm vi hoạt động của enzym được nêu trong slide là gì?",
+      "options": [
+        "Trong và ngoài tế bào",
+        "Chỉ trong nhân",
+        "Chỉ trong ti thể",
+        "Chỉ ngoài tế bào"
+      ],
+      "answer": 0,
+      "explanation": "Nơi tổng hợp và nơi enzym thực hiện xúc tác không nhất thiết trùng nhau."
+    },
+    {
+      "id": "s01-q004",
+      "page": 13,
+      "prompt": "Tính đặc hiệu cao của enzym thể hiện ở điểm nào?",
+      "options": [
+        "Tác động vào phản ứng hoặc liên kết, nhóm chức nhất định",
+        "Tác động như nhau lên mọi phân tử",
+        "Luôn cần nhiệt độ rất cao",
+        "Luôn hoạt động không cần cơ chất"
+      ],
+      "answer": 0,
+      "explanation": "Slide nêu tính chọn lọc đối với phản ứng và loại liên kết hoặc nhóm chức."
+    },
+    {
+      "id": "s01-q005",
+      "page": 14,
+      "prompt": "Cơ sở của tính đặc hiệu enzym là gì?",
+      "options": [
+        "Sự tương ứng cấu trúc không gian giữa trung tâm hoạt động và cơ chất",
+        "Màu sắc của dung dịch",
+        "Thể tích bình phản ứng",
+        "Khối lượng dung môi"
+      ],
+      "answer": 0,
+      "explanation": "Slide gắn tính đặc hiệu với cấu trúc không gian của trung tâm hoạt động và cơ chất ở trạng thái chuyển tiếp."
+    },
+    {
+      "id": "s01-q006",
+      "page": 15,
+      "prompt": "Khoảng nhiệt độ tác dụng thường thích hợp được nêu ở slide này là bao nhiêu?",
+      "options": [
+        "30–50 °C",
+        "0–5 °C",
+        "100–120 °C",
+        "150–200 °C"
+      ],
+      "answer": 0,
+      "explanation": "Đây là khoảng nhiệt độ trong mô tả chung của slide về điều kiện phản ứng êm dịu."
+    },
+    {
+      "id": "s01-q007",
+      "page": 16,
+      "prompt": "Kỹ thuật đột biến, xáo trộn DNA được nêu nhằm mục đích gì?",
+      "options": [
+        "Cải thiện độ bền và sự phù hợp của enzym với điều kiện sử dụng",
+        "Loại bỏ hoàn toàn tính xúc tác",
+        "Biến mọi enzym thành lipid",
+        "Ngăn mọi sự tổng hợp enzym"
+      ],
+      "answer": 0,
+      "explanation": "Slide nêu hai mục tiêu: cải thiện độ bền enzym tự nhiên và thích ứng điều kiện sản xuất, sử dụng."
+    },
+    {
+      "id": "s01-q008",
+      "page": 18,
+      "prompt": "Vai trò nào của enzym trong kỹ thuật y sinh được nêu trong slide?",
+      "options": [
+        "Chỉ thị để chẩn đoán bệnh",
+        "Thay thế hoàn toàn mọi phương pháp chẩn đoán",
+        "Chỉ tạo cấu trúc xương",
+        "Chỉ vận chuyển muối khoáng"
+      ],
+      "answer": 0,
+      "explanation": "Enzym được nêu là chỉ thị chẩn đoán, mục tiêu của thuốc và tác nhân điều trị."
+    },
+    {
+      "id": "s01-q009",
+      "page": 19,
+      "prompt": "Một IU tương ứng với lượng enzym chuyển hóa bao nhiêu cơ chất?",
+      "options": [
+        "1 micromol trong 1 phút",
+        "1 mol trong 1 phút",
+        "1 micromol trong 1 giờ",
+        "1 mol trong 1 giờ"
+      ],
+      "answer": 0,
+      "explanation": "IU được xác định ở điều kiện tiêu chuẩn theo 1 micromol cơ chất mỗi phút."
+    },
+    {
+      "id": "s01-q010",
+      "page": 19,
+      "prompt": "Đơn vị katal tương ứng với tốc độ chuyển hóa nào?",
+      "options": [
+        "1 mol/giây",
+        "1 micromol/phút",
+        "1 miligam/giờ",
+        "1 mol/ngày"
+      ],
+      "answer": 0,
+      "explanation": "Slide định nghĩa katal theo lượng 1 mol cơ chất được chuyển hóa trong 1 giây."
+    }
+  ],
+  "source": {
+    "file": "1.1 Emzym 1.pdf",
+    "url": "sources/s01.pdf",
+    "pages": 19,
+    "sha256": "5e3050c3507693bee77ffb60aa361e7f616df37059d9bcef421f28eeefe47480"
+  }
+}

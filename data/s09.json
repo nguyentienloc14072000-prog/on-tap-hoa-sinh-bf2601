@@ -1,0 +1,309 @@
+{
+  "id": "s09",
+  "title": "Khí máu và cân bằng axit–base",
+  "group": "Khí máu",
+  "description": "Vận chuyển O₂, CO₂; hệ đệm và các rối loạn axit–base.",
+  "sections": [
+    {
+      "title": "Vận chuyển khí",
+      "from": 3,
+      "to": 10,
+      "points": [
+        "Hemoglobin là chất mang oxy trong máu; slide so sánh khả năng vận chuyển của máu chứa Hb với oxy hòa tan trong huyết tương.",
+        "2,3-DPG làm giảm ái lực Hb với oxy.",
+        "CO₂ được vận chuyển dưới dạng bicarbonate, carbamin và dạng hòa tan; bicarbonate là dạng chủ yếu theo slide."
+      ]
+    },
+    {
+      "title": "Hệ đệm và điều hòa",
+      "from": 11,
+      "to": 17,
+      "points": [
+        "Slide nêu pH động mạch bình thường 7,38–7,42.",
+        "Các hệ đệm gồm bicarbonate, phosphate, protein và hệ hemoglobin trong hồng cầu.",
+        "Điều hòa gồm đáp ứng của các hệ đệm hóa học và cơ chế sinh lý ở phổi, thận.",
+        "Khi pH giảm, phổi tăng thông khí để thải CO₂; thận tham gia muộn hơn, tái hấp thu bicarbonate và bài tiết H⁺."
+      ]
+    },
+    {
+      "title": "Chỉ tiêu và rối loạn",
+      "from": 18,
+      "to": 25,
+      "points": [
+        "Slide dùng ngưỡng pH < 7,35 cho nhiễm acid và pH > 7,45 cho nhiễm kiềm.",
+        "Phân biệt bicarbonate thực (AB), bicarbonate chuẩn (SB), base đệm (BB) và base dư (BE).",
+        "Nhiễm acid chuyển hóa liên quan tích tụ acid hoặc mất base; acid hô hấp liên quan giảm thông khí, tăng CO₂.",
+        "Nhiễm kiềm chuyển hóa liên quan mất acid hoặc dư base; kiềm hô hấp liên quan tăng thông khí quá mức và giảm CO₂.",
+        "Các câu hỏi tập trung vào cơ chế và dấu hiệu nêu rõ trong bài, kèm liên kết đến trang PDF."
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "s09-q001",
+      "page": 3,
+      "prompt": "Chất mang oxy trong máu được nêu trong slide là gì?",
+      "options": [
+        "Hemoglobin",
+        "Albumin",
+        "Transferrin",
+        "Ceruloplasmin"
+      ],
+      "answer": 0,
+      "explanation": "Slide xác định hemoglobin là chất mang oxy trong máu."
+    },
+    {
+      "id": "s09-q002",
+      "page": 3,
+      "prompt": "2,3-DPG có ảnh hưởng nào lên Hb theo slide?",
+      "options": [
+        "Giảm ái lực Hb với oxy",
+        "Tăng ái lực Hb với oxy",
+        "Biến Hb thành glucose",
+        "Không thể tương tác với vận chuyển oxy"
+      ],
+      "answer": 0,
+      "explanation": "Slide nêu 2,3-DPG làm giảm ái lực giữa Hb và O₂."
+    },
+    {
+      "id": "s09-q003",
+      "page": 8,
+      "prompt": "Dạng vận chuyển CO₂ chủ yếu được nêu trong slide là gì?",
+      "options": [
+        "Bicarbonate",
+        "CO₂ hòa tan tự do",
+        "Dạng carbamin",
+        "Oxyhemoglobin"
+      ],
+      "answer": 0,
+      "explanation": "Slide ghi bicarbonate chiếm tỷ lệ lớn nhất trong các dạng vận chuyển CO₂."
+    },
+    {
+      "id": "s09-q004",
+      "page": 8,
+      "prompt": "Dạng carbamin hình thành do CO₂ phản ứng với thành phần nào?",
+      "options": [
+        "Nhóm amin tự do của các chuỗi protein trong Hb",
+        "Chỉ lipid của huyết tương",
+        "Chỉ nhóm phosphate của ATP",
+        "Chỉ ion natri"
+      ],
+      "answer": 0,
+      "explanation": "Phần mô tả carbamin nêu phản ứng với nhóm amin tự do."
+    },
+    {
+      "id": "s09-q005",
+      "page": 11,
+      "prompt": "Khoảng pH động mạch bình thường được nêu trong bài là bao nhiêu?",
+      "options": [
+        "7,38–7,42",
+        "6,80–7,00",
+        "7,80–8,00",
+        "5,50–6,00"
+      ],
+      "answer": 0,
+      "explanation": "Bộ slide dùng khoảng 7,38–7,42 cho phần cân bằng acid–base."
+    },
+    {
+      "id": "s09-q006",
+      "page": 12,
+      "prompt": "Hệ đệm nào được nêu trong hồng cầu?",
+      "options": [
+        "Hemoglobinat/hemoglobin",
+        "Chỉ acetate/acetic acid",
+        "Chỉ borat/boric acid",
+        "Chỉ glucose/glycogen"
+      ],
+      "answer": 0,
+      "explanation": "Slide liệt kê hệ hemoglobin và oxyhemoglobin trong hồng cầu."
+    },
+    {
+      "id": "s09-q007",
+      "page": 13,
+      "prompt": "Cặp thành phần của hệ đệm bicarbonate là gì?",
+      "options": [
+        "HCO₃⁻/H₂CO₃",
+        "Na⁺/K⁺",
+        "Glucose/fructose",
+        "Albumin/cholesterol"
+      ],
+      "answer": 0,
+      "explanation": "Hệ đệm bicarbonate được biểu diễn bằng HCO₃⁻ và H₂CO₃."
+    },
+    {
+      "id": "s09-q008",
+      "page": 14,
+      "prompt": "Hai cơ quan tham gia cơ chế sinh lý điều hòa acid–base là gì?",
+      "options": [
+        "Phổi và thận",
+        "Chỉ da và xương",
+        "Chỉ gan và lách",
+        "Chỉ cơ và tụy"
+      ],
+      "answer": 0,
+      "explanation": "Giai đoạn điều hòa sinh lý trong slide gồm hô hấp ở phổi và bài tiết ở thận."
+    },
+    {
+      "id": "s09-q009",
+      "page": 15,
+      "prompt": "Trong hệ đệm bicarbonate, H⁺ tăng phản ứng trước hết với chất nào?",
+      "options": [
+        "HCO₃⁻",
+        "O₂",
+        "Cholesterol",
+        "Glucose"
+      ],
+      "answer": 0,
+      "explanation": "Slide mô tả H⁺ + HCO₃⁻ tạo H₂CO₃, rồi thành CO₂ và nước."
+    },
+    {
+      "id": "s09-q010",
+      "page": 16,
+      "prompt": "Khi pH giảm, đáp ứng của phổi được mô tả như thế nào?",
+      "options": [
+        "Tăng thông khí để thải CO₂",
+        "Giảm thông khí để giữ CO₂",
+        "Ngừng trao đổi khí hoàn toàn",
+        "Tăng tạo ure"
+      ],
+      "answer": 0,
+      "explanation": "Slide liên hệ giảm pH với tăng thông khí và thải CO₂."
+    },
+    {
+      "id": "s09-q011",
+      "page": 16,
+      "prompt": "So với đáp ứng của phổi, thận tham gia điều hòa thế nào?",
+      "options": [
+        "Muộn hơn nhưng khả năng đệm lớn",
+        "Luôn sớm hơn và không có khả năng đệm",
+        "Không tham gia",
+        "Chỉ tác động lên oxy"
+      ],
+      "answer": 0,
+      "explanation": "Slide nêu thận tham gia muộn hơn và có khả năng đệm lớn."
+    },
+    {
+      "id": "s09-q012",
+      "page": 17,
+      "prompt": "Cơ chế nào thuộc điều hòa acid–base ở thận theo slide?",
+      "options": [
+        "Tái hấp thu bicarbonate",
+        "Chỉ tạo hemoglobin",
+        "Chỉ phân giải tinh bột",
+        "Chỉ vận chuyển oxy"
+      ],
+      "answer": 0,
+      "explanation": "Thận còn đào thải acid không bay hơi và bài tiết H⁺ dưới dạng muối amoni."
+    },
+    {
+      "id": "s09-q013",
+      "page": 18,
+      "prompt": "Theo ngưỡng trong slide, pH máu nào được xếp là nhiễm acid?",
+      "options": [
+        "Dưới 7,35",
+        "Trên 7,45",
+        "Đúng 7,40",
+        "7,38–7,42"
+      ],
+      "answer": 0,
+      "explanation": "Trang chỉ tiêu nêu pH < 7,35 là nhiễm acid."
+    },
+    {
+      "id": "s09-q014",
+      "page": 18,
+      "prompt": "Bicarbonate chuẩn được xác định sau khi đưa mẫu về điều kiện nào?",
+      "options": [
+        "37 °C và PCO₂ 40 mmHg",
+        "0 °C và PCO₂ bằng không",
+        "100 °C và áp suất bất kỳ",
+        "Nhiệt độ phòng, không cần kiểm soát PCO₂"
+      ],
+      "answer": 0,
+      "explanation": "Slide định nghĩa SB ở nhiệt độ 37 °C, PCO₂ 40 mmHg."
+    },
+    {
+      "id": "s09-q015",
+      "page": 19,
+      "prompt": "Base đệm BB là đại lượng nào?",
+      "options": [
+        "Tổng lượng anion đệm trong máu",
+        "Tổng lượng oxy trong phổi",
+        "Tổng lipid huyết thanh",
+        "Chỉ nồng độ natri"
+      ],
+      "answer": 0,
+      "explanation": "Slide định nghĩa BB bằng tổng lượng các anion có vai trò đệm."
+    },
+    {
+      "id": "s09-q016",
+      "page": 19,
+      "prompt": "Giá trị BE bình thường được nêu trong slide là bao nhiêu?",
+      "options": [
+        "0",
+        "10",
+        "25",
+        "100"
+      ],
+      "answer": 0,
+      "explanation": "Trang base dư nêu BE bình thường bằng 0."
+    },
+    {
+      "id": "s09-q017",
+      "page": 20,
+      "prompt": "Cơ chế nào được nêu có thể gây nhiễm acid chuyển hóa?",
+      "options": [
+        "Tích tụ acid hoặc mất bicarbonate",
+        "Chỉ tăng thông khí quá mức",
+        "Chỉ mất acid dạ dày",
+        "Chỉ dư base trong máu"
+      ],
+      "answer": 0,
+      "explanation": "Trang acid chuyển hóa nêu tích tụ acid, mất base, giảm bài tiết H⁺ hoặc mất HCO₃⁻."
+    },
+    {
+      "id": "s09-q018",
+      "page": 22,
+      "prompt": "Nhiễm acid hô hấp được mô tả bằng thay đổi nào?",
+      "options": [
+        "Giảm thông khí, CO₂ tăng, pH giảm",
+        "Tăng thông khí, CO₂ giảm, pH tăng",
+        "Mất acid, pH tăng",
+        "Dư base, pH không đổi"
+      ],
+      "answer": 0,
+      "explanation": "Slide liên hệ giảm thông khí với tăng CO₂ và nhiễm acid hô hấp."
+    },
+    {
+      "id": "s09-q019",
+      "page": 23,
+      "prompt": "Nguyên nhân nào được nêu cho nhiễm kiềm chuyển hóa?",
+      "options": [
+        "Nôn nhiều hoặc hút dịch dạ dày",
+        "Giảm thông khí làm giữ CO₂",
+        "Tích tụ acid lactic",
+        "Mất bicarbonate do tiêu chảy"
+      ],
+      "answer": 0,
+      "explanation": "Mất acid dạ dày nằm trong các nguyên nhân của kiềm chuyển hóa được nêu."
+    },
+    {
+      "id": "s09-q020",
+      "page": 25,
+      "prompt": "Nhiễm kiềm hô hấp liên quan cơ chế nào?",
+      "options": [
+        "Tăng thông khí quá mức làm giảm CO₂",
+        "Giảm thông khí làm tăng CO₂",
+        "Tăng acid không bay hơi",
+        "Mất bicarbonate trong mọi trường hợp"
+      ],
+      "answer": 0,
+      "explanation": "Slide mô tả CO₂ giảm và pH tăng khi thông khí phế nang quá mức."
+    }
+  ],
+  "source": {
+    "file": "7. Vận chuyển khí trong máu và cân bằng axit base.pdf",
+    "url": "sources/s09.pdf",
+    "pages": 26,
+    "sha256": "7ca7f86ebe0bc22947a02528a77cf49d18730c986ba43350de1f7a8bba2bd5d5"
+  }
+}
