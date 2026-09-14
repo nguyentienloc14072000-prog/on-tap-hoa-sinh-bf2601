@@ -1,5 +1,7 @@
 # Ôn tập Hóa sinh y sinh · BF2601
 
+[Mở trang ôn tập](https://nguyentienloc14072000-prog.github.io/on-tap-hoa-sinh-bf2601/)
+
 Trang ôn tập tiếng Việt dành cho cá nhân và bạn bè, chỉ dựa trên 9 PDF trong bộ **Slide 2024** (497 trang). Không bổ sung kiến thức từ Internet, bài thí nghiệm hoặc tiểu luận.
 
 **218 câu trắc nghiệm**, chia theo từng file, có giải thích và đường dẫn đến trang PDF nguồn. Các ghi chú là bản tóm tắt để ôn tập; PDF gốc là tài liệu đối chiếu.
