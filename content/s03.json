@@ -1,0 +1,337 @@
+{
+  "id": "s03",
+  "title": "Enzym 2 · Chỉ thị và ứng dụng",
+  "group": "Enzym học lâm sàng",
+  "description": "Enzym huyết thanh, các chỉ thị thường gặp và ứng dụng điều trị.",
+  "sections": [
+    {
+      "title": "Đọc kết quả enzym huyết thanh",
+      "from": 6,
+      "to": 11,
+      "points": [
+        "Phân biệt enzym huyết thanh có chức năng xúc tác trong máu và nhóm không thực hiện chức năng ở huyết thanh.",
+        "Hoạt độ tăng có thể liên quan tổn thương mô, giảm thanh lọc, tăng số lượng hoặc hoạt tính tế bào, hay tăng sản sinh enzym.",
+        "Cần xem mức hoạt độ, phối hợp các enzym, tỷ số, diễn biến theo thời gian và isozym."
+      ]
+    },
+    {
+      "title": "Các enzym tiêu biểu",
+      "from": 12,
+      "to": 23,
+      "points": [
+        "ACP được liên hệ với tuyến tiền liệt; ALT và AST tham gia chuyển nhóm amin.",
+        "ALP có nhiều nguồn, đặc biệt tế bào đường mật và tạo cốt bào; xác định isozym giúp phân biệt nguồn.",
+        "Amylase thủy phân liên kết α-1,4-glucosid; hai isozym chính là P từ tụy và S từ các nguồn như tuyến nước bọt.",
+        "ACE chuyển angiotensin I thành angiotensin II; CK có các dạng MM, MB và BB."
+      ]
+    },
+    {
+      "title": "Các chỉ thị tiếp theo",
+      "from": 25,
+      "to": 35,
+      "points": [
+        "Elastase trong phân được dùng để đánh giá khả năng sản xuất enzym của tụy.",
+        "G6PD liên quan chuyển hóa glucose và bảo vệ tế bào trước stress oxy hóa.",
+        "GLDH, GGT, glycogen phosphorylase và LDH có các vai trò chuyển hóa khác nhau; LDH chuyển đổi lactate và pyruvate.",
+        "Lipase phân giải lipid; trypsin tiêu hóa protein; cả hai được trình bày gắn với tuyến tụy."
+      ]
+    },
+    {
+      "title": "Enzym và điều trị",
+      "from": 36,
+      "to": 39,
+      "points": [
+        "Slide nêu các ứng dụng như làm tan huyết khối và liệu pháp thay thế khi thiếu hụt enzym.",
+        "Một số thuốc tác động bằng ức chế enzym: cạnh tranh tại trung tâm hoạt động hoặc tác động ở vị trí khác."
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "s03-q001",
+      "page": 6,
+      "prompt": "Enzym huyết thanh có chức năng được mô tả như thế nào?",
+      "options": [
+        "Được bài tiết vào máu và thực hiện xúc tác trong máu",
+        "Luôn không có cơ chất trong huyết thanh",
+        "Chỉ có trong nước tiểu",
+        "Chỉ giải phóng khi tế bào đã chết"
+      ],
+      "answer": 0,
+      "explanation": "Slide phân nhóm dựa trên việc enzym có thực hiện chức năng xúc tác trong máu hay không."
+    },
+    {
+      "id": "s03-q002",
+      "page": 7,
+      "prompt": "Ở trạng thái ổn định, tốc độ giải phóng enzym vào huyết thanh cân bằng với yếu tố nào?",
+      "options": [
+        "Tốc độ thanh lọc protein enzym khỏi huyết thanh",
+        "Tốc độ tạo hồng cầu duy nhất",
+        "Tốc độ đông máu duy nhất",
+        "Tốc độ uống nước"
+      ],
+      "answer": 0,
+      "explanation": "Sơ đồ cân bằng đặt tốc độ giải phóng đối diện tốc độ thanh lọc enzym."
+    },
+    {
+      "id": "s03-q003",
+      "page": 8,
+      "prompt": "Ngoài tổn thương tế bào, cơ chế nào có thể làm tăng hoạt độ enzym trong huyết thanh?",
+      "options": [
+        "Giảm thanh lọc enzym",
+        "Tăng thanh lọc mà không đổi giải phóng",
+        "Loại hết cơ chất trước lấy mẫu",
+        "Không còn enzym trong mô"
+      ],
+      "answer": 0,
+      "explanation": "Slide nêu giảm độ thanh lọc là một nguyên nhân gây tăng hoạt độ."
+    },
+    {
+      "id": "s03-q004",
+      "page": 11,
+      "prompt": "Thông tin nào giúp diễn giải hoạt độ enzym tốt hơn?",
+      "options": [
+        "Phối hợp các enzym, tỷ số và diễn biến theo thời gian",
+        "Chỉ màu của ống nghiệm",
+        "Chỉ một giá trị tách khỏi bối cảnh",
+        "Chỉ thể tích dung dịch đệm"
+      ],
+      "answer": 0,
+      "explanation": "Slide yêu cầu xem mức hoạt độ, loại hình enzym, tỷ số, diễn biến và isozym."
+    },
+    {
+      "id": "s03-q005",
+      "page": 12,
+      "prompt": "ACP xúc tác kiểu phản ứng nào được nêu trong slide?",
+      "options": [
+        "Thủy phân monoeste phosphate",
+        "Tạo glycogen từ glucose",
+        "Chuyển lactate thành pyruvate",
+        "Gắn oxy vào hemoglobin"
+      ],
+      "answer": 0,
+      "explanation": "ACP giải phóng nhóm phosphate; phản ứng tạo rượu và phosphate."
+    },
+    {
+      "id": "s03-q006",
+      "page": 14,
+      "prompt": "ALT chuyển nhóm amin từ L-alanine cho chất nào?",
+      "options": [
+        "α-Ketoglutarate",
+        "Cholesterol",
+        "Lactose",
+        "Glycerol"
+      ],
+      "answer": 0,
+      "explanation": "Phản ứng ALT trong slide tạo pyruvate và L-glutamate."
+    },
+    {
+      "id": "s03-q007",
+      "page": 16,
+      "prompt": "Hai nguồn nổi bật của ALP được nêu là gì?",
+      "options": [
+        "Tế bào đường mật và tạo cốt bào",
+        "Chỉ hồng cầu và tiểu cầu",
+        "Chỉ tế bào võng mạc",
+        "Chỉ tuyến nước bọt"
+      ],
+      "answer": 0,
+      "explanation": "Slide mô tả ALP chủ yếu ở tế bào phủ đường mật và tế bào tạo xương."
+    },
+    {
+      "id": "s03-q008",
+      "page": 18,
+      "prompt": "Khi ALP tăng, xác định các isoenzym giúp làm gì?",
+      "options": [
+        "Phân biệt nguồn gốc enzym",
+        "Xác định trực tiếp nhóm máu ABO",
+        "Đo nồng độ glucose thay cho mọi xét nghiệm",
+        "Loại bỏ nhu cầu xem bối cảnh"
+      ],
+      "answer": 0,
+      "explanation": "Nguồn ALP khác nhau có thể được phân biệt qua các isoenzym."
+    },
+    {
+      "id": "s03-q009",
+      "page": 19,
+      "prompt": "Amylase thủy phân loại liên kết nào trong tinh bột và glycogen?",
+      "options": [
+        "α-1,4-glucosid",
+        "β-1,4-glucosid của cellulose",
+        "Liên kết peptide",
+        "Cầu disulfide"
+      ],
+      "answer": 0,
+      "explanation": "Slide nêu tác dụng thủy phân liên kết α-1,4-glucosid."
+    },
+    {
+      "id": "s03-q010",
+      "page": 20,
+      "prompt": "Isoenzym P của amylase có nguồn gốc chính từ đâu?",
+      "options": [
+        "Tụy",
+        "Xương",
+        "Não",
+        "Tuyến giáp"
+      ],
+      "answer": 0,
+      "explanation": "Slide phân biệt P từ tụy với S từ tuyến nước bọt và một số nguồn khác."
+    },
+    {
+      "id": "s03-q011",
+      "page": 21,
+      "prompt": "ACE chuyển hóa angiotensin I thành chất nào?",
+      "options": [
+        "Angiotensin II",
+        "Albumin",
+        "Insulin",
+        "Glucagon"
+      ],
+      "answer": 0,
+      "explanation": "Slide nêu angiotensin II là chất co mạch tạo ra nhờ ACE."
+    },
+    {
+      "id": "s03-q012",
+      "page": 22,
+      "prompt": "Tên khác của AST là gì?",
+      "options": [
+        "SGOT",
+        "SGPT",
+        "LPL",
+        "LCAT"
+      ],
+      "answer": 0,
+      "explanation": "AST được ghi là serum glutamic-oxaloacetic transaminase, viết tắt SGOT."
+    },
+    {
+      "id": "s03-q013",
+      "page": 23,
+      "prompt": "Isoenzym CK nào được nêu chủ yếu có trong tim?",
+      "options": [
+        "CK-MB",
+        "CK-MM",
+        "CK-BB",
+        "ALP"
+      ],
+      "answer": 0,
+      "explanation": "Slide phân biệt CK-MB ở tim, CK-MM ở cơ và CK-BB ở não."
+    },
+    {
+      "id": "s03-q014",
+      "page": 25,
+      "prompt": "Mẫu nào thường được dùng để xét nghiệm elastase đánh giá tụy theo slide?",
+      "options": [
+        "Phân",
+        "Tóc",
+        "Móng",
+        "Dịch khớp"
+      ],
+      "answer": 0,
+      "explanation": "Slide cho biết xét nghiệm elastase trong phân phổ biến hơn xét nghiệm trong máu."
+    },
+    {
+      "id": "s03-q015",
+      "page": 26,
+      "prompt": "G6PD có vai trò nổi bật nào?",
+      "options": [
+        "Bảo vệ tế bào khỏi stress oxy hóa",
+        "Trực tiếp vận chuyển oxy như hemoglobin",
+        "Thủy phân mọi liên kết peptide",
+        "Là kháng thể IgG"
+      ],
+      "answer": 0,
+      "explanation": "Slide liên hệ G6PD với chuyển hóa glucose và bảo vệ trước tác nhân oxy hóa."
+    },
+    {
+      "id": "s03-q016",
+      "page": 29,
+      "prompt": "Glycogen phosphorylase liên quan chủ yếu đến chuyển hóa chất nào?",
+      "options": [
+        "Glycogen",
+        "Cholesterol",
+        "Albumin",
+        "Bilirubin"
+      ],
+      "answer": 0,
+      "explanation": "Slide nêu vai trò trong chuyển hóa glycogen và liên hệ thiếu enzym ở cơ với bệnh McArdle."
+    },
+    {
+      "id": "s03-q017",
+      "page": 30,
+      "prompt": "LDH xúc tác sự chuyển đổi giữa cặp chất nào?",
+      "options": [
+        "Lactate và pyruvate",
+        "Glucose và cholesterol",
+        "Ure và albumin",
+        "Glycerol và hemoglobin"
+      ],
+      "answer": 0,
+      "explanation": "LDH chuyển lactate thành pyruvate và ngược lại."
+    },
+    {
+      "id": "s03-q018",
+      "page": 32,
+      "prompt": "Cơ chất thuộc nhóm nào được lipase phân giải?",
+      "options": [
+        "Lipid",
+        "Axit nucleic",
+        "Muối khoáng",
+        "Protein cấu trúc"
+      ],
+      "answer": 0,
+      "explanation": "Slide minh họa sự thủy phân triacylglycerol bởi lipase."
+    },
+    {
+      "id": "s03-q019",
+      "page": 34,
+      "prompt": "Trypsin tham gia chủ yếu vào quá trình nào?",
+      "options": [
+        "Tiêu hóa protein",
+        "Vận chuyển đồng",
+        "Tạo áp suất keo huyết tương",
+        "Tổng hợp kháng thể"
+      ],
+      "answer": 0,
+      "explanation": "Trypsin là enzym tiêu hóa do tụy sản xuất, có vai trò tiêu hóa protein."
+    },
+    {
+      "id": "s03-q020",
+      "page": 36,
+      "prompt": "Liệu pháp thay thế enzym được trình bày cho trường hợp nào?",
+      "options": [
+        "Bệnh do thiếu hụt một enzym hoặc hệ enzym",
+        "Mọi thay đổi màu da",
+        "Mọi trường hợp chỉ thiếu nước",
+        "Mọi trường hợp tăng chiều cao"
+      ],
+      "answer": 0,
+      "explanation": "Slide nêu liệu pháp thay thế cho bệnh di truyền thiếu hụt enzym hoặc hệ enzym."
+    },
+    {
+      "id": "s03-q021",
+      "page": 37,
+      "prompt": "Công nghệ DNA giúp ích gì cho việc chuẩn bị enzym dùng cho người?",
+      "options": [
+        "Tạo enzym có nguồn gốc người để giảm vấn đề miễn dịch và độc tính từ nguồn vi khuẩn",
+        "Làm mọi protein hoàn toàn không thể bị phân hủy",
+        "Biến enzym thành phân tử không cần cơ chất",
+        "Loại bỏ hoàn toàn nhu cầu sản xuất"
+      ],
+      "answer": 0,
+      "explanation": "Slide nhấn mạnh lợi ích của enzym nguồn gốc người trong sử dụng điều trị."
+    },
+    {
+      "id": "s03-q022",
+      "page": 39,
+      "prompt": "Chất kìm hãm cạnh tranh thường gắn vào đâu?",
+      "options": [
+        "Trung tâm hoạt động của enzym",
+        "Nhân của mọi tế bào",
+        "Chỉ màng hồng cầu",
+        "Chỉ vùng lipid của huyết tương"
+      ],
+      "answer": 0,
+      "explanation": "Slide mô tả chất cạnh tranh có cấu tạo tương tự cơ chất và gắn vào trung tâm hoạt động."
+    }
+  ]
+}

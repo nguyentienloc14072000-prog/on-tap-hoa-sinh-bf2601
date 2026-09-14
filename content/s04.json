@@ -1,0 +1,339 @@
+{
+  "id": "s04",
+  "title": "Enzym 2 · Cấu tạo và điều hòa",
+  "group": "Enzym học lâm sàng",
+  "description": "Apoenzym, trung tâm hoạt động, chất ức chế, nhiệt độ và pH.",
+  "sections": [
+    {
+      "title": "Cấu tạo và trung tâm hoạt động",
+      "from": 1,
+      "to": 5,
+      "points": [
+        "Enzym một thành phần chỉ có protein; enzym hai thành phần gồm protein và phần phi protein.",
+        "Apoenzym là phần protein; phần phi protein có thể là ion kim loại hoặc coenzym.",
+        "Trung tâm hoạt động trực tiếp gắn cơ chất, tạo hoặc cắt liên kết; các nhóm chức có thể xa nhau trong trình tự nhưng gần nhau trong không gian.",
+        "Các ví dụ gồm carboxypeptidase A có Zn²⁺ và lactate dehydrogenase dùng NAD⁺."
+      ]
+    },
+    {
+      "title": "Đặc hiệu và ảnh hưởng của nồng độ",
+      "from": 6,
+      "to": 11,
+      "points": [
+        "Chất gắn vào trung tâm dị lập thể có thể đổi cấu hình và hoạt tính enzym.",
+        "Phân biệt đặc hiệu kiểu phản ứng, đặc hiệu tuyệt đối, nhóm, liên kết và lập thể.",
+        "Slide minh họa tốc độ phản ứng tiến tới mức bão hòa khi tăng cơ chất trong điều kiện lượng enzym cố định."
+      ]
+    },
+    {
+      "title": "Kìm hãm và hoạt hóa",
+      "from": 12,
+      "to": 15,
+      "points": [
+        "Chất kìm hãm cạnh tranh cùng tác động vào trung tâm hoạt động với cơ chất; tăng cơ chất có thể giải tỏa ức chế.",
+        "Kìm hãm không cạnh tranh tác động ở vị trí khác; kìm hãm bất thuận nghịch còn tồn tại sau thẩm tích loại chất kìm hãm.",
+        "Chất hoạt hóa chuyển enzym từ không hoạt động hoặc hoạt động yếu sang hoạt động mạnh hơn.",
+        "Hoạt hóa gián tiếp loại tác nhân kìm hãm; hoạt hóa trực tiếp có thể liên quan coenzym, cofactor hoặc phục hồi nhóm chức."
+      ]
+    },
+    {
+      "title": "Nhiệt độ, pH và tinh chế",
+      "from": 15,
+      "to": 18,
+      "points": [
+        "Nhiệt độ tối ưu tùy enzym và nguồn chế phẩm; slide có các ví dụ enzym chịu nhiệt.",
+        "pH ảnh hưởng trạng thái ion hóa trung tâm hoạt động và độ bền của enzym.",
+        "Pepsin và trypsin được minh họa có vùng pH hoạt động khác nhau.",
+        "Cuối file giới thiệu quy trình thu nhận và ví dụ tinh chế bằng sắc ký trao đổi anion trên hệ FPLC."
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "s04-q001",
+      "page": 1,
+      "prompt": "Enzym một thành phần có cấu tạo nào?",
+      "options": [
+        "Chỉ có protein",
+        "Chỉ có lipid",
+        "Protein và một phần phi protein bắt buộc",
+        "Chỉ có ion kim loại"
+      ],
+      "answer": 0,
+      "explanation": "Sơ đồ phân biệt enzym một thành phần với enzym hai thành phần."
+    },
+    {
+      "id": "s04-q002",
+      "page": 2,
+      "prompt": "Apoenzym là phần nào của enzym hai thành phần?",
+      "options": [
+        "Phần protein",
+        "Phần nước",
+        "Toàn bộ cơ chất",
+        "Chỉ ion kim loại"
+      ],
+      "answer": 0,
+      "explanation": "Slide gọi phần protein là apoenzym."
+    },
+    {
+      "id": "s04-q003",
+      "page": 2,
+      "prompt": "Theo slide, phần protein chủ yếu quyết định tính đặc hiệu nào?",
+      "options": [
+        "Đặc hiệu cơ chất",
+        "Màu của sản phẩm",
+        "Nhiệt độ môi trường",
+        "Thể tích mẫu"
+      ],
+      "answer": 0,
+      "explanation": "Sơ đồ gắn vai trò quyết định tính đặc hiệu cơ chất với apoenzym."
+    },
+    {
+      "id": "s04-q004",
+      "page": 3,
+      "prompt": "Trung tâm hoạt động có chức năng nào?",
+      "options": [
+        "Gắn cơ chất và trực tiếp tham gia biến đổi liên kết",
+        "Chỉ tích trữ nước",
+        "Chỉ nối enzym với màng nhân",
+        "Luôn nằm ngoài phân tử enzym"
+      ],
+      "answer": 0,
+      "explanation": "Trung tâm hoạt động là phần nhỏ của enzym trực tiếp tham gia quá trình xúc tác."
+    },
+    {
+      "id": "s04-q005",
+      "page": 3,
+      "prompt": "Các nhóm chức tạo trung tâm hoạt động được sắp xếp như thế nào?",
+      "options": [
+        "Có thể xa nhau ở cấu trúc bậc 1 nhưng gần nhau trong không gian",
+        "Luôn liền nhau trong trình tự axit amin",
+        "Luôn thuộc các tế bào khác nhau",
+        "Luôn cách nhau vô hạn"
+      ],
+      "answer": 0,
+      "explanation": "Sự gấp cuộn đưa các nhóm chức thích hợp đến gần nhau."
+    },
+    {
+      "id": "s04-q006",
+      "page": 4,
+      "prompt": "Ion kim loại nào được nêu ở trung tâm hoạt động của carboxypeptidase A?",
+      "options": [
+        "Zn²⁺",
+        "Na⁺",
+        "K⁺",
+        "Cl⁻"
+      ],
+      "answer": 0,
+      "explanation": "Ví dụ enzym hai cấu tử trong slide có chứa ion Zn²⁺."
+    },
+    {
+      "id": "s04-q007",
+      "page": 5,
+      "prompt": "Coenzym nào được nêu cho lactate dehydrogenase?",
+      "options": [
+        "NAD⁺",
+        "ATP",
+        "Biotin",
+        "Heme"
+      ],
+      "answer": 0,
+      "explanation": "Slide minh họa lactate dehydrogenase với coenzym NAD⁺."
+    },
+    {
+      "id": "s04-q008",
+      "page": 6,
+      "prompt": "Khi chất có khối lượng phân tử nhỏ gắn vào trung tâm dị lập thể, điều gì có thể xảy ra?",
+      "options": [
+        "Thay đổi cấu hình không gian và hoạt tính enzym",
+        "Luôn cắt hết liên kết peptide",
+        "Luôn tạo thành axit nucleic",
+        "Không thể có thay đổi nào"
+      ],
+      "answer": 0,
+      "explanation": "Trung tâm dị lập thể liên hệ sự gắn chất điều hòa với biến đổi cấu hình và hoạt tính."
+    },
+    {
+      "id": "s04-q009",
+      "page": 9,
+      "prompt": "Nhóm nào xúc tác phản ứng chuyển nhóm chức?",
+      "options": [
+        "Transferase",
+        "Hydrolase",
+        "Isomerase",
+        "Ligase"
+      ],
+      "answer": 0,
+      "explanation": "Bảng phân loại trong slide mô tả transferase chuyển nhóm giữa các phân tử."
+    },
+    {
+      "id": "s04-q010",
+      "page": 10,
+      "prompt": "Đặc hiệu tuyệt đối của enzym nghĩa là gì?",
+      "options": [
+        "Chỉ chuyển hóa một cơ chất xác định hoặc cặp cơ chất xác định",
+        "Tác động lên mọi cơ chất với tốc độ bằng nhau",
+        "Không cần cơ chất",
+        "Chỉ phụ thuộc màu sắc dung dịch"
+      ],
+      "answer": 0,
+      "explanation": "Slide định nghĩa đặc hiệu tuyệt đối theo cơ chất và phản ứng xác định."
+    },
+    {
+      "id": "s04-q011",
+      "page": 10,
+      "prompt": "Đặc hiệu lập thể nghĩa là enzym tác động thế nào?",
+      "options": [
+        "Chọn một trong các đồng phân không gian của chất",
+        "Tác động như nhau lên mọi đồng phân",
+        "Chỉ chọn theo thể tích dung dịch",
+        "Không có sự chọn lọc cơ chất"
+      ],
+      "answer": 0,
+      "explanation": "Tính đặc hiệu lập thể gắn với cấu trúc không gian của cơ chất."
+    },
+    {
+      "id": "s04-q012",
+      "page": 11,
+      "prompt": "Đồ thị tốc độ theo nồng độ cơ chất trong slide thể hiện điều gì khi cơ chất tăng cao?",
+      "options": [
+        "Tốc độ tiến tới mức bão hòa",
+        "Tốc độ tăng tuyến tính vô hạn",
+        "Tốc độ luôn bằng không",
+        "Enzym chắc chắn biến thành cơ chất"
+      ],
+      "answer": 0,
+      "explanation": "Đồ thị minh họa giới hạn tốc độ khi các trung tâm enzym được cơ chất chiếm."
+    },
+    {
+      "id": "s04-q013",
+      "page": 12,
+      "prompt": "Cách nào có thể giải tỏa kìm hãm cạnh tranh theo slide?",
+      "options": [
+        "Tăng nồng độ cơ chất",
+        "Loại hết cơ chất",
+        "Giảm lượng cơ chất về không",
+        "Chỉ tăng thể tích ống nghiệm"
+      ],
+      "answer": 0,
+      "explanation": "Cơ chất và chất kìm hãm cạnh tranh cùng vị trí nên tăng cơ chất có thể giảm tác dụng kìm hãm."
+    },
+    {
+      "id": "s04-q014",
+      "page": 12,
+      "prompt": "Chất kìm hãm không cạnh tranh tác động thế nào so với cơ chất?",
+      "options": [
+        "Ở vị trí khác trên enzym",
+        "Luôn cùng vị trí tại trung tâm hoạt động",
+        "Chỉ gắn vào sản phẩm sau phản ứng",
+        "Chỉ làm đổi màu đệm"
+      ],
+      "answer": 0,
+      "explanation": "Slide phân biệt sự tác động lên các vị trí khác nhau trên enzym."
+    },
+    {
+      "id": "s04-q015",
+      "page": 13,
+      "prompt": "Đặc điểm nào cho thấy kìm hãm bất thuận nghịch?",
+      "options": [
+        "Tác dụng vẫn còn sau thẩm tích loại chất kìm hãm",
+        "Tác dụng mất ngay khi tăng một ít cơ chất",
+        "Không tạo tương tác với enzym",
+        "Chỉ xuất hiện khi không có enzym"
+      ],
+      "answer": 0,
+      "explanation": "Slide nêu tiêu chí tác dụng không bị loại bỏ khi đã thẩm tích chất kìm hãm."
+    },
+    {
+      "id": "s04-q016",
+      "page": 14,
+      "prompt": "Chất hoạt hóa enzym có thể tạo ra thay đổi nào?",
+      "options": [
+        "Chuyển enzym hoạt động yếu sang hoạt động mạnh hơn",
+        "Luôn phá hủy hoàn toàn enzym",
+        "Luôn làm mất mọi cơ chất",
+        "Biến sản phẩm thành muối vô cơ"
+      ],
+      "answer": 0,
+      "explanation": "Chất hoạt hóa làm tăng trạng thái hoạt động của enzym."
+    },
+    {
+      "id": "s04-q017",
+      "page": 14,
+      "prompt": "Hoạt hóa gián tiếp được mô tả bằng cơ chế nào?",
+      "options": [
+        "Loại chất kìm hãm khỏi hỗn hợp phản ứng",
+        "Luôn gắn vào trung tâm hoạt động",
+        "Luôn cắt mọi liên kết peptide",
+        "Luôn tăng lượng cơ chất thành vô hạn"
+      ],
+      "answer": 0,
+      "explanation": "Slide phân biệt tác động gián tiếp với tác động trực tiếp lên phân tử enzym."
+    },
+    {
+      "id": "s04-q018",
+      "page": 15,
+      "prompt": "Nhiệt độ tối ưu của enzym được mô tả như thế nào?",
+      "options": [
+        "Khác nhau tùy enzym và nguồn chế phẩm",
+        "Luôn đúng 37 °C với mọi enzym",
+        "Luôn đúng 100 °C",
+        "Không liên quan nguồn enzym"
+      ],
+      "answer": 0,
+      "explanation": "Slide nhấn mạnh sự khác nhau của nhiệt độ tối ưu và đưa ví dụ enzym chịu nhiệt."
+    },
+    {
+      "id": "s04-q019",
+      "page": 16,
+      "prompt": "pH thay đổi có thể ảnh hưởng trung tâm hoạt động qua cơ chế nào?",
+      "options": [
+        "Thay đổi trạng thái ion hóa các nhóm chức",
+        "Chỉ thay đổi màu sắc cơ chất",
+        "Luôn làm tăng số phân tử enzym",
+        "Chỉ làm đổi thể tích dung dịch"
+      ],
+      "answer": 0,
+      "explanation": "Sự ion hóa nhóm chức tại trung tâm hoạt động ảnh hưởng tốc độ phản ứng."
+    },
+    {
+      "id": "s04-q020",
+      "page": 16,
+      "prompt": "pH quá axit hoặc quá kiềm có thể làm gì với enzym?",
+      "options": [
+        "Gây biến tính và giảm vận tốc phản ứng",
+        "Luôn làm enzym bền hơn",
+        "Không bao giờ ảnh hưởng enzym",
+        "Chỉ làm tăng lượng sản phẩm sẵn có"
+      ],
+      "answer": 0,
+      "explanation": "Ngoài ion hóa, pH còn tác động đến độ bền cấu trúc enzym."
+    },
+    {
+      "id": "s04-q021",
+      "page": 17,
+      "prompt": "Enzym nào được minh họa hoạt động ở vùng pH axit mạnh?",
+      "options": [
+        "Pepsin",
+        "Trypsin",
+        "Arginase",
+        "Subtilisin"
+      ],
+      "answer": 0,
+      "explanation": "Đồ thị đặt pepsin ở vùng pH thấp, khác với trypsin ở vùng kiềm."
+    },
+    {
+      "id": "s04-q022",
+      "page": 18,
+      "prompt": "Ví dụ tinh chế enzym cuối file sử dụng phương pháp nào?",
+      "options": [
+        "Sắc ký trao đổi anion trên FPLC",
+        "Chỉ ly tâm máu",
+        "Chỉ thử Benedict",
+        "Chỉ chuẩn độ axit béo"
+      ],
+      "answer": 0,
+      "explanation": "Slide cuối minh họa cột Mono Q trong hệ FPLC dùng trao đổi anion."
+    }
+  ]
+}

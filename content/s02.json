@@ -1,0 +1,223 @@
+{
+  "id": "s02",
+  "title": "Enzym 1 · Phân loại và đo hoạt độ",
+  "group": "Enzym học lâm sàng",
+  "description": "Phân nhóm phản ứng, đơn vị đo và điều kiện xác định hoạt độ.",
+  "sections": [
+    {
+      "title": "Vị trí và phân loại",
+      "from": 4,
+      "to": 7,
+      "points": [
+        "Enzym ngoại bào được tiết ra ngoài; enzym nội bào khu trú trong tế bào; slide còn giới thiệu enzym chu chất.",
+        "Bộ slide trình bày 6 nhóm phản ứng: oxidoreductase, transferase, hydrolase, lyase, isomerase và ligase.",
+        "Tên hệ thống của enzym kết hợp tên cơ chất với kiểu phản ứng."
+      ]
+    },
+    {
+      "title": "Đơn vị đo",
+      "from": 10,
+      "to": 12,
+      "points": [
+        "Hoạt độ phải gắn với lượng sản phẩm, thời gian và điều kiện phản ứng xác định.",
+        "1 IU tương ứng 1 µmol/phút; 1 katal tương ứng 1 mol/giây; 1 µkatal/L = 60 U/L.",
+        "Hoạt độ riêng là số đơn vị hoạt độ trên một đơn vị khối lượng protein của chế phẩm."
+      ]
+    },
+    {
+      "title": "Điều kiện phép đo",
+      "from": 13,
+      "to": 15,
+      "points": [
+        "Chọn giai đoạn có quan hệ tuyến tính giữa thời gian, lượng enzym và lượng sản phẩm.",
+        "Giữ pH ổn định; đưa cơ chất, enzym và đệm về nhiệt độ phân tích trước phản ứng.",
+        "Dùng cơ chất dư; bổ sung dư cofactor hoặc coenzym nếu enzym cần.",
+        "Chọn cách dừng phản ứng thích hợp và có mẫu kiểm chứng; chuẩn bị, bảo quản dịch enzym và cơ chất tốt."
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "s02-q001",
+      "page": 5,
+      "prompt": "Enzym ngoại bào là enzym như thế nào?",
+      "options": [
+        "Được tiết ra bên ngoài tế bào",
+        "Chỉ tồn tại trong nhân",
+        "Luôn gắn với DNA",
+        "Chỉ nằm trong ti thể"
+      ],
+      "answer": 0,
+      "explanation": "Slide phân biệt enzym ngoại bào với enzym khu trú bên trong tế bào."
+    },
+    {
+      "id": "s02-q002",
+      "page": 6,
+      "prompt": "Trong bảng phân loại của slide, hydrolase xúc tác kiểu phản ứng nào?",
+      "options": [
+        "Thủy phân",
+        "Oxy hóa khử",
+        "Sắp xếp nội phân tử",
+        "Gắn hai phân tử bằng năng lượng XTP"
+      ],
+      "answer": 0,
+      "explanation": "Hydrolase là nhóm xúc tác phản ứng thủy phân."
+    },
+    {
+      "id": "s02-q003",
+      "page": 6,
+      "prompt": "Nhóm transferase có chức năng nào?",
+      "options": [
+        "Chuyển nhóm chức giữa các phân tử",
+        "Chỉ thủy phân protein",
+        "Chỉ tạo đồng phân cis–trans",
+        "Chỉ gắn hai phân tử bằng ATP"
+      ],
+      "answer": 0,
+      "explanation": "Bảng phân loại mô tả transferase chuyển nhóm từ phân tử này sang phân tử khác."
+    },
+    {
+      "id": "s02-q004",
+      "page": 6,
+      "prompt": "Oxidoreductase xúc tác phản ứng nào?",
+      "options": [
+        "Oxy hóa khử",
+        "Thủy phân",
+        "Tạo đồng phân",
+        "Gắn nhóm đường bằng thủy phân"
+      ],
+      "answer": 0,
+      "explanation": "Oxidoreductase được trình bày là nhóm enzym oxy hóa khử."
+    },
+    {
+      "id": "s02-q005",
+      "page": 7,
+      "prompt": "Isomerase xúc tác quá trình nào?",
+      "options": [
+        "Sắp xếp nội phân tử",
+        "Thủy phân bắt buộc bằng nước",
+        "Vận chuyển oxy trong máu",
+        "Tạo liên kết bằng XTP trong mọi trường hợp"
+      ],
+      "answer": 0,
+      "explanation": "Slide mô tả isomerase gắn với sự sắp xếp trong một phân tử."
+    },
+    {
+      "id": "s02-q006",
+      "page": 7,
+      "prompt": "Nhóm enzym nào gắn hai phân tử với sự sử dụng liên kết giàu năng lượng của XTP?",
+      "options": [
+        "Ligase",
+        "Hydrolase",
+        "Isomerase",
+        "Oxidoreductase"
+      ],
+      "answer": 0,
+      "explanation": "Ligase được minh họa bằng phản ứng nối hai phân tử có tiêu tốn năng lượng XTP."
+    },
+    {
+      "id": "s02-q007",
+      "page": 7,
+      "prompt": "Tên hệ thống của enzym được xây dựng từ những thành phần nào?",
+      "options": [
+        "Tên cơ chất và tên kiểu phản ứng",
+        "Tên tác giả và năm phát hiện",
+        "Tên mô và màu dung dịch",
+        "Nhiệt độ và thể tích mẫu"
+      ],
+      "answer": 0,
+      "explanation": "Slide phân biệt tên thường gọi với tên hệ thống gồm cơ chất và kiểu phản ứng."
+    },
+    {
+      "id": "s02-q008",
+      "page": 12,
+      "prompt": "Hoạt độ riêng của một chế phẩm được biểu thị trên cơ sở nào?",
+      "options": [
+        "Đơn vị hoạt độ trên khối lượng protein",
+        "Khối lượng protein trên thể tích nước",
+        "Số tế bào trên khối lượng lipid",
+        "Thể tích đệm trên số phân tử cơ chất"
+      ],
+      "answer": 0,
+      "explanation": "Hoạt độ riêng quy hoạt độ về một đơn vị khối lượng protein của chế phẩm."
+    },
+    {
+      "id": "s02-q009",
+      "page": 12,
+      "prompt": "Theo hệ số quy đổi của slide, 2 µkatal/L bằng bao nhiêu U/L?",
+      "options": [
+        "120 U/L",
+        "30 U/L",
+        "60 U/L",
+        "2 U/L"
+      ],
+      "answer": 0,
+      "explanation": "Slide cho 1 µkatal/L = 60 U/L, nên 2 × 60 = 120 U/L."
+    },
+    {
+      "id": "s02-q010",
+      "page": 13,
+      "prompt": "Vì sao ưu tiên đo trong giai đoạn đầu của phản ứng enzym?",
+      "options": [
+        "Sự tạo sản phẩm còn tuyến tính theo thời gian",
+        "Enzym chắc chắn đã biến tính hết",
+        "Cơ chất đã cạn hoàn toàn",
+        "Phản ứng nghịch luôn chiếm ưu thế"
+      ],
+      "answer": 0,
+      "explanation": "Phản ứng kéo dài có thể gây biến tính enzym, tiêu hao cơ chất và tăng ảnh hưởng phản ứng nghịch."
+    },
+    {
+      "id": "s02-q011",
+      "page": 14,
+      "prompt": "Khi xác định hoạt độ, vì sao cần dùng cơ chất dư?",
+      "options": [
+        "Để biến đổi lượng sản phẩm trong thời gian đo phụ thuộc vào lượng enzym",
+        "Để lượng cơ chất trở thành yếu tố giới hạn chính",
+        "Để loại bỏ mọi nhu cầu kiểm soát pH",
+        "Để dừng ngay phản ứng"
+      ],
+      "answer": 0,
+      "explanation": "Slide yêu cầu cơ chất dư nhằm đo sự phụ thuộc của lượng sản phẩm vào nồng độ enzym."
+    },
+    {
+      "id": "s02-q012",
+      "page": 14,
+      "prompt": "Trước khi trộn bắt đầu phản ứng, các dung dịch cần được chuẩn bị thế nào?",
+      "options": [
+        "Đạt nhiệt độ phân tích",
+        "Được đun sôi hết",
+        "Được làm đông tất cả",
+        "Có pH khác nhau tùy ý"
+      ],
+      "answer": 0,
+      "explanation": "Cơ chất, enzym và dung dịch đệm đều phải đạt nhiệt độ phân tích trước khi tiếp xúc."
+    },
+    {
+      "id": "s02-q013",
+      "page": 14,
+      "prompt": "Nếu enzym cần coenzym hoặc cofactor, slide yêu cầu điều gì khi đo?",
+      "options": [
+        "Dùng dư coenzym hoặc cofactor cần thiết",
+        "Loại bỏ toàn bộ coenzym",
+        "Chỉ bổ sung sau khi dừng phản ứng",
+        "Thay bằng cùng thể tích nước"
+      ],
+      "answer": 0,
+      "explanation": "Điều kiện đo cần tránh việc thiếu thành phần hỗ trợ trở thành yếu tố giới hạn."
+    },
+    {
+      "id": "s02-q014",
+      "page": 15,
+      "prompt": "Mẫu kiểm chứng trong phép xác định hoạt độ có mục đích gì?",
+      "options": [
+        "Giúp tránh sai số do sản phẩm có sẵn hoặc ảnh hưởng ngoài phản ứng cần đo",
+        "Thay thế việc đo mẫu thật",
+        "Làm tăng lượng enzym trong mọi mẫu",
+        "Bỏ qua bước dừng phản ứng"
+      ],
+      "answer": 0,
+      "explanation": "Slide yêu cầu luôn có mẫu kiểm chứng để kiểm soát các nguồn sai số."
+    }
+  ]
+}

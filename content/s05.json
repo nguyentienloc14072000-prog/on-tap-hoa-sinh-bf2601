@@ -1,0 +1,428 @@
+{
+  "id": "s05",
+  "title": "Gluxit · Cấu tạo và tính chất",
+  "group": "Gluxit",
+  "description": "Đường đơn, đồng phân, phản ứng nhận biết và oligosaccharide.",
+  "sections": [
+    {
+      "title": "Khái niệm và phân loại",
+      "from": 1,
+      "to": 13,
+      "points": [
+        "Gluxit gồm các dẫn xuất aldehyde hoặc ketone của rượu đa chức và các chất khi thủy phân tạo những dẫn xuất đó.",
+        "Vai trò: cung cấp, dự trữ năng lượng; tạo cấu trúc; bảo vệ và tham gia tương tác tế bào.",
+        "Theo bảng phân loại trang 10: monosaccharide có 1 đơn vị đường; oligosaccharide có 2–10; polysaccharide có trên 10.",
+        "Aldose có nhóm aldehyde; ketose có nhóm ketone. Glyceraldehyde là aldotriose, fructose là ketohexose."
+      ]
+    },
+    {
+      "title": "Cấu trúc và tạo vòng",
+      "from": 14,
+      "to": 34,
+      "points": [
+        "Slide trình bày các cấu trúc mạch thẳng và dạng vòng của monosaccharide.",
+        "Phản ứng giữa aldehyde và alcohol tạo hemiacetal; giữa ketone và alcohol tạo hemiketal.",
+        "Furanose có vòng 5 cạnh; pyranose có vòng 6 cạnh.",
+        "Hai dạng α và β của glucopyranose khác nhau tại C1; hình fructofuranose minh họa sự khác nhau tại C2."
+      ]
+    },
+    {
+      "title": "Tính chất và nhận biết",
+      "from": 35,
+      "to": 49,
+      "points": [
+        "Đường đơn tan trong nước; độ hòa tan phụ thuộc loại đường và nhiệt độ.",
+        "Sucrose được chọn làm chuẩn so sánh độ ngọt trong bảng của slide.",
+        "Fehling, Benedict và DNS được giới thiệu dựa trên tính khử; phép glucose oxidase–peroxidase dùng định lượng glucose.",
+        "Khử nhóm carbonyl của glucose tạo sorbitol; nhóm OH có thể tạo liên kết glycosid hoặc este phosphate."
+      ]
+    },
+    {
+      "title": "Biến đổi khi gia nhiệt",
+      "from": 50,
+      "to": 57,
+      "points": [
+        "Trong môi trường axit mạnh, phản ứng loại nước có thể tạo hợp chất furan như HMF.",
+        "Caramel hóa gồm loại nước và các phản ứng tiếp theo tạo màu, mùi.",
+        "Maillard là phản ứng tạo màu phi enzym giữa nhóm amin và hợp chất carbonyl; các sản phẩm trung gian có thể tạo melanoidin màu nâu."
+      ]
+    },
+    {
+      "title": "Oligosaccharide",
+      "from": 58,
+      "to": 65,
+      "points": [
+        "Disaccharide còn nhóm lactol tự do có tính khử; nếu hai nhóm lactol cùng tham gia liên kết thì không có tính khử.",
+        "Maltose và cellobiose đều cấu tạo từ hai gốc glucose nhưng khác liên kết α-1,4 và β-1,4.",
+        "Saccharose gồm glucose và fructose; slide trình bày sự thủy phân và các enzym tương ứng.",
+        "File hiện kết thúc ở raffinose; phần ghi nhớ và quiz giới hạn ở nội dung đã có trong PDF."
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "s05-q001",
+      "page": 1,
+      "prompt": "Theo slide, gluxit là dẫn xuất của nhóm hợp chất nào?",
+      "options": [
+        "Rượu đa chức",
+        "Chỉ axit béo no",
+        "Chỉ protein hình sợi",
+        "Chỉ muối vô cơ"
+      ],
+      "answer": 0,
+      "explanation": "Định nghĩa liên hệ gluxit với dẫn xuất aldehyde hoặc ketone của rượu đa chức."
+    },
+    {
+      "id": "s05-q002",
+      "page": 2,
+      "prompt": "Vai trò sinh học nào của gluxit được nêu trong slide?",
+      "options": [
+        "Dự trữ, cung cấp năng lượng và chất trao đổi trung gian",
+        "Chỉ xúc tác phân giải protein",
+        "Chỉ vận chuyển đồng trong máu",
+        "Chỉ tổng hợp muối khoáng"
+      ],
+      "answer": 0,
+      "explanation": "Slide liệt kê vai trò năng lượng bên cạnh vai trò cấu trúc, bảo vệ và tương tác tế bào."
+    },
+    {
+      "id": "s05-q003",
+      "page": 10,
+      "prompt": "Theo bảng phân loại ở trang 10, oligosaccharide có bao nhiêu gốc đường đơn?",
+      "options": [
+        "2–10",
+        "Chỉ 1",
+        "Luôn trên 100",
+        "Luôn bằng 20"
+      ],
+      "answer": 0,
+      "explanation": "Bảng phân loại quy oligosaccharide vào nhóm 2–10 gốc đường đơn."
+    },
+    {
+      "id": "s05-q004",
+      "page": 10,
+      "prompt": "Các gốc đường nối với nhau bằng liên kết gì?",
+      "options": [
+        "Glycosid",
+        "Peptide",
+        "Disulfide",
+        "Phosphodiester trong mọi trường hợp"
+      ],
+      "answer": 0,
+      "explanation": "Slide mô tả cầu oxy nối các gốc đường thành liên kết glycosid."
+    },
+    {
+      "id": "s05-q005",
+      "page": 11,
+      "prompt": "Aldose chứa nhóm chức đặc trưng nào?",
+      "options": [
+        "Aldehyde",
+        "Amide",
+        "Thiol",
+        "Phosphate"
+      ],
+      "answer": 0,
+      "explanation": "Sơ đồ phân biệt nhóm aldehyde của aldose với nhóm ketone của ketose."
+    },
+    {
+      "id": "s05-q006",
+      "page": 13,
+      "prompt": "D-Fructose được phân loại như thế nào trong ví dụ?",
+      "options": [
+        "Ketohexose",
+        "Aldotriose",
+        "Aldopentose",
+        "Ketotetrose"
+      ],
+      "answer": 0,
+      "explanation": "Fructose có sáu carbon và nhóm ketone trong hình mạch thẳng."
+    },
+    {
+      "id": "s05-q007",
+      "page": 13,
+      "prompt": "D-Glyceraldehyde thuộc nhóm nào?",
+      "options": [
+        "Aldotriose",
+        "Ketohexose",
+        "Aldohexose",
+        "Ketopentose"
+      ],
+      "answer": 0,
+      "explanation": "Ví dụ xác định glyceraldehyde có ba carbon và nhóm aldehyde."
+    },
+    {
+      "id": "s05-q008",
+      "page": 27,
+      "prompt": "Phản ứng giữa alcohol và aldehyde tạo sản phẩm gì?",
+      "options": [
+        "Hemiacetal",
+        "Hemiketal",
+        "Liên kết peptide",
+        "Triacylglycerol"
+      ],
+      "answer": 0,
+      "explanation": "Slide dùng tên hemiacetal cho sản phẩm giữa alcohol và aldehyde."
+    },
+    {
+      "id": "s05-q009",
+      "page": 29,
+      "prompt": "Phản ứng giữa alcohol và ketone tạo sản phẩm gì?",
+      "options": [
+        "Hemiketal",
+        "Hemiacetal",
+        "Protein",
+        "Muối mật"
+      ],
+      "answer": 0,
+      "explanation": "Slide mô tả sản phẩm cộng alcohol vào ketone là hemiketal."
+    },
+    {
+      "id": "s05-q010",
+      "page": 31,
+      "prompt": "Vòng furanose có bao nhiêu cạnh?",
+      "options": [
+        "5",
+        "3",
+        "4",
+        "6"
+      ],
+      "answer": 0,
+      "explanation": "Hình so sánh furanose năm cạnh với pyranose sáu cạnh."
+    },
+    {
+      "id": "s05-q011",
+      "page": 33,
+      "prompt": "Hai dạng α và β của glucopyranose khác nhau tại carbon nào?",
+      "options": [
+        "C1",
+        "C3",
+        "C5",
+        "C6"
+      ],
+      "answer": 0,
+      "explanation": "Slide ghi rõ hai đồng phân α và β của hemiacetal glucose tại C1."
+    },
+    {
+      "id": "s05-q012",
+      "page": 34,
+      "prompt": "Trong hình fructofuranose, hai dạng α và β khác nhau tại carbon nào?",
+      "options": [
+        "C2",
+        "C1",
+        "C4",
+        "C6"
+      ],
+      "answer": 0,
+      "explanation": "Hình tạo hemiketal nội phân tử của fructose ghi vị trí α và β ở C2."
+    },
+    {
+      "id": "s05-q013",
+      "page": 35,
+      "prompt": "Đường nào được slide nêu có khả năng hút ẩm mạnh nhất trong phần này?",
+      "options": [
+        "Fructose",
+        "Glucose",
+        "Lactose",
+        "Maltose"
+      ],
+      "answer": 0,
+      "explanation": "Trang tính chất hút ẩm nhấn mạnh fructose hút ẩm mạnh nhất."
+    },
+    {
+      "id": "s05-q014",
+      "page": 37,
+      "prompt": "Chất nào được chọn làm chuẩn so sánh độ ngọt trong bảng?",
+      "options": [
+        "Sucrose",
+        "Glycerol",
+        "Albumin",
+        "NaCl"
+      ],
+      "answer": 0,
+      "explanation": "Slide chọn sucrose, còn gọi saccharose, làm chất chuẩn độ ngọt."
+    },
+    {
+      "id": "s05-q015",
+      "page": 39,
+      "prompt": "Phản ứng Fehling khai thác tính chất nào của monosaccharide?",
+      "options": [
+        "Tính khử",
+        "Khả năng tạo liên kết peptide",
+        "Tính chống đông",
+        "Khả năng tạo micelle"
+      ],
+      "answer": 0,
+      "explanation": "Monosaccharide khử ion đồng trong phản ứng, tạo Cu₂O theo sơ đồ."
+    },
+    {
+      "id": "s05-q016",
+      "page": 43,
+      "prompt": "Theo bảng Benedict, dung dịch vẫn màu xanh lam thể hiện điều gì?",
+      "options": [
+        "Không phát hiện đường khử",
+        "Hàm lượng đường khử cao nhất",
+        "Có kết tủa đỏ gạch",
+        "Có lượng protein cao nhất"
+      ],
+      "answer": 0,
+      "explanation": "Bảng quan sát ghi xanh lam là không có đường khử trong phép thử."
+    },
+    {
+      "id": "s05-q017",
+      "page": 44,
+      "prompt": "Thuốc thử DNS trong phần này dùng để làm gì?",
+      "options": [
+        "Định lượng monosaccharide dựa trên tính khử",
+        "Đo albumin bằng điện di",
+        "Định lượng natri",
+        "Tạo lipoprotein"
+      ],
+      "answer": 0,
+      "explanation": "Slide giới thiệu axit 3,5-dinitrosalicylic cho định lượng monosaccharide."
+    },
+    {
+      "id": "s05-q018",
+      "page": 45,
+      "prompt": "Phản ứng glucose oxidase trong slide tạo chất nào để tiếp tục phản ứng hiện màu?",
+      "options": [
+        "H₂O₂",
+        "Ure",
+        "Ammonium sulfate",
+        "Acetyl-CoA"
+      ],
+      "answer": 0,
+      "explanation": "Glucose oxidase tạo gluconic acid và H₂O₂; H₂O₂ tham gia phản ứng với peroxidase."
+    },
+    {
+      "id": "s05-q019",
+      "page": 47,
+      "prompt": "Sản phẩm polyalcohol tạo từ sự khử glucose trong sơ đồ là gì?",
+      "options": [
+        "Sorbitol",
+        "Cholesterol",
+        "Glycine",
+        "Lactate"
+      ],
+      "answer": 0,
+      "explanation": "Sơ đồ chuyển glucose thành D-glucitol, còn gọi sorbitol."
+    },
+    {
+      "id": "s05-q020",
+      "page": 49,
+      "prompt": "Nhóm chức nào của đường đơn có thể tạo este với axit?",
+      "options": [
+        "Nhóm OH alcohol",
+        "Chỉ nguyên tử carbon không có nhóm chức",
+        "Nhóm peptide",
+        "Cầu disulfide"
+      ],
+      "answer": 0,
+      "explanation": "Slide trình bày sự tạo este từ các nhóm OH, gồm các este phosphate."
+    },
+    {
+      "id": "s05-q021",
+      "page": 54,
+      "prompt": "Phản ứng Maillard được xếp vào loại nào?",
+      "options": [
+        "Tạo màu phi enzym",
+        "Xúc tác enzym bắt buộc",
+        "Điện di protein",
+        "Trao đổi ion qua màng"
+      ],
+      "answer": 0,
+      "explanation": "Slide định nghĩa Maillard là phản ứng tạo màu phi enzym."
+    },
+    {
+      "id": "s05-q022",
+      "page": 54,
+      "prompt": "Hai nhóm thành phần tham gia Maillard là gì?",
+      "options": [
+        "Amin và hợp chất carbonyl",
+        "Chỉ nước và oxy",
+        "Chỉ muối NaCl và KCl",
+        "Chỉ cholesterol và phospholipid"
+      ],
+      "answer": 0,
+      "explanation": "Nhóm amin từ axit amin hoặc protein phản ứng với nhóm carbonyl của đường."
+    },
+    {
+      "id": "s05-q023",
+      "page": 57,
+      "prompt": "Sản phẩm màu nâu cuối quá trình Maillard được gọi là gì?",
+      "options": [
+        "Melanoidin",
+        "Hemoglobin",
+        "Bilirubin",
+        "Ceruloplasmin"
+      ],
+      "answer": 0,
+      "explanation": "Slide mô tả ngưng tụ, trùng hợp sản phẩm trung gian tạo melanoidin."
+    },
+    {
+      "id": "s05-q024",
+      "page": 58,
+      "prompt": "Disaccharide không khử hình thành khi nào theo sơ đồ?",
+      "options": [
+        "Hai nhóm lactol cùng tham gia liên kết",
+        "Luôn còn một nhóm lactol tự do",
+        "Chỉ có một gốc đường đơn",
+        "Không có liên kết glycosid"
+      ],
+      "answer": 0,
+      "explanation": "Slide phân biệt lactol–lactol tạo disaccharide không khử với lactol–OH alcohol tạo loại khử."
+    },
+    {
+      "id": "s05-q025",
+      "page": 61,
+      "prompt": "Liên kết giữa hai gốc glucose trong maltose là gì?",
+      "options": [
+        "α-1,4-glucosid",
+        "β-1,4-glucosid",
+        "α-1,6 trong mọi phân tử",
+        "Liên kết peptide"
+      ],
+      "answer": 0,
+      "explanation": "Trang maltose ghi liên kết α-1,4-glucosid."
+    },
+    {
+      "id": "s05-q026",
+      "page": 62,
+      "prompt": "Cellobiose khác maltose ở liên kết nào?",
+      "options": [
+        "Có liên kết β-1,4-glucosid",
+        "Có liên kết peptide",
+        "Không có glucose",
+        "Chỉ có một carbon"
+      ],
+      "answer": 0,
+      "explanation": "Cả hai gồm hai gốc D-glucose, nhưng cellobiose có liên kết β-1,4."
+    },
+    {
+      "id": "s05-q027",
+      "page": 64,
+      "prompt": "Saccharose thủy phân tạo cặp đường nào?",
+      "options": [
+        "Glucose và fructose",
+        "Glucose và galactose",
+        "Hai fructose",
+        "Hai galactose"
+      ],
+      "answer": 0,
+      "explanation": "Sơ đồ thủy phân saccharose tạo D-glucose và D-fructose."
+    },
+    {
+      "id": "s05-q028",
+      "page": 64,
+      "prompt": "Enzym nào được ghi với tên beta-fructofuranosidase?",
+      "options": [
+        "Invertase",
+        "Trypsin",
+        "Lipase",
+        "Catalase"
+      ],
+      "answer": 0,
+      "explanation": "Slide gọi invertase là beta-fructofuranosidase, tác động ở phía fructose của liên kết."
+    }
+  ]
+}

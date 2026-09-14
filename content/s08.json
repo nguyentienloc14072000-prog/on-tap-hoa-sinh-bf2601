@@ -1,0 +1,429 @@
+{
+  "id": "s08",
+  "title": "Nước–khoáng và trao đổi muối nước",
+  "group": "Nước–khoáng",
+  "description": "Dung dịch đệm, điện giải, điều hòa nước và phần phân tích lipid cuối file.",
+  "sections": [
+    {
+      "title": "Nước và dung dịch đệm",
+      "from": 3,
+      "to": 18,
+      "points": [
+        "Nước hòa tan muối và chất tích điện nhờ tương tác tĩnh điện.",
+        "Axit yếu phân ly không hoàn toàn; hằng số Ka mô tả mức độ phân ly.",
+        "Dung dịch đệm hạn chế thay đổi pH khi thêm lượng nhỏ axit hoặc base; pH ảnh hưởng cấu trúc, chức năng phân tử sinh học.",
+        "Slide nêu các hệ đệm phosphate, bicarbonate và axit amin."
+      ]
+    },
+    {
+      "title": "Nước và chất vô cơ trong cơ thể",
+      "from": 19,
+      "to": 33,
+      "points": [
+        "Nước tham gia cấu tạo, phản ứng sinh hóa, vận chuyển, điều hòa nhiệt và bảo vệ.",
+        "Na⁺ là cation chủ yếu ngoài tế bào; K⁺ chủ yếu trong tế bào; Cl⁻ là anion chính ngoài tế bào.",
+        "HCO₃⁻ tham gia đệm và vận chuyển CO₂; phần lớn calcium và phosphate được nêu nằm trong xương.",
+        "Giá trị và tỷ lệ trong bài được học theo chính slide, với điều kiện và đơn vị đi kèm."
+      ]
+    },
+    {
+      "title": "Trao đổi và điều hòa",
+      "from": 34,
+      "to": 44,
+      "points": [
+        "Phân bố nước chịu ảnh hưởng áp suất thẩm thấu, áp lực thủy tĩnh, màng, cân bằng Donnan và áp suất keo.",
+        "Áp suất keo do protein tạo nên; vùng nhiều chất hòa tan có xu hướng hút nước.",
+        "Mỗi ATP của bơm Na⁺/K⁺-ATPase đưa 3 Na⁺ ra ngoài, 2 K⁺ vào trong.",
+        "ADH tăng tái hấp thu nước; aldosteron tăng tái hấp thu Na⁺; ANP thúc đẩy bài tiết Na⁺ và nước."
+      ]
+    },
+    {
+      "title": "Rối loạn nước–điện giải",
+      "from": 45,
+      "to": 50,
+      "points": [
+        "Mất nước là lượng mất vượt lượng vào; ứ nước liên quan dư thừa nước.",
+        "Slide nêu hạ Na⁺ dưới 135 mmol/L và tăng Na⁺ trên 145 mmol/L.",
+        "Hạ K⁺ dưới 3,5 mmol/L; tăng K⁺ trên 5,0 mmol/L theo slide.",
+        "Bài yêu cầu phối hợp thông số điện giải, huyết tương, nước tiểu và bối cảnh để đánh giá rối loạn."
+      ]
+    },
+    {
+      "title": "Phần cuối file: phân tích lipid máu",
+      "from": 51,
+      "to": 56,
+      "points": [
+        "Trang 51–56 của PDF này chuyển sang phân tích triglyceride, cholesterol và HDL-C.",
+        "Phép triglyceride dùng chuỗi enzym và phản ứng hiện màu; phép cholesterol trong slide đo ở 500 nm.",
+        "Định lượng HDL-C: kết tủa các lipoprotein còn lại bằng phosphotungstic acid và Mg²⁺, ly tâm rồi đo phần HDL.",
+        "Câu hỏi phần này giữ nguồn ở PDF Nước–khoáng đúng vị trí tài liệu."
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "s08-q001",
+      "page": 5,
+      "prompt": "Nước hòa tan muối và hợp chất tích điện nhờ tương tác nào?",
+      "options": [
+        "Tĩnh điện",
+        "Chỉ liên kết peptide",
+        "Chỉ liên kết glycosid",
+        "Chỉ cầu disulfide"
+      ],
+      "answer": 0,
+      "explanation": "Slide nêu các tương tác tĩnh điện giải thích khả năng hòa tan này."
+    },
+    {
+      "id": "s08-q002",
+      "page": 12,
+      "prompt": "Ở trạng thái trung tính, quan hệ giữa H⁺ và OH⁻ là gì?",
+      "options": [
+        "Nồng độ H⁺ bằng nồng độ OH⁻",
+        "H⁺ luôn gấp 100 lần OH⁻",
+        "OH⁻ luôn bằng không",
+        "H⁺ luôn bằng 1 mol/L"
+      ],
+      "answer": 0,
+      "explanation": "Slide mô tả trung tính bằng sự bằng nhau của hai nồng độ."
+    },
+    {
+      "id": "s08-q003",
+      "page": 14,
+      "prompt": "Axit yếu trong nước có đặc điểm gì?",
+      "options": [
+        "Phân ly không hoàn toàn",
+        "Luôn phân ly hoàn toàn",
+        "Không bao giờ có H⁺",
+        "Luôn tạo protein"
+      ],
+      "answer": 0,
+      "explanation": "Mức độ phân ly của axit yếu được thể hiện bằng Ka."
+    },
+    {
+      "id": "s08-q004",
+      "page": 16,
+      "prompt": "Đặc điểm của vùng đệm khi chuẩn độ là gì?",
+      "options": [
+        "pH thay đổi không đáng kể khi thêm lượng nhỏ hóa chất chuẩn độ",
+        "pH luôn tăng đúng 7 đơn vị",
+        "pH đổi tối đa ngay khi thêm một giọt",
+        "Dung dịch không còn nước"
+      ],
+      "answer": 0,
+      "explanation": "Khả năng hạn chế biến đổi pH là đặc điểm của vùng đệm."
+    },
+    {
+      "id": "s08-q005",
+      "page": 18,
+      "prompt": "Theo bảng vùng đệm trong slide, acetate dùng ở khoảng pH nào?",
+      "options": [
+        "4–5",
+        "1–2",
+        "8–10",
+        "12–14"
+      ],
+      "answer": 0,
+      "explanation": "Slide nêu acetate 4–5, phosphate 6–7 và borat 8–10."
+    },
+    {
+      "id": "s08-q006",
+      "page": 23,
+      "prompt": "Vai trò điều hòa thân nhiệt của nước được minh họa qua quá trình nào?",
+      "options": [
+        "Mồ hôi và hơi thở",
+        "Chỉ tổng hợp glycogen",
+        "Chỉ tổng hợp cholesterol",
+        "Chỉ tạo kháng thể"
+      ],
+      "answer": 0,
+      "explanation": "Nước tham gia điều hòa thân nhiệt qua mồ hôi và hơi thở theo slide."
+    },
+    {
+      "id": "s08-q007",
+      "page": 24,
+      "prompt": "Nhóm nào được nêu là các chất vô cơ có hàm lượng lớn trong cơ thể?",
+      "options": [
+        "Na, K, Cl, Ca, P, Mg",
+        "Chỉ Cr, Si, Ti",
+        "Chỉ Cu, Zn, iod",
+        "Chỉ carbon của glucose"
+      ],
+      "answer": 0,
+      "explanation": "Slide phân biệt nhóm hàm lượng lớn với vi lượng và siêu vi lượng."
+    },
+    {
+      "id": "s08-q008",
+      "page": 28,
+      "prompt": "Cation chủ yếu ngoài tế bào được nêu là gì?",
+      "options": [
+        "Na⁺",
+        "K⁺",
+        "Fe²⁺",
+        "Zn²⁺"
+      ],
+      "answer": 0,
+      "explanation": "Slide nêu Na⁺ chiếm 90% tổng cation ngoại bào."
+    },
+    {
+      "id": "s08-q009",
+      "page": 29,
+      "prompt": "K⁺ trong cơ thể tồn tại chủ yếu ở đâu?",
+      "options": [
+        "Trong tế bào",
+        "Chỉ trong huyết tương",
+        "Chỉ trong dịch gian bào",
+        "Chỉ trong dịch mật"
+      ],
+      "answer": 0,
+      "explanation": "Slide ghi 98% K⁺ ở trong tế bào, 2% ngoài tế bào."
+    },
+    {
+      "id": "s08-q010",
+      "page": 30,
+      "prompt": "Anion chính của dịch ngoài tế bào là gì?",
+      "options": [
+        "Cl⁻",
+        "Chỉ PO₄³⁻",
+        "Chỉ SO₄²⁻",
+        "Chỉ lactate"
+      ],
+      "answer": 0,
+      "explanation": "Slide nêu chloride là anion chính ngoài tế bào."
+    },
+    {
+      "id": "s08-q011",
+      "page": 31,
+      "prompt": "HCO₃⁻ có vai trò nào được trình bày?",
+      "options": [
+        "Tham gia hệ đệm và vận chuyển CO₂",
+        "Chỉ vận chuyển oxy bằng heme",
+        "Chỉ cấu tạo kháng thể",
+        "Chỉ thủy phân protein"
+      ],
+      "answer": 0,
+      "explanation": "Bicarbonate gắn với cân bằng acid–base và vận chuyển CO₂ về phổi."
+    },
+    {
+      "id": "s08-q012",
+      "page": 32,
+      "prompt": "Theo slide, khoảng bao nhiêu calcium của cơ thể nằm trong xương?",
+      "options": [
+        "99%",
+        "1%",
+        "25%",
+        "50%"
+      ],
+      "answer": 0,
+      "explanation": "Trang calcium nêu 99% trong xương."
+    },
+    {
+      "id": "s08-q013",
+      "page": 37,
+      "prompt": "Áp suất keo được tạo ra bởi thành phần nào?",
+      "options": [
+        "Protein",
+        "Chỉ glucose",
+        "Chỉ NaCl",
+        "Chỉ ure"
+      ],
+      "answer": 0,
+      "explanation": "Slide phân biệt áp suất keo do protein với các đóng góp thẩm thấu khác."
+    },
+    {
+      "id": "s08-q014",
+      "page": 37,
+      "prompt": "Khu vực có áp suất thẩm thấu cao có xu hướng nào?",
+      "options": [
+        "Hút nước vào khu vực đó",
+        "Luôn đẩy nước ra khỏi khu vực đó",
+        "Không có chất hòa tan",
+        "Không liên quan nước"
+      ],
+      "answer": 0,
+      "explanation": "Nồng độ chất hòa tan lớn tạo xu hướng hút nước theo mô tả của slide."
+    },
+    {
+      "id": "s08-q015",
+      "page": 38,
+      "prompt": "Áp lực thủy tĩnh có xu hướng tác động lên nước như thế nào?",
+      "options": [
+        "Đẩy nước ra xa khu vực áp suất cao",
+        "Luôn hút nước vào khu vực áp suất cao",
+        "Chỉ làm biến tính enzym",
+        "Chỉ đổi nồng độ hemoglobin"
+      ],
+      "answer": 0,
+      "explanation": "Slide mô tả áp lực thủy tĩnh đẩy nước để giảm áp."
+    },
+    {
+      "id": "s08-q016",
+      "page": 39,
+      "prompt": "Một điều kiện của cân bằng Donnan được nêu là gì?",
+      "options": [
+        "Tổng điện tích dương bằng tổng điện tích âm ở mỗi phía màng",
+        "Mọi ion phải biến mất",
+        "Hai phía không được có nước",
+        "Mọi phân tử protein phải qua màng"
+      ],
+      "answer": 0,
+      "explanation": "Định luật Donnan thứ hai trong slide là điều kiện trung hòa điện mỗi phía."
+    },
+    {
+      "id": "s08-q017",
+      "page": 41,
+      "prompt": "Một ATP của bơm Na⁺/K⁺-ATPase vận chuyển thế nào?",
+      "options": [
+        "3 Na⁺ ra ngoài và 2 K⁺ vào trong",
+        "2 Na⁺ ra ngoài và 3 K⁺ vào trong",
+        "3 Na⁺ vào trong và 2 K⁺ ra ngoài",
+        "1 Na⁺ và 1 K⁺ cùng ra ngoài"
+      ],
+      "answer": 0,
+      "explanation": "Slide ghi rõ tỷ lệ vận chuyển 3 Na⁺/2 K⁺ cho một ATP."
+    },
+    {
+      "id": "s08-q018",
+      "page": 42,
+      "prompt": "Khi áp suất thẩm thấu tăng 1–2%, phản ứng được nêu là gì?",
+      "options": [
+        "Kích thích bài tiết ADH",
+        "Luôn ngừng tạo ADH",
+        "Ngừng hoàn toàn cảm giác khát",
+        "Loại bỏ toàn bộ K⁺ nội bào"
+      ],
+      "answer": 0,
+      "explanation": "Slide mô tả đáp ứng cảm nhận thẩm thấu kích thích ADH."
+    },
+    {
+      "id": "s08-q019",
+      "page": 43,
+      "prompt": "ADH giảm sẽ dẫn tới thay đổi nào được nêu?",
+      "options": [
+        "Giảm tái hấp thu nước ở thận",
+        "Tăng tái hấp thu nước ở mọi mức",
+        "Không còn nước tiểu",
+        "Tăng tổng hợp albumin trực tiếp"
+      ],
+      "answer": 0,
+      "explanation": "ADH giảm làm nước bị đào thải qua đường tiểu nhiều hơn theo mô tả."
+    },
+    {
+      "id": "s08-q020",
+      "page": 43,
+      "prompt": "Aldosteron có tác động nào trong bài?",
+      "options": [
+        "Tăng tái hấp thu natri ở thận",
+        "Giảm mọi tái hấp thu natri",
+        "Chỉ vận chuyển oxy",
+        "Chỉ tạo kháng thể"
+      ],
+      "answer": 0,
+      "explanation": "Aldosteron được nêu là hormon tăng tái hấp thu Na⁺."
+    },
+    {
+      "id": "s08-q021",
+      "page": 43,
+      "prompt": "ANP có tác động nào?",
+      "options": [
+        "Tăng bài tiết Na⁺ và nước",
+        "Giữ lại mọi Na⁺ và nước",
+        "Chỉ tăng tổng hợp ure",
+        "Chỉ tăng phân giải hemoglobin"
+      ],
+      "answer": 0,
+      "explanation": "Slide mô tả ANP tăng lọc và giảm tái hấp thu Na⁺ ở thận."
+    },
+    {
+      "id": "s08-q022",
+      "page": 46,
+      "prompt": "Mất nước được định nghĩa như thế nào?",
+      "options": [
+        "Nước mất vượt quá lượng nước vào",
+        "Lượng nước vào luôn nhiều hơn mất",
+        "Chỉ có khi ngừng ăn",
+        "Chỉ khi sodium bằng không"
+      ],
+      "answer": 0,
+      "explanation": "Định nghĩa trong slide dựa trên cân bằng vào–ra."
+    },
+    {
+      "id": "s08-q023",
+      "page": 48,
+      "prompt": "Theo ngưỡng trong slide, hạ Na⁺ máu là khi nào?",
+      "options": [
+        "Dưới 135 mmol/L",
+        "Trên 145 mmol/L",
+        "Trên 150 mmol/L",
+        "Đúng 140 mmol/L"
+      ],
+      "answer": 0,
+      "explanation": "Trang rối loạn Na⁺ dùng ngưỡng dưới 135 mmol/L."
+    },
+    {
+      "id": "s08-q024",
+      "page": 49,
+      "prompt": "Theo slide, tăng K⁺ máu là khi nào?",
+      "options": [
+        "Trên 5,0 mmol/L",
+        "Dưới 3,5 mmol/L",
+        "Đúng 2,0 mmol/L",
+        "Dưới 1,0 mmol/L"
+      ],
+      "answer": 0,
+      "explanation": "Slide ghi tăng K⁺ máu trên 5,0 mmol/L."
+    },
+    {
+      "id": "s08-q025",
+      "page": 50,
+      "prompt": "Tăng hormon PTH được liên hệ với thay đổi calcium nào?",
+      "options": [
+        "Tăng Ca máu",
+        "Luôn giảm Ca máu",
+        "Không ảnh hưởng Ca",
+        "Biến toàn bộ Ca thành Na"
+      ],
+      "answer": 0,
+      "explanation": "Slide liên hệ cường cận giáp, tăng PTH với tăng Ca máu."
+    },
+    {
+      "id": "s08-q026",
+      "page": 54,
+      "prompt": "Sản phẩm hiện màu của phép phân tích triglyceride được nêu có màu gì?",
+      "options": [
+        "Hồng",
+        "Tím đậm",
+        "Đen",
+        "Không màu trong mọi trường hợp"
+      ],
+      "answer": 0,
+      "explanation": "Slide ghi màu hồng, hấp thụ ở 492–550 nm."
+    },
+    {
+      "id": "s08-q027",
+      "page": 55,
+      "prompt": "Phép phân tích cholesterol toàn phần trong slide đo ở bước sóng nào?",
+      "options": [
+        "500 nm",
+        "280 nm",
+        "340 nm",
+        "595 nm"
+      ],
+      "answer": 0,
+      "explanation": "Trang 55 nêu đo ở 500 nm."
+    },
+    {
+      "id": "s08-q028",
+      "page": 56,
+      "prompt": "Trước khi đo HDL-C, chất nào được dùng để kết tủa các lipoprotein còn lại?",
+      "options": [
+        "Phosphotungstic acid và Mg²⁺",
+        "Chỉ nước cất",
+        "Ninhydrin",
+        "Urease và cơ chất ure"
+      ],
+      "answer": 0,
+      "explanation": "Slide yêu cầu kết tủa rồi ly tâm, thu phần HDL để đo cholesterol."
+    }
+  ]
+}

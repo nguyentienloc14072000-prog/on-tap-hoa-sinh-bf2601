@@ -1,0 +1,546 @@
+{
+  "id": "s06",
+  "title": "Axit amin, peptide và protein huyết thanh",
+  "group": "Protein",
+  "description": "Cấu trúc, chuyển hóa, protein máu và phương pháp phân tích.",
+  "sections": [
+    {
+      "title": "Axit amin và peptide",
+      "from": 4,
+      "to": 34,
+      "points": [
+        "Đặc tính axit amin phụ thuộc mạch bên R; ở điều kiện sinh lý thường tồn tại dạng lưỡng cực.",
+        "Axit amin ở tế bào động vật có vú chủ yếu là dạng L; axit amin thiết yếu là loại cơ thể không tổng hợp được.",
+        "Liên kết peptide là liên kết CO–NH giữa các axit amin.",
+        "Ninhydrin dùng nhận biết axit amin; OPA tạo dẫn xuất huỳnh quang để phân tích."
+      ]
+    },
+    {
+      "title": "Cấu trúc và tính chất protein",
+      "from": 35,
+      "to": 61,
+      "points": [
+        "Bậc 1: thành phần và trình tự axit amin; bậc 2: xoắn α hoặc gấp β được ổn định bởi liên kết hydro.",
+        "Bậc 3 là cấu trúc không gian; bậc 4 là sự sắp xếp nhiều đơn vị cấu trúc bậc 3.",
+        "Tại pH = pI, protein trung hòa điện và có độ tan thấp; khi pH khác pI, điện tích và độ tan thay đổi.",
+        "Muối nồng độ cao có thể gây salting out. Biến tính làm thay đổi cấu trúc bậc cao và hoạt tính.",
+        "Protein hấp thụ ở 280 nm nhờ axit amin thơm; phản ứng Biuret liên quan liên kết peptide và tạo phức màu tím."
+      ]
+    },
+    {
+      "title": "Vai trò và phân loại",
+      "from": 62,
+      "to": 75,
+      "points": [
+        "Protein có chức năng xúc tác, vận chuyển, bảo vệ, điều hòa và cấu trúc.",
+        "Protein đơn giản chỉ có axit amin; protein phức còn có phần phi protein.",
+        "Phân biệt dạng sợi và dạng cầu; cấu trúc protein phù hợp với chức năng, môi trường tồn tại."
+      ]
+    },
+    {
+      "title": "Chuyển hóa axit amin",
+      "from": 77,
+      "to": 99,
+      "points": [
+        "Thoái hóa nhóm amin gồm trao đổi amin và khử amin oxy hóa; α-ketoglutarate là chất nhận amin phổ biến.",
+        "Glutamate dehydrogenase xúc tác khử amin oxy hóa glutamate, dùng NAD⁺ hoặc NADP⁺.",
+        "NH₃/NH₄⁺ được chuyển dưới dạng glutamine; chu trình ure diễn ra ở gan, gồm bước trong ti thể và bào tương.",
+        "Decarboxylase loại nhóm carboxyl dưới dạng CO₂, tạo amin sinh học.",
+        "PKU được trình bày liên quan thiếu phenylalanine hydroxylase."
+      ]
+    },
+    {
+      "title": "Protein máu",
+      "from": 101,
+      "to": 124,
+      "points": [
+        "Máu gồm tế bào máu và huyết tương; huyết thanh là phần dịch thu sau đông máu.",
+        "Albumin tổng hợp ở gan, duy trì áp suất thẩm thấu và vận chuyển các chất kém hòa tan.",
+        "Globulin miễn dịch là kháng thể; IgG có thể qua nhau thai, IgA có trong dịch tiết, IgM xuất hiện sớm trong đáp ứng được mô tả.",
+        "Haptoglobin vận chuyển hemoglobin tự do; hemopexin vận chuyển hem; ceruloplasmin vận chuyển đồng; transferrin vận chuyển sắt.",
+        "CRP liên quan quá trình viêm; cystatin C là chỉ thị đánh giá mức lọc cầu thận."
+      ]
+    },
+    {
+      "title": "Phân tích protein",
+      "from": 125,
+      "to": 146,
+      "points": [
+        "SDS-PAGE giúp phân tích các băng protein; SDS tạo điện tích âm, β-mercaptoethanol tác động lên cầu disulfide.",
+        "Lowry dùng thuốc thử Folin–Ciocalteau; Bradford dùng Coomassie Brilliant Blue G-250, đo ở 595 nm.",
+        "Kjeldahl xác định nitơ tổng số rồi quy đổi thành protein theo hệ số phù hợp.",
+        "Sắc ký trao đổi ion dựa trên điện tích; lọc gel dựa trên kích thước; ái lực dựa trên tính gắn đặc hiệu."
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "s06-q001",
+      "page": 4,
+      "prompt": "Yếu tố nào quyết định nhiều đặc tính của một axit amin?",
+      "options": [
+        "Mạch bên R",
+        "Chỉ số trang trong slide",
+        "Thể tích mẫu",
+        "Màu của đệm"
+      ],
+      "answer": 0,
+      "explanation": "Slide nhấn mạnh đặc tính axit amin phụ thuộc mạch bên R."
+    },
+    {
+      "id": "s06-q002",
+      "page": 5,
+      "prompt": "Axit amin trong tế bào động vật có vú chủ yếu ở dạng nào?",
+      "options": [
+        "L",
+        "D",
+        "Chỉ dạng vòng",
+        "Không có cấu trúc lập thể"
+      ],
+      "answer": 0,
+      "explanation": "Slide ghi axit amin chủ yếu là dạng L."
+    },
+    {
+      "id": "s06-q003",
+      "page": 13,
+      "prompt": "Axit amin thiết yếu là loại nào?",
+      "options": [
+        "Cơ thể không thể tổng hợp được",
+        "Chỉ có trong vi khuẩn",
+        "Không tham gia protein",
+        "Luôn không có nitơ"
+      ],
+      "answer": 0,
+      "explanation": "Tính thiết yếu được định nghĩa bằng khả năng tự tổng hợp của cơ thể."
+    },
+    {
+      "id": "s06-q004",
+      "page": 16,
+      "prompt": "Cặp chất nào là chất trung gian trong sinh tổng hợp arginine và chu trình ure?",
+      "options": [
+        "Ornithine và citrulline",
+        "Glucose và fructose",
+        "Cholesterol và glycerol",
+        "Albumin và globulin"
+      ],
+      "answer": 0,
+      "explanation": "Slide giới thiệu ornithine và citrulline không thuộc các axit amin cấu tạo protein thông thường."
+    },
+    {
+      "id": "s06-q005",
+      "page": 27,
+      "prompt": "Liên kết peptide có nhóm liên kết nào?",
+      "options": [
+        "CO–NH",
+        "S–S",
+        "C–O–P trong mọi trường hợp",
+        "Na–Cl"
+      ],
+      "answer": 0,
+      "explanation": "Slide minh họa liên kết CO–NH khi các axit amin liên kết."
+    },
+    {
+      "id": "s06-q006",
+      "page": 28,
+      "prompt": "Phản ứng nào được nêu để nhận biết axit amin?",
+      "options": [
+        "Ninhydrin",
+        "Benedict",
+        "Friedewald",
+        "Xà phòng hóa"
+      ],
+      "answer": 0,
+      "explanation": "Slide gọi ninhydrin là phản ứng đặc trưng để nhận biết axit amin."
+    },
+    {
+      "id": "s06-q007",
+      "page": 36,
+      "prompt": "Cấu trúc bậc 1 mô tả điều gì?",
+      "options": [
+        "Thành phần và trình tự axit amin",
+        "Sự sắp xếp nhiều tiểu đơn vị",
+        "Chỉ dạng xoắn α",
+        "Chỉ tương tác protein với lipid"
+      ],
+      "answer": 0,
+      "explanation": "Bậc 1 là chuỗi axit amin liên kết bằng liên kết peptide."
+    },
+    {
+      "id": "s06-q008",
+      "page": 38,
+      "prompt": "Cấu trúc xoắn α và gấp β được gia cố chủ yếu bởi liên kết nào?",
+      "options": [
+        "Hydro",
+        "Glycosid",
+        "Este",
+        "Liên kết ion với NaCl duy nhất"
+      ],
+      "answer": 0,
+      "explanation": "Slide mô tả liên kết hydro ổn định cấu trúc bậc 2."
+    },
+    {
+      "id": "s06-q009",
+      "page": 41,
+      "prompt": "Cấu trúc bậc 4 được mô tả thế nào?",
+      "options": [
+        "Sắp xếp nhiều đơn vị protein bậc 3 thành phức hợp",
+        "Chỉ trình tự axit amin",
+        "Chỉ một liên kết peptide",
+        "Chỉ một nhóm carboxyl"
+      ],
+      "answer": 0,
+      "explanation": "Bậc 4 liên quan sự kết hợp nhiều đơn vị protein."
+    },
+    {
+      "id": "s06-q010",
+      "page": 45,
+      "prompt": "Tại pH = pI, protein có đặc điểm nào?",
+      "options": [
+        "Trung hòa điện và độ tan kém nhất",
+        "Luôn tích điện dương mạnh nhất",
+        "Luôn tích điện âm mạnh nhất",
+        "Luôn tan vô hạn"
+      ],
+      "answer": 0,
+      "explanation": "Slide liên hệ trạng thái đẳng điện với độ tan thấp."
+    },
+    {
+      "id": "s06-q011",
+      "page": 46,
+      "prompt": "Khi pH lớn hơn nhiều so với pI, protein thường mang điện gì?",
+      "options": [
+        "Âm",
+        "Dương",
+        "Luôn bằng không",
+        "Không thể dự đoán từ pH và pI theo slide"
+      ],
+      "answer": 0,
+      "explanation": "Slide mô tả protein bị deproton hóa và mang điện tích âm."
+    },
+    {
+      "id": "s06-q012",
+      "page": 51,
+      "prompt": "Salting out xảy ra theo cơ chế nào được nêu?",
+      "options": [
+        "Muối nồng độ cao liên kết nước, làm protein có xu hướng kết tủa",
+        "Muối biến protein thành glucose",
+        "Muối làm mất toàn bộ nhóm amin",
+        "Protein luôn tăng tan vô hạn khi thêm muối"
+      ],
+      "answer": 0,
+      "explanation": "Sự cạnh tranh tương tác với nước làm giảm hòa tan protein."
+    },
+    {
+      "id": "s06-q013",
+      "page": 52,
+      "prompt": "Biến tính protein chủ yếu liên quan sự thay đổi cấu trúc nào?",
+      "options": [
+        "Bậc 2, 3 và 4",
+        "Chỉ số nguyên tử carbon trong mọi axit amin",
+        "Chỉ công thức của nước",
+        "Luôn cắt hết cấu trúc bậc 1"
+      ],
+      "answer": 0,
+      "explanation": "Slide định nghĩa biến tính bằng phá hủy một phần hoặc toàn bộ cấu trúc bậc cao."
+    },
+    {
+      "id": "s06-q014",
+      "page": 59,
+      "prompt": "Protein hấp thụ ở bước sóng 280 nm chủ yếu nhờ thành phần nào?",
+      "options": [
+        "Axit amin có mạch bên vòng thơm",
+        "Chỉ ion natri",
+        "Chỉ nước liên kết",
+        "Chỉ glycerol"
+      ],
+      "answer": 0,
+      "explanation": "Slide liên hệ hấp thụ 280 nm với axit amin thơm."
+    },
+    {
+      "id": "s06-q015",
+      "page": 60,
+      "prompt": "Phản ứng Biuret tác động lên thành phần nào?",
+      "options": [
+        "Liên kết peptide",
+        "Chỉ axit béo tự do",
+        "Chỉ glucose tự do",
+        "Chỉ cholesterol"
+      ],
+      "answer": 0,
+      "explanation": "Biuret tạo phức màu tím liên quan các liên kết peptide."
+    },
+    {
+      "id": "s06-q016",
+      "page": 67,
+      "prompt": "Protein đơn giản khác protein phức ở điểm nào?",
+      "options": [
+        "Chỉ gồm axit amin",
+        "Bắt buộc có lipid",
+        "Bắt buộc có đường",
+        "Bắt buộc có kim loại"
+      ],
+      "answer": 0,
+      "explanation": "Slide phân loại homoprotein là loại chỉ gồm các axit amin."
+    },
+    {
+      "id": "s06-q017",
+      "page": 80,
+      "prompt": "Trao đổi amin giữa axit amin và keto acid tạo ra gì?",
+      "options": [
+        "Một keto acid và một axit amin mới",
+        "Chỉ nước",
+        "Chỉ lipid",
+        "Hai phân tử cholesterol"
+      ],
+      "answer": 0,
+      "explanation": "Transaminase chuyển nhóm amin giữa hai bộ khung carbon."
+    },
+    {
+      "id": "s06-q018",
+      "page": 81,
+      "prompt": "Chất nhận nhóm amin phổ biến được nêu trong slide là gì?",
+      "options": [
+        "α-Ketoglutarate",
+        "Cholesterol",
+        "Sucrose",
+        "Ure"
+      ],
+      "answer": 0,
+      "explanation": "α-Ketoglutarate nhận nhóm amin để trở thành glutamate."
+    },
+    {
+      "id": "s06-q019",
+      "page": 86,
+      "prompt": "Enzym nào xúc tác khử amin oxy hóa glutamate?",
+      "options": [
+        "Glutamate dehydrogenase",
+        "Lipase",
+        "Amylase",
+        "Trypsin"
+      ],
+      "answer": 0,
+      "explanation": "Slide nêu GLDH với coenzym NAD⁺ hoặc NADP⁺."
+    },
+    {
+      "id": "s06-q020",
+      "page": 88,
+      "prompt": "NH₃/NH₄⁺ có thể được gắn vào glutamate để tạo chất vận chuyển nào?",
+      "options": [
+        "Glutamine",
+        "Glycogen",
+        "Cholesterol",
+        "Albumin"
+      ],
+      "answer": 0,
+      "explanation": "Slide mô tả glutamine theo máu tới gan, thận."
+    },
+    {
+      "id": "s06-q021",
+      "page": 89,
+      "prompt": "Chu trình ure diễn ra ở cơ quan nào?",
+      "options": [
+        "Gan",
+        "Phổi",
+        "Da",
+        "Tuyến nước bọt"
+      ],
+      "answer": 0,
+      "explanation": "Slide nêu chu trình ure ở gan với các bước trong ti thể và bào tương."
+    },
+    {
+      "id": "s06-q022",
+      "page": 93,
+      "prompt": "Decarboxylase tác động lên axit amin tạo nhóm sản phẩm nào?",
+      "options": [
+        "Amin sinh học và CO₂",
+        "Chỉ triglyceride",
+        "Chỉ glycogen",
+        "Chỉ phosphate vô cơ"
+      ],
+      "answer": 0,
+      "explanation": "Phản ứng loại nhóm carboxyl dưới dạng CO₂ tạo amin sinh học."
+    },
+    {
+      "id": "s06-q023",
+      "page": 97,
+      "prompt": "PKU được liên hệ với sự thiếu hụt enzym nào?",
+      "options": [
+        "Phenylalanine hydroxylase",
+        "Amylase",
+        "Lipoprotein lipase",
+        "Catalase"
+      ],
+      "answer": 0,
+      "explanation": "Slide mô tả rối loạn chuyển phenylalanine thành tyrosine do thiếu enzym này."
+    },
+    {
+      "id": "s06-q024",
+      "page": 103,
+      "prompt": "Huyết thanh được mô tả là gì?",
+      "options": [
+        "Phần dịch thu sau khi máu đông",
+        "Toàn bộ các hồng cầu",
+        "Máu chưa tách tế bào",
+        "Chỉ phần protein đã kết tủa"
+      ],
+      "answer": 0,
+      "explanation": "Slide phân biệt huyết thanh với huyết tương và tế bào máu."
+    },
+    {
+      "id": "s06-q025",
+      "page": 109,
+      "prompt": "Albumin được tổng hợp ở đâu?",
+      "options": [
+        "Gan",
+        "Tuyến nước bọt",
+        "Phổi",
+        "Bàng quang"
+      ],
+      "answer": 0,
+      "explanation": "Slide nêu albumin tổng hợp ở gan."
+    },
+    {
+      "id": "s06-q026",
+      "page": 109,
+      "prompt": "Vai trò nào của albumin được nêu trong slide?",
+      "options": [
+        "Duy trì áp suất thẩm thấu và vận chuyển chất kém hòa tan",
+        "Chỉ cắt liên kết peptide",
+        "Chỉ tạo glucose từ tinh bột",
+        "Chỉ tạo kháng nguyên ABO"
+      ],
+      "answer": 0,
+      "explanation": "Albumin giữ vai trò về áp suất thẩm thấu và vận chuyển nhiều chất."
+    },
+    {
+      "id": "s06-q027",
+      "page": 115,
+      "prompt": "Kháng thể nào được mẹ truyền sang trẻ qua nhau thai?",
+      "options": [
+        "IgG",
+        "IgM",
+        "IgA",
+        "IgE"
+      ],
+      "answer": 0,
+      "explanation": "Slide ghi IgG của trẻ sơ sinh có thể có nguồn từ mẹ qua nhau thai."
+    },
+    {
+      "id": "s06-q028",
+      "page": 115,
+      "prompt": "Kháng thể nào được nêu có trong nước bọt, nước mắt và dịch ruột?",
+      "options": [
+        "IgA",
+        "IgD",
+        "IgE",
+        "Chỉ IgM"
+      ],
+      "answer": 0,
+      "explanation": "IgA được trình bày gắn với bảo vệ bề mặt và các dịch tiết."
+    },
+    {
+      "id": "s06-q029",
+      "page": 119,
+      "prompt": "Haptoglobin gắn và vận chuyển thành phần nào?",
+      "options": [
+        "Hemoglobin tự do",
+        "Chỉ cholesterol ester",
+        "Chỉ phosphate",
+        "Chỉ glucose"
+      ],
+      "answer": 0,
+      "explanation": "Haptoglobin gắn hemoglobin tự do để đưa tới khu vực thoái hóa."
+    },
+    {
+      "id": "s06-q030",
+      "page": 120,
+      "prompt": "Ceruloplasmin có chức năng vận chuyển kim loại nào?",
+      "options": [
+        "Đồng",
+        "Natri",
+        "Kali",
+        "Magnesi"
+      ],
+      "answer": 0,
+      "explanation": "Slide nêu ceruloplasmin vận chuyển đồng trong huyết tương."
+    },
+    {
+      "id": "s06-q031",
+      "page": 121,
+      "prompt": "Transferrin vận chuyển chất nào tới tủy xương để tổng hợp hồng cầu?",
+      "options": [
+        "Sắt",
+        "Glucose",
+        "Ure",
+        "Chloride"
+      ],
+      "answer": 0,
+      "explanation": "Transferrin là glycoprotein vận chuyển sắt theo phần mô tả."
+    },
+    {
+      "id": "s06-q032",
+      "page": 122,
+      "prompt": "Cystatin C được dùng làm chỉ thị đánh giá điều gì?",
+      "options": [
+        "Mức lọc cầu thận",
+        "Chỉ nhóm máu ABO",
+        "Chỉ độ ngọt của đường",
+        "Chỉ tốc độ đông đặc lipid"
+      ],
+      "answer": 0,
+      "explanation": "Slide liên hệ cystatin C với đánh giá mức độ lọc ở cầu thận."
+    },
+    {
+      "id": "s06-q033",
+      "page": 129,
+      "prompt": "Trong SDS-PAGE, protein tích điện âm đi về phía nào?",
+      "options": [
+        "Cực dương, anode",
+        "Cực âm, cathode",
+        "Luôn đứng yên tại giếng",
+        "Ngược mọi điện trường"
+      ],
+      "answer": 0,
+      "explanation": "Slide nêu protein di chuyển từ cathode sang anode."
+    },
+    {
+      "id": "s06-q034",
+      "page": 139,
+      "prompt": "Phương pháp Bradford đo phức protein–Coomassie ở bước sóng nào?",
+      "options": [
+        "595 nm",
+        "280 nm",
+        "405 nm",
+        "340 nm"
+      ],
+      "answer": 0,
+      "explanation": "Slide ghi λmax của phức Coomassie–protein là 595 nm."
+    },
+    {
+      "id": "s06-q035",
+      "page": 143,
+      "prompt": "Kjeldahl trực tiếp xác định đại lượng nào trước khi quy đổi thành protein?",
+      "options": [
+        "Nitơ tổng số",
+        "Số liên kết disulfide",
+        "Số tiểu đơn vị protein",
+        "Cholesterol toàn phần"
+      ],
+      "answer": 0,
+      "explanation": "Cần hệ số quy đổi vì Kjeldahl đo nitơ tổng số."
+    },
+    {
+      "id": "s06-q036",
+      "page": 145,
+      "prompt": "Trong sắc ký lọc gel theo slide, protein lớn di chuyển thế nào so với protein nhỏ?",
+      "options": [
+        "Nhanh hơn vì ít đi vào lỗ gel",
+        "Chậm hơn vì luôn đi vào mọi lỗ gel",
+        "Không thể di chuyển",
+        "Luôn có cùng tốc độ"
+      ],
+      "answer": 0,
+      "explanation": "Protein nhỏ đi vào lỗ gel nên theo đường dài hơn và bị làm chậm."
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+.sites-runtime/
+tmp/
+node_modules/
+.env*
+.openai/
+__pycache__/

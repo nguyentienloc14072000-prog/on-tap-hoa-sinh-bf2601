@@ -1,0 +1,573 @@
+{
+  "id": "s07",
+  "title": "Lipid · Cấu trúc và chuyển hóa",
+  "group": "Lipid",
+  "description": "Axit béo, lipoprotein, β-oxy hóa, tổng hợp và rối loạn lipid.",
+  "sections": [
+    {
+      "title": "Cấu tạo và phân loại",
+      "from": 3,
+      "to": 25,
+      "points": [
+        "Lipid ít tan hoặc không tan trong nước, tan trong các dung môi không phân cực được nêu trong slide.",
+        "Phân loại theo khả năng xà phòng hóa, cấu tạo hoặc chức năng.",
+        "Ký hiệu Cx:y mô tả số carbon và số nối đôi; hệ Δ tính từ đầu COOH, hệ omega tính từ đầu CH₃.",
+        "Theo bài, axit béo thiết yếu không được cơ thể tổng hợp và phải cung cấp từ thức ăn; slide nhấn mạnh linoleic, linolenic.",
+        "Cholesterol là sterol quan trọng, tiền chất của hormon và muối mật."
+      ]
+    },
+    {
+      "title": "Lipid đơn giản và phức tạp",
+      "from": 26,
+      "to": 50,
+      "points": [
+        "Glycerit chứa glycerol và axit béo; sáp là este của axit béo với alcohol mạch dài; sterit chứa sterol.",
+        "Lipase thủy phân glycerit; phản ứng xà phòng hóa liên quan liên kết este.",
+        "Halogen cộng vào nối đôi; chỉ số iod liên quan mức độ không no.",
+        "Phospholipid chứa phosphate, glycolipid chứa đường; chúng được trình bày gắn với cấu trúc màng."
+      ]
+    },
+    {
+      "title": "Lipoprotein và vận chuyển",
+      "from": 51,
+      "to": 74,
+      "points": [
+        "Lipoprotein có lõi TAG, cholesterol ester; vỏ gồm phospholipid, apoprotein và cholesterol.",
+        "Chylomicron vận chuyển lipid ngoại sinh; VLDL vận chuyển TAG nội sinh; LDL cung cấp cholesterol cho mô; HDL vận chuyển ngược cholesterol về gan.",
+        "Chylomicron hình thành với ApoB-48; VLDL và LDL liên quan ApoB-100.",
+        "ApoC-II hoạt hóa LPL; ApoE hỗ trợ nhận diện phần tử tàn dư ở gan; ApoA-I hoạt hóa LCAT.",
+        "VLDL mất TAG thành IDL; IDL được gan thu nhận hoặc tiếp tục thành LDL."
+      ]
+    },
+    {
+      "title": "β-oxy hóa",
+      "from": 75,
+      "to": 84,
+      "points": [
+        "Quá trình gồm hoạt hóa, vận chuyển vào ti thể và β-oxy hóa.",
+        "Bốn phản ứng mỗi vòng: khử H lần 1, thêm nước, khử H lần 2 và phân cắt.",
+        "Mỗi vòng tạo FADH₂, NADH, acetyl-CoA và làm ngắn mạch đi hai carbon.",
+        "Với axit béo no mạch chẵn 2n carbon, bài nêu n−1 vòng, n acetyl-CoA và năng lượng ròng 14n−6 ATP.",
+        "Mạch lẻ tạo propionyl-CoA, tiếp tục chuyển thành succinyl-CoA."
+      ]
+    },
+    {
+      "title": "Tổng hợp lipid",
+      "from": 85,
+      "to": 99,
+      "points": [
+        "Tổng hợp axit béo diễn ra khi dư năng lượng, chủ yếu trong bào tương ở gan, mô mỡ và niêm mạc ruột.",
+        "Citrate đưa đơn vị acetyl từ ti thể ra bào tương; acetyl-CoA carboxylase tạo malonyl-CoA.",
+        "FAS kéo dài mạch; mỗi vòng gắn thêm malonyl cần 2 NADPH.",
+        "Tổng hợp triglyceride qua glycerol-3-phosphate và phosphatidic acid; cholesterol có nguồn carbon từ acetyl-CoA."
+      ]
+    },
+    {
+      "title": "Rối loạn lipid máu",
+      "from": 100,
+      "to": 113,
+      "points": [
+        "Slide phân biệt yếu tố di truyền với ảnh hưởng lối sống, bệnh lý, thuốc và hormon.",
+        "Type IIa: tăng cholesterol và LDL; IIb: tăng LDL và VLDL; III: tăng IDL; IV: tăng VLDL và triglyceride.",
+        "Type I/V có thể liên quan bất thường LPL hoặc ApoC-II và chậm thoái hóa chylomicron.",
+        "Các mô tả rối loạn được dùng làm kiến thức ôn tập đúng nội dung bài."
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "s07-q001",
+      "page": 3,
+      "prompt": "Đặc tính hòa tan chung của lipid trong slide là gì?",
+      "options": [
+        "Ít tan trong nước, tan tốt trong dung môi không phân cực",
+        "Tan hoàn toàn trong mọi dung môi",
+        "Chỉ tan trong nước",
+        "Không tan trong bất kỳ dung môi nào"
+      ],
+      "answer": 0,
+      "explanation": "Độ hòa tan là đặc điểm chung được dùng trong định nghĩa lipid."
+    },
+    {
+      "id": "s07-q002",
+      "page": 5,
+      "prompt": "Theo slide, lipid xà phòng hóa được có đặc điểm gì?",
+      "options": [
+        "Có liên kết este",
+        "Không có liên kết este",
+        "Chỉ có ion natri",
+        "Chỉ có liên kết peptide"
+      ],
+      "answer": 0,
+      "explanation": "Phân loại theo xà phòng hóa dựa trên sự có mặt của liên kết este."
+    },
+    {
+      "id": "s07-q003",
+      "page": 7,
+      "prompt": "Lipid phức tạp nào có chứa nhóm đường?",
+      "options": [
+        "Glycolipid",
+        "Sáp",
+        "Sterit",
+        "Glycerit đơn giản"
+      ],
+      "answer": 0,
+      "explanation": "Slide phân biệt glycolipid chứa gluxit với phospholipid và lipoprotein."
+    },
+    {
+      "id": "s07-q004",
+      "page": 11,
+      "prompt": "Axit béo no khác axit béo không no ở điểm nào?",
+      "options": [
+        "Chỉ có nối đơn trong mạch carbon",
+        "Có ít nhất ba nối đôi",
+        "Luôn có mạch vòng",
+        "Không có nhóm COOH"
+      ],
+      "answer": 0,
+      "explanation": "Slide phân biệt no và không no bằng sự có mặt của nối đôi."
+    },
+    {
+      "id": "s07-q005",
+      "page": 13,
+      "prompt": "Trong ký hiệu C18:2, số 2 biểu thị điều gì?",
+      "options": [
+        "Số nối đôi",
+        "Số nguyên tử oxy",
+        "Số nhóm COOH",
+        "Số phân tử alcohol"
+      ],
+      "answer": 0,
+      "explanation": "Công thức Cx:y dùng x là số carbon, y là số nối đôi."
+    },
+    {
+      "id": "s07-q006",
+      "page": 13,
+      "prompt": "Vị trí omega của axit béo được tính từ đầu nào?",
+      "options": [
+        "Đầu CH₃ cuối mạch",
+        "Đầu COOH",
+        "Carbon α của mọi nhóm OH",
+        "Nguyên tử oxy của nước"
+      ],
+      "answer": 0,
+      "explanation": "Slide quy ước carbon cuối CH₃ là Cω."
+    },
+    {
+      "id": "s07-q007",
+      "page": 20,
+      "prompt": "Axit béo nào được gọi là bán thiết yếu vì có thể tổng hợp từ linoleic?",
+      "options": [
+        "Arachidonic",
+        "Palmitic",
+        "Stearic",
+        "Oleic"
+      ],
+      "answer": 0,
+      "explanation": "Slide nêu arachidonic có thể được tổng hợp từ linoleic."
+    },
+    {
+      "id": "s07-q008",
+      "page": 22,
+      "prompt": "Alcohol mạch vòng nào được nêu thuộc nhóm sterol?",
+      "options": [
+        "Cholesterol",
+        "Glycerol",
+        "Methanol",
+        "Ethanol"
+      ],
+      "answer": 0,
+      "explanation": "Cholesterol là ví dụ sterol trong phần các alcohol của lipid."
+    },
+    {
+      "id": "s07-q009",
+      "page": 25,
+      "prompt": "Cholesterol là tiền chất của nhóm chất nào được nêu trong slide?",
+      "options": [
+        "Hormon giới tính và muối mật",
+        "Chỉ các kháng thể",
+        "Chỉ glycogen",
+        "Chỉ axit amin thiết yếu"
+      ],
+      "answer": 0,
+      "explanation": "Slide trình bày cholesterol là tiền chất của androgen, estrogen và muối mật."
+    },
+    {
+      "id": "s07-q010",
+      "page": 30,
+      "prompt": "Enzym nào được nêu trong sự thủy phân glycerit?",
+      "options": [
+        "Lipase",
+        "Amylase",
+        "Transaminase",
+        "Urease"
+      ],
+      "answer": 0,
+      "explanation": "Lipase xúc tác thủy phân lipid theo phần tính chất hóa học."
+    },
+    {
+      "id": "s07-q011",
+      "page": 34,
+      "prompt": "Chỉ số iod liên quan đến đặc điểm nào của chất béo?",
+      "options": [
+        "Mức độ không no của mạch carbon",
+        "Số liên kết peptide",
+        "Hàm lượng nitơ tổng số",
+        "Khối lượng albumin"
+      ],
+      "answer": 0,
+      "explanation": "Halogen phản ứng tại nối đôi nên chỉ số iod phản ánh đặc điểm không no."
+    },
+    {
+      "id": "s07-q012",
+      "page": 36,
+      "prompt": "Hydrogen hóa tác động chủ yếu lên vị trí nào của axit béo?",
+      "options": [
+        "Liên kết đôi",
+        "Chỉ nhóm amin",
+        "Chỉ liên kết peptide",
+        "Chỉ phân tử nước"
+      ],
+      "answer": 0,
+      "explanation": "Quá trình gắn H₂ vào liên kết đôi làm tăng mức độ bão hòa."
+    },
+    {
+      "id": "s07-q013",
+      "page": 39,
+      "prompt": "Muối mật hỗ trợ tiêu hóa chất béo bằng cách nào?",
+      "options": [
+        "Nhũ hóa để chất béo dễ được lipase phân giải",
+        "Biến lipid thành protein trực tiếp",
+        "Chỉ vận chuyển sắt",
+        "Ngăn mọi hoạt động của lipase"
+      ],
+      "answer": 0,
+      "explanation": "Slide nêu vai trò nhũ hóa của dẫn xuất cholesterol là muối mật."
+    },
+    {
+      "id": "s07-q014",
+      "page": 52,
+      "prompt": "Lõi không phân cực của lipoprotein chứa chủ yếu gì?",
+      "options": [
+        "TAG và cholesterol ester",
+        "Chỉ nước và NaCl",
+        "Chỉ protein và glucose",
+        "Chỉ phosphate tự do"
+      ],
+      "answer": 0,
+      "explanation": "Cấu trúc lõi được phân biệt với vỏ phospholipid, apoprotein và cholesterol."
+    },
+    {
+      "id": "s07-q015",
+      "page": 54,
+      "prompt": "ApoB-48 được nêu có trong loại lipoprotein nào?",
+      "options": [
+        "Chylomicron",
+        "Chỉ LDL",
+        "Chỉ HDL",
+        "Chỉ IDL"
+      ],
+      "answer": 0,
+      "explanation": "ApoB-48 liên quan vận chuyển lipid từ ruột trong chylomicron."
+    },
+    {
+      "id": "s07-q016",
+      "page": 56,
+      "prompt": "Lipoprotein nào vận chuyển chủ yếu cholesterol từ mô về gan?",
+      "options": [
+        "HDL",
+        "LDL",
+        "VLDL",
+        "Chylomicron"
+      ],
+      "answer": 0,
+      "explanation": "HDL đảm nhiệm vận chuyển ngược cholesterol theo mô tả của slide."
+    },
+    {
+      "id": "s07-q017",
+      "page": 58,
+      "prompt": "Trong bốn loại ở bảng, loại nào có tỷ trọng nhỏ nhất, kích thước lớn nhất?",
+      "options": [
+        "Chylomicron",
+        "HDL",
+        "LDL",
+        "VLDL"
+      ],
+      "answer": 0,
+      "explanation": "Bảng so sánh nêu rõ đặc điểm này của chylomicron."
+    },
+    {
+      "id": "s07-q018",
+      "page": 65,
+      "prompt": "Chylomicron mới tạo được giải phóng theo đường nào trước khi vào máu?",
+      "options": [
+        "Hệ bạch huyết",
+        "Ống mật",
+        "Khí quản",
+        "Ống niệu quản"
+      ],
+      "answer": 0,
+      "explanation": "Slide mô tả chylomicron từ tế bào ruột vào bạch huyết rồi vào máu."
+    },
+    {
+      "id": "s07-q019",
+      "page": 66,
+      "prompt": "ApoC-II có vai trò gì trong chuyển hóa chylomicron?",
+      "options": [
+        "Kích hoạt lipoprotein lipase",
+        "Trực tiếp tạo hemoglobin",
+        "Ức chế mọi hấp thu lipid",
+        "Tạo liên kết peptide"
+      ],
+      "answer": 0,
+      "explanation": "ApoC-II hoạt hóa LPL để thủy phân triglyceride."
+    },
+    {
+      "id": "s07-q020",
+      "page": 67,
+      "prompt": "ApoE trên chylomicron tàn dư hỗ trợ quá trình nào?",
+      "options": [
+        "Gắn vào thụ thể ở tế bào gan",
+        "Tạo glucose từ CO₂ trực tiếp",
+        "Tổng hợp kháng thể IgG",
+        "Vận chuyển oxy trong hồng cầu"
+      ],
+      "answer": 0,
+      "explanation": "ApoE giúp gan nhận diện, thu nhận và phân giải chylomicron tàn dư."
+    },
+    {
+      "id": "s07-q021",
+      "page": 70,
+      "prompt": "VLDL được tổng hợp chủ yếu ở đâu?",
+      "options": [
+        "Gan",
+        "Phổi",
+        "Tuyến nước bọt",
+        "Da"
+      ],
+      "answer": 0,
+      "explanation": "Slide mô tả gan tổng hợp VLDL để vận chuyển lipid nội sinh."
+    },
+    {
+      "id": "s07-q022",
+      "page": 71,
+      "prompt": "VLDL mất phần lớn triglyceride sẽ chuyển thành gì?",
+      "options": [
+        "IDL",
+        "Albumin",
+        "Chylomicron mới",
+        "IgM"
+      ],
+      "answer": 0,
+      "explanation": "LPL thủy phân TAG làm VLDL trở thành IDL."
+    },
+    {
+      "id": "s07-q023",
+      "page": 72,
+      "prompt": "Một hướng chuyển hóa tiếp theo của IDL là gì?",
+      "options": [
+        "Tiếp tục mất triglyceride để thành LDL",
+        "Biến thành glucose tự do hoàn toàn",
+        "Chuyển trực tiếp thành hemoglobin",
+        "Trở lại tế bào ruột trong mọi trường hợp"
+      ],
+      "answer": 0,
+      "explanation": "IDL có thể được gan thu nhận hoặc tiếp tục chuyển thành LDL."
+    },
+    {
+      "id": "s07-q024",
+      "page": 74,
+      "prompt": "ApoA-I của HDL hoạt hóa enzym nào?",
+      "options": [
+        "LCAT",
+        "Trypsin",
+        "Urease",
+        "Amylase"
+      ],
+      "answer": 0,
+      "explanation": "LCAT ester hóa cholesterol, góp phần hình thành HDL trưởng thành."
+    },
+    {
+      "id": "s07-q025",
+      "page": 75,
+      "prompt": "Thứ tự ba giai đoạn chuyển hóa axit béo được nêu là gì?",
+      "options": [
+        "Hoạt hóa → vận chuyển vào ti thể → β-oxy hóa",
+        "β-oxy hóa → hoạt hóa → vận chuyển",
+        "Vận chuyển → tạo glycogen → hoạt hóa",
+        "Thủy phân protein → tạo ure → β-oxy hóa"
+      ],
+      "answer": 0,
+      "explanation": "Slide nêu ba giai đoạn theo đúng thứ tự này."
+    },
+    {
+      "id": "s07-q026",
+      "page": 77,
+      "prompt": "Chất nào hỗ trợ vận chuyển axit béo đã hoạt hóa vào ti thể?",
+      "options": [
+        "Carnitine",
+        "Albumin",
+        "IgE",
+        "Sucrose"
+      ],
+      "answer": 0,
+      "explanation": "Trang vận chuyển vào ti thể minh họa vai trò carnitine."
+    },
+    {
+      "id": "s07-q027",
+      "page": 78,
+      "prompt": "Phản ứng khử H lần đầu của β-oxy hóa tạo chất mang điện tử nào?",
+      "options": [
+        "FADH₂",
+        "NADPH",
+        "ATP trực tiếp",
+        "GTP trực tiếp"
+      ],
+      "answer": 0,
+      "explanation": "Acyl-CoA dehydrogenase xúc tác phản ứng đầu tạo FADH₂."
+    },
+    {
+      "id": "s07-q028",
+      "page": 78,
+      "prompt": "Sau một vòng β-oxy hóa, mạch acyl ngắn đi bao nhiêu carbon?",
+      "options": [
+        "2",
+        "1",
+        "3",
+        "6"
+      ],
+      "answer": 0,
+      "explanation": "Slide nêu tạo một acetyl-CoA và mạch axit béo giảm hai carbon."
+    },
+    {
+      "id": "s07-q029",
+      "page": 80,
+      "prompt": "Propionyl-CoA từ axit béo mạch lẻ được chuyển thành chất nào để vào Krebs?",
+      "options": [
+        "Succinyl-CoA",
+        "Cholesterol",
+        "Lactose",
+        "Albumin"
+      ],
+      "answer": 0,
+      "explanation": "Slide trình bày con đường propionyl-CoA thành succinyl-CoA."
+    },
+    {
+      "id": "s07-q030",
+      "page": 83,
+      "prompt": "Theo công thức của slide, axit béo no C16 cần bao nhiêu vòng β-oxy hóa?",
+      "options": [
+        "7",
+        "8",
+        "15",
+        "16"
+      ],
+      "answer": 0,
+      "explanation": "Với 2n = 16, n = 8; số vòng là n−1 = 7."
+    },
+    {
+      "id": "s07-q031",
+      "page": 83,
+      "prompt": "Theo cách tính của slide, oxy hóa hoàn toàn axit béo no C16 thu ròng bao nhiêu ATP?",
+      "options": [
+        "106",
+        "112",
+        "108",
+        "96"
+      ],
+      "answer": 0,
+      "explanation": "Công thức ròng 14n−6, với n = 8 cho 106 ATP."
+    },
+    {
+      "id": "s07-q032",
+      "page": 86,
+      "prompt": "Tổng hợp axit béo trong bài được nêu diễn ra chủ yếu ở khoang nào?",
+      "options": [
+        "Bào tương",
+        "Chỉ lòng lysosome",
+        "Chỉ nhân tế bào",
+        "Chỉ dịch ngoài tế bào"
+      ],
+      "answer": 0,
+      "explanation": "Slide nêu quá trình tại bào tương của các mô như gan và mô mỡ."
+    },
+    {
+      "id": "s07-q033",
+      "page": 90,
+      "prompt": "Đơn vị acetyl được đưa từ ti thể ra bào tương thông qua dạng nào?",
+      "options": [
+        "Citrate",
+        "Ure",
+        "Lactose",
+        "Bilirubin"
+      ],
+      "answer": 0,
+      "explanation": "Acetyl-CoA kết hợp oxaloacetate tạo citrate, rồi tái tạo acetyl-CoA ở bào tương."
+    },
+    {
+      "id": "s07-q034",
+      "page": 91,
+      "prompt": "Enzym tạo malonyl-CoA từ acetyl-CoA là gì?",
+      "options": [
+        "Acetyl-CoA carboxylase",
+        "Lipoprotein lipase",
+        "Glucose oxidase",
+        "Trypsin"
+      ],
+      "answer": 0,
+      "explanation": "Slide mô tả phản ứng kết hợp CO₂ do acetyl-CoA carboxylase xúc tác."
+    },
+    {
+      "id": "s07-q035",
+      "page": 92,
+      "prompt": "Mỗi vòng gắn thêm malonyl-CoA trong tổng hợp axit béo cần bao nhiêu NADPH?",
+      "options": [
+        "2",
+        "1",
+        "4",
+        "8"
+      ],
+      "answer": 0,
+      "explanation": "Slide ghi mỗi vòng cần 2 NADPH."
+    },
+    {
+      "id": "s07-q036",
+      "page": 96,
+      "prompt": "Chất trung gian nào hình thành sau khi gắn acyl thứ hai trong tổng hợp triglyceride?",
+      "options": [
+        "Phosphatidic acid",
+        "Cholesterol",
+        "Glucose-6-phosphate",
+        "Ure"
+      ],
+      "answer": 0,
+      "explanation": "Từ lysophosphatidic acid, gắn acyl thứ hai tạo phosphatidic acid."
+    },
+    {
+      "id": "s07-q037",
+      "page": 109,
+      "prompt": "Rối loạn lipid type IIa được slide mô tả bởi sự tăng nào?",
+      "options": [
+        "Cholesterol và LDL-C",
+        "Chỉ HDL-C",
+        "Chỉ glucose",
+        "Chỉ albumin"
+      ],
+      "answer": 0,
+      "explanation": "Trang type IIa nêu tăng cholesterol đơn thuần, LDL-C tăng."
+    },
+    {
+      "id": "s07-q038",
+      "page": 111,
+      "prompt": "Rối loạn type III được liên hệ với apoprotein nào?",
+      "options": [
+        "ApoE",
+        "ApoA-I",
+        "Albumin",
+        "Hemoglobin"
+      ],
+      "answer": 0,
+      "explanation": "Slide liên hệ type III với đột biến ApoE và giảm loại bỏ các phần tử tàn dư."
+    }
+  ]
+}
