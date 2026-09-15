@@ -1,0 +1,294 @@
+{
+  "id": "at-r01",
+  "courseId": "et4551",
+  "title": "Bức xạ 1 · Giới thiệu và ứng dụng",
+  "group": "An toàn bức xạ",
+  "description": "Phóng xạ, phông nền, ứng dụng trong y tế, công nghiệp và nông nghiệp.",
+  "sections": [
+    {
+      "title": "Bối cảnh và khái niệm",
+      "from": 1,
+      "to": 24,
+      "points": [
+        "Phần đầu giới thiệu phạm vi an toàn bức xạ, lịch sử và ví dụ hậu quả khi kiểm soát bức xạ không phù hợp.",
+        "Phóng xạ là quá trình hạt nhân không ổn định mất năng lượng bằng phát bức xạ ion hóa.",
+        "Các dạng được trình bày gồm hạt alpha, beta và photon tia X/gamma."
+      ]
+    },
+    {
+      "title": "Nguồn bức xạ và phông nền",
+      "from": 25,
+      "to": 36,
+      "points": [
+        "Bài phân biệt hạt nhân phóng xạ nguyên thủy, tạo bởi tương tác tia vũ trụ và nguồn nhân tạo.",
+        "Phông tự nhiên có thành phần trên mặt đất và ngoài Trái Đất; con người có thể tiếp nhận qua chuỗi thức ăn hoặc hô hấp.",
+        "Radon được giới thiệu là khí phóng xạ trong chuỗi phân rã tự nhiên; nguồn trong nhà được bài nêu là đất và nước.",
+        "Ion hóa có thể gây tổn thương tế bào và DNA; cần phân biệt chiếu xạ ngoài với tác nhân đã đi vào cơ thể."
+      ]
+    },
+    {
+      "title": "Ứng dụng y tế",
+      "from": 37,
+      "to": 79,
+      "points": [
+        "X-quang và CT dùng tia X; siêu âm và MRI không dùng tia X.",
+        "Mục tiêu xạ trị trong bài: đưa liều chính xác tới thể tích bia và hạn chế tổn thương mô lành xung quanh.",
+        "Ba cách xạ trị được giới thiệu: chùm tia ngoài, áp sát bằng nguồn kín và dùng đồng vị theo chuyển hóa/kết hợp chọn lọc.",
+        "Gamma camera, SPECT và PET là những phương pháp tạo ảnh được nêu trong phần y học hạt nhân.",
+        "Nhiễm bẩn phóng xạ là sự hiện diện của chất phóng xạ ở nơi không mong muốn."
+      ]
+    },
+    {
+      "title": "Ứng dụng ngoài y tế",
+      "from": 80,
+      "to": 102,
+      "points": [
+        "Công nghiệp: đánh dấu tìm rò rỉ, đo kiểm độ dày; định tuổi bằng carbon-14; RTG sử dụng nhiệt phân rã để phát điện.",
+        "Nông nghiệp: tạo giống đột biến, kiểm soát côn trùng và bảo quản thực phẩm.",
+        "Theo bài, chiếu xạ thực phẩm trong điều kiện được kiểm soát khác với làm nhiễm chất phóng xạ vào thực phẩm."
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "at-r01-q001",
+      "page": 21,
+      "prompt": "Hiện tượng phóng xạ được mô tả là quá trình nào?",
+      "options": [
+        "Hạt nhân không ổn định mất năng lượng bằng phát bức xạ ion hóa",
+        "Mọi nguyên tử hấp thụ ánh sáng nhìn thấy",
+        "Mọi vật nóng lên do ma sát",
+        "Chỉ electron chạy trong dây điện"
+      ],
+      "answer": 0,
+      "explanation": "Định nghĩa ở trang 21 gắn phóng xạ với biến đổi của hạt nhân không ổn định."
+    },
+    {
+      "id": "at-r01-q002",
+      "page": 22,
+      "prompt": "Vì sao hạt nhân không ổn định phát bức xạ theo bài?",
+      "options": [
+        "Để giải phóng năng lượng dư và chuyển sang trạng thái ổn định hơn",
+        "Để tăng mãi năng lượng dư",
+        "Để tạo thêm proton bằng phản ứng hóa học",
+        "Để chỉ làm nóng lớp vỏ ngoài"
+      ],
+      "answer": 0,
+      "explanation": "Slide giải thích hạt nhân có năng lượng dư và phát bức xạ để ổn định hơn."
+    },
+    {
+      "id": "at-r01-q003",
+      "page": 25,
+      "prompt": "Nguồn phóng xạ vũ trụ được bài mô tả hình thành do đâu?",
+      "options": [
+        "Tương tác tia vũ trụ trong tầng cao khí quyển",
+        "Chỉ sự làm giàu nhiên liệu trong nhà máy",
+        "Chỉ phản ứng ở bóng X-quang",
+        "Chỉ phân rã chất khử trùng"
+      ],
+      "answer": 0,
+      "explanation": "Bài phân biệt nguồn do tia vũ trụ với nguồn nguyên thủy và nhân tạo."
+    },
+    {
+      "id": "at-r01-q004",
+      "page": 26,
+      "prompt": "Phông bức xạ tự nhiên có những thành phần nguồn nào?",
+      "options": [
+        "Trên mặt đất và ngoài Trái Đất",
+        "Chỉ máy CT",
+        "Chỉ phòng xạ trị",
+        "Chỉ nhà máy điện hạt nhân"
+      ],
+      "answer": 0,
+      "explanation": "Trang 26 phân chia nguồn phông tự nhiên thành hai nhóm này."
+    },
+    {
+      "id": "at-r01-q005",
+      "page": 31,
+      "prompt": "Radon được giới thiệu là chất ở dạng nào trong điều kiện bình thường?",
+      "options": [
+        "Khí phóng xạ",
+        "Kim loại lỏng không phóng xạ",
+        "Chất cách điện rắn",
+        "Một loại photon"
+      ],
+      "answer": 0,
+      "explanation": "Phần Radon mô tả đây là sản phẩm phân rã ở dạng khí."
+    },
+    {
+      "id": "at-r01-q006",
+      "page": 32,
+      "prompt": "Hai nguồn radon trong không khí trong nhà được bài nêu là gì?",
+      "options": [
+        "Đất và nguồn cung cấp nước",
+        "Chỉ sơn và giấy",
+        "Chỉ bóng đèn và màn hình",
+        "Chỉ dây điện và pin"
+      ],
+      "answer": 0,
+      "explanation": "Trang 32 nêu hai nguồn chính là đất và nước."
+    },
+    {
+      "id": "at-r01-q007",
+      "page": 34,
+      "prompt": "Vì sao nguồn alpha bên trong cơ thể vẫn có thể nguy hiểm dù alpha đâm xuyên kém?",
+      "options": [
+        "Nó có thể truyền năng lượng trực tiếp cho mô bên trong",
+        "Vì alpha luôn xuyên qua mọi lớp chì",
+        "Vì alpha không tương tác với mô",
+        "Vì alpha biến thành sóng âm"
+      ],
+      "answer": 0,
+      "explanation": "Bài lưu ý tác nhân phát alpha đi vào cơ thể qua hít hoặc nuốt có thể gây tổn thương."
+    },
+    {
+      "id": "at-r01-q008",
+      "page": 38,
+      "prompt": "Cặp kỹ thuật nào dùng tia X theo bài?",
+      "options": [
+        "X-quang và CT",
+        "Siêu âm và MRI",
+        "MRI và nhiệt kế hồng ngoại",
+        "Siêu âm và điện tâm đồ"
+      ],
+      "answer": 0,
+      "explanation": "Trang 38 phân biệt X-quang/CT với các kỹ thuật không dùng tia X."
+    },
+    {
+      "id": "at-r01-q009",
+      "page": 38,
+      "prompt": "Kỹ thuật nào được xếp vào nhóm không dùng tia X?",
+      "options": [
+        "MRI",
+        "CT scanner",
+        "X-quang chụp vú",
+        "X-quang chụp răng"
+      ],
+      "answer": 0,
+      "explanation": "Bài ghi MRI và siêu âm không dùng tia X."
+    },
+    {
+      "id": "at-r01-q010",
+      "page": 61,
+      "prompt": "Mục tiêu phân bố liều trong xạ trị được bài nêu là gì?",
+      "options": [
+        "Liều chính xác tới bia với tổn thương mô lành nhỏ nhất",
+        "Chiếu liều như nhau lên mọi mô",
+        "Chỉ tối đa liều ngoài thể tích bia",
+        "Không cần xác định thể tích bia"
+      ],
+      "answer": 0,
+      "explanation": "Đây là mục tiêu được mô tả trong định nghĩa xạ trị."
+    },
+    {
+      "id": "at-r01-q011",
+      "page": 64,
+      "prompt": "Brachytherapy trong bài sử dụng cách bố trí nguồn nào?",
+      "options": [
+        "Nguồn kín được áp, đặt hoặc gài tại vùng điều trị",
+        "Chỉ nguồn ở rất xa bệnh nhân",
+        "Chỉ sóng siêu âm ngoài da",
+        "Chỉ ánh sáng nhìn thấy"
+      ],
+      "answer": 0,
+      "explanation": "Bài phân biệt xạ trị áp sát bằng nguồn kín với chùm tia ngoài và xạ trị chuyển hóa."
+    },
+    {
+      "id": "at-r01-q012",
+      "page": 76,
+      "prompt": "Nhóm nào gồm các kỹ thuật tạo ảnh y học hạt nhân được nêu?",
+      "options": [
+        "Gamma camera, PET và SPECT",
+        "MRI, siêu âm và ECG",
+        "X-quang răng, CT và nội soi quang học",
+        "Chỉ nhiệt ảnh và siêu âm"
+      ],
+      "answer": 0,
+      "explanation": "Trang 76 liệt kê ba phương pháp này trong ứng dụng đồng vị phóng xạ."
+    },
+    {
+      "id": "at-r01-q013",
+      "page": 79,
+      "prompt": "Nhiễm bẩn phóng xạ là gì theo bài?",
+      "options": [
+        "Chất phóng xạ có mặt ở nơi không mong muốn",
+        "Bất kỳ ảnh X-quang nào được tạo ra",
+        "Bất kỳ vật nào ở gần một máy điện",
+        "Chỉ sự gia tăng nhiệt độ phòng"
+      ],
+      "answer": 0,
+      "explanation": "Định nghĩa contamination nói đến sự hiện diện không mong muốn của chất phóng xạ."
+    },
+    {
+      "id": "at-r01-q014",
+      "page": 87,
+      "prompt": "Ví dụ kiểm soát độ dày lá nhôm sử dụng loại bức xạ nào?",
+      "options": [
+        "Beta",
+        "Sóng âm",
+        "Hồng ngoại",
+        "Vi ba"
+      ],
+      "answer": 0,
+      "explanation": "Slide mô tả nguồn beta ở một phía và detector ở phía kia của lá nhôm."
+    },
+    {
+      "id": "at-r01-q015",
+      "page": 89,
+      "prompt": "Đồng vị nào được dùng trong ví dụ định tuổi của bài?",
+      "options": [
+        "Carbon-14",
+        "Technetium-99m",
+        "Cobalt-60",
+        "Iodine-131"
+      ],
+      "answer": 0,
+      "explanation": "Ví dụ định tuổi dựa trên tỷ lệ 14C/12C và chu kỳ bán rã 14C."
+    },
+    {
+      "id": "at-r01-q016",
+      "page": 90,
+      "prompt": "Trong RTG, nhiệt ở mối nối nóng được cung cấp từ đâu?",
+      "options": [
+        "Phân rã nhiên liệu đồng vị phóng xạ",
+        "Chỉ ma sát con lăn",
+        "Chỉ bộ lọc HEPA",
+        "Chỉ phản xạ ánh sáng trong phòng"
+      ],
+      "answer": 0,
+      "explanation": "Trang 90 mô tả nhiệt phân rã được dùng tại mối nối nóng của máy phát nhiệt điện."
+    },
+    {
+      "id": "at-r01-q017",
+      "page": 97,
+      "prompt": "Mục đích chiếu xạ thực phẩm được bài nêu là gì?",
+      "options": [
+        "Kéo dài bảo quản và giảm vi sinh vật",
+        "Biến mọi thực phẩm thành nguồn phóng xạ",
+        "Chỉ tăng độ dẫn điện của bao bì",
+        "Chỉ thay đổi màu nhãn"
+      ],
+      "answer": 0,
+      "explanation": "Bài giới thiệu ứng dụng bảo quản thực phẩm và nông sản bằng bức xạ."
+    },
+    {
+      "id": "at-r01-q018",
+      "page": 98,
+      "prompt": "Theo bài, chiếu xạ thực phẩm trong điều kiện kiểm soát có đồng nghĩa với nhiễm chất phóng xạ không?",
+      "options": [
+        "Không",
+        "Có trong mọi trường hợp",
+        "Chỉ có với thực phẩm đóng gói",
+        "Chỉ có nếu dùng tia X"
+      ],
+      "answer": 0,
+      "explanation": "Trang 98 phân biệt việc hấp thụ năng lượng bức xạ với việc có chất phóng xạ trong thực phẩm."
+    }
+  ],
+  "source": {
+    "file": "1. Gioi thieu chung.pdf",
+    "url": "sources/at-r01.pdf",
+    "pages": 103,
+    "sha256": "e57a94f7cc2d5f5442c5e5e24b9fbbe881a511a816a3ef76766c0f919fe2dc16"
+  }
+}

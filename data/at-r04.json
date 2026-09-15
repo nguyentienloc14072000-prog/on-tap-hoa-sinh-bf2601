@@ -1,0 +1,205 @@
+{
+  "id": "at-r04",
+  "courseId": "et4551",
+  "title": "Bức xạ 4 · Đại lượng và đơn vị đo liều",
+  "group": "An toàn bức xạ",
+  "description": "Gy, Sv, rad/rem, trọng số, suất liều và bài tập thời gian.",
+  "sections": [
+    {
+      "title": "Ion hóa và ghi đo",
+      "from": 3,
+      "to": 7,
+      "points": [
+        "Ion hóa tách electron khỏi nguyên tử trung hòa, tạo các điện tích có thể thu bằng điện trường.",
+        "Buồng ion hóa thu điện tích sinh ra trong khí; dòng điện là tín hiệu ghi nhận bức xạ.",
+        "Ion hóa nước có thể tạo các chất có hoạt tính hóa học và gây tác động sinh học."
+      ]
+    },
+    {
+      "title": "Liều hấp thụ, tương đương và hiệu dụng",
+      "from": 8,
+      "to": 15,
+      "points": [
+        "Liều hấp thụ D: năng lượng hấp thụ trên đơn vị khối lượng. 1 Gy = 1 J/kg = 100 rad.",
+        "Liều tương đương: H = D × wR cho loại bức xạ đang xét; đơn vị Sv. 1 Sv = 100 rem.",
+        "Liều hiệu dụng E = tổng wT × HT trên các mô/cơ quan. Cần phân biệt trọng số bức xạ wR với trọng số mô wT.",
+        "Khi nói về liều hấp thụ phải nêu môi trường hấp thụ cụ thể."
+      ]
+    },
+    {
+      "title": "Suất liều, thông lượng và liều chiếu",
+      "from": 16,
+      "to": 20,
+      "points": [
+        "Suất liều là liều trong một đơn vị thời gian; khi suất liều không đổi, liều = suất liều × thời gian.",
+        "Bài tập trang 17 cho 1 mSv và 50 µSv/h: thời gian theo phép tính là 20 giờ; đây là dữ kiện giả định của bài tập.",
+        "Thông lượng trong bài xét số hạt hoặc photon đi qua đơn vị diện tích trong đơn vị thời gian. Với nguồn điểm đẳng hướng: Φ = Q/(4πr²).",
+        "Liều chiếu liên quan điện tích ion cùng dấu tạo trong một đơn vị khối lượng không khí."
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "at-r04-q001",
+      "page": 5,
+      "prompt": "Ion hóa nguyên tử trung hòa trong bài là quá trình nào?",
+      "options": [
+        "Một electron quỹ đạo bị bứt khỏi nguyên tử",
+        "Chỉ nguyên tử quay nhanh hơn",
+        "Chỉ tăng số neutron mà không có tương tác",
+        "Chỉ photon đổi màu nhìn thấy"
+      ],
+      "answer": 0,
+      "explanation": "Slide định nghĩa ion hóa thông qua sự tách electron và hình thành ion."
+    },
+    {
+      "id": "at-r04-q002",
+      "page": 8,
+      "prompt": "Liều hấp thụ D đo đại lượng nào?",
+      "options": [
+        "Năng lượng hấp thụ trên một đơn vị khối lượng",
+        "Số phân rã trong một giây",
+        "Điện áp giữa hai điện cực",
+        "Số hạt trong toàn bộ vũ trụ"
+      ],
+      "answer": 0,
+      "explanation": "Định nghĩa ở trang 8 là năng lượng bức xạ hấp thụ trên khối lượng chất hấp thụ."
+    },
+    {
+      "id": "at-r04-q003",
+      "page": 8,
+      "prompt": "Một gray tương đương với bao nhiêu?",
+      "options": [
+        "1 J/kg",
+        "1 C/kg",
+        "1 phân rã/giây",
+        "1 J/m³"
+      ],
+      "answer": 0,
+      "explanation": "Bài ghi 1 Gy = 1 J/kg."
+    },
+    {
+      "id": "at-r04-q004",
+      "page": 9,
+      "prompt": "Đổi 0,5 Gy sang rad theo bài được bao nhiêu?",
+      "options": [
+        "50 rad",
+        "0,005 rad",
+        "5 rad",
+        "500 rad"
+      ],
+      "answer": 0,
+      "explanation": "Vì 1 Gy = 100 rad, 0,5 Gy = 50 rad."
+    },
+    {
+      "id": "at-r04-q005",
+      "page": 9,
+      "prompt": "Khi nêu liều hấp thụ, cần chỉ rõ yếu tố nào?",
+      "options": [
+        "Môi trường chất hấp thụ",
+        "Chỉ tên người ghi số liệu",
+        "Chỉ màu liều kế",
+        "Chỉ tên tệp PDF"
+      ],
+      "answer": 0,
+      "explanation": "Trang 9 yêu cầu xác định môi trường như mô hoặc không khí."
+    },
+    {
+      "id": "at-r04-q006",
+      "page": 10,
+      "prompt": "Liều tương đương được tính từ D như thế nào?",
+      "options": [
+        "Nhân D với trọng số bức xạ wR",
+        "Chia D cho số câu hỏi",
+        "Nhân D với mọi trọng số mô rồi bỏ tổng",
+        "Chỉ đổi Gy thành giờ"
+      ],
+      "answer": 0,
+      "explanation": "Bài nêu H = D × wR."
+    },
+    {
+      "id": "at-r04-q007",
+      "page": 10,
+      "prompt": "Đơn vị SI của liều tương đương là gì?",
+      "options": [
+        "Sievert (Sv)",
+        "Becquerel (Bq)",
+        "Ampere (A)",
+        "Pascal (Pa)"
+      ],
+      "answer": 0,
+      "explanation": "Đơn vị được ghi cùng công thức H ở trang 10."
+    },
+    {
+      "id": "at-r04-q008",
+      "page": 13,
+      "prompt": "Một sievert bằng bao nhiêu rem?",
+      "options": [
+        "100 rem",
+        "0,01 rem",
+        "10 rem",
+        "1.000 rem"
+      ],
+      "answer": 0,
+      "explanation": "Quan hệ ở trang 13 là 1 Sv = 100 rem."
+    },
+    {
+      "id": "at-r04-q009",
+      "page": 14,
+      "prompt": "Trọng số mô wT dùng trong đại lượng nào?",
+      "options": [
+        "Liều hiệu dụng",
+        "Chỉ hoạt độ nguồn",
+        "Chỉ nguyên tử số",
+        "Chỉ hiệu suất đếm"
+      ],
+      "answer": 0,
+      "explanation": "Liều hiệu dụng là tổng các liều tương đương mô nhân trọng số mô tương ứng."
+    },
+    {
+      "id": "at-r04-q010",
+      "page": 16,
+      "prompt": "Khi suất liều không đổi, liều nhận được bằng gì?",
+      "options": [
+        "Suất liều nhân thời gian",
+        "Suất liều chia thời gian trong mọi trường hợp",
+        "Thời gian trừ suất liều",
+        "Chỉ bình phương thời gian"
+      ],
+      "answer": 0,
+      "explanation": "Đây là quan hệ liều–suất liều–thời gian trong bài."
+    },
+    {
+      "id": "at-r04-q011",
+      "page": 17,
+      "prompt": "Với dữ kiện bài tập 1 mSv và suất liều 50 µSv/h, thời gian tính được là bao nhiêu?",
+      "options": [
+        "20 giờ",
+        "2 giờ",
+        "200 giờ",
+        "0,02 giờ"
+      ],
+      "answer": 0,
+      "explanation": "Đổi 1 mSv = 1.000 µSv; t = 1.000/50 = 20 giờ. Đây là phép tính theo dữ kiện bài tập."
+    },
+    {
+      "id": "at-r04-q012",
+      "page": 18,
+      "prompt": "Với nguồn điểm đẳng hướng, thông lượng theo công thức trong bài phụ thuộc khoảng cách r thế nào?",
+      "options": [
+        "Tỷ lệ nghịch với r²",
+        "Tỷ lệ thuận với r²",
+        "Không đổi theo r",
+        "Tỷ lệ thuận với r³"
+      ],
+      "answer": 0,
+      "explanation": "Công thức Φ = Q/(4πr²) cho quan hệ nghịch đảo bình phương."
+    }
+  ],
+  "source": {
+    "file": "4. Don vi va dai luong do lieu xa.pdf",
+    "url": "sources/at-r04.pdf",
+    "pages": 20,
+    "sha256": "423c0106f69dc0fe144c3517050cd58c0da47f475aa528936553e6cfd8a76d20"
+  }
+}

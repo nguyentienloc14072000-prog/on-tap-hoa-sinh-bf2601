@@ -1,0 +1,203 @@
+{
+  "id": "at-r11",
+  "courseId": "et4551",
+  "title": "Bức xạ 11 · An toàn tại khoa y học hạt nhân",
+  "group": "An toàn bức xạ",
+  "description": "Che chắn, theo dõi liều và các nguyên tắc xử lý nhiễm bẩn trong bài giảng.",
+  "sections": [
+    {
+      "title": "Nguồn và che chắn",
+      "from": 2,
+      "to": 22,
+      "points": [
+        "Bài phân biệt chiếu xạ trong do chất phóng xạ đi vào cơ thể và chiếu xạ ngoài.",
+        "Thời gian, khoảng cách và vật liệu che chắn phải phù hợp nguồn; ví dụ beta dùng Perspex, gamma dùng chì hoặc tungsten.",
+        "Các ảnh minh họa gồm che bơm tiêm, tấm chắn chữ L, thùng chất thải và che chắn phòng."
+      ]
+    },
+    {
+      "title": "Bảo hộ và ghi đo",
+      "from": 23,
+      "to": 42,
+      "points": [
+        "Bài nhấn mạnh phương tiện bảo hộ đi cùng đào tạo và kỹ thuật thao tác.",
+        "Theo dõi có thể dùng TLD, liều kế điện tử, liều kế nhẫn và khảo sát nhiễm bẩn.",
+        "Detector khí và nhấp nháy được giới thiệu; đếm nhấp nháy lỏng sử dụng mẫu tiếp xúc với môi trường nhấp nháy và mạch trùng phùng."
+      ]
+    },
+    {
+      "title": "Sự cố nhiễm bẩn",
+      "from": 43,
+      "to": 47,
+      "points": [
+        "Ưu tiên trong bài: chăm sóc, bảo vệ con người, ngăn phát tán, hạn chế tiếp cận và xử lý nhiễm bẩn.",
+        "Tạm dừng, thông báo người có trách nhiệm, dùng bảo hộ và hạn chế đi lại; kiểm tra trước khi rời khu vực.",
+        "Sử dụng máy kiểm xạ phù hợp và tránh làm nhiễm bẩn chính máy đo. Đây là nội dung ôn tập quy trình trong slide."
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "at-r11-q001",
+      "page": 2,
+      "prompt": "Chất phóng xạ đi vào cơ thể qua hít thở hoặc tiêu hóa gây loại chiếu xạ nào?",
+      "options": [
+        "Chiếu xạ trong",
+        "Chỉ chiếu xạ ngoài",
+        "Chỉ nhiễu điện từ",
+        "Chỉ điện giật vĩ mô"
+      ],
+      "answer": 0,
+      "explanation": "Bài mở đầu bằng phân biệt chiếu xạ trong với nguồn ngoài cơ thể."
+    },
+    {
+      "id": "at-r11-q002",
+      "page": 5,
+      "prompt": "Ở cùng suất liều, thời gian tiếp xúc tăng gấp đôi làm liều thế nào?",
+      "options": [
+        "Tăng gấp đôi",
+        "Giảm một nửa",
+        "Giảm còn một phần tư",
+        "Không đổi"
+      ],
+      "answer": 0,
+      "explanation": "Liều tỷ lệ thuận với thời gian khi suất liều không đổi."
+    },
+    {
+      "id": "at-r11-q003",
+      "page": 6,
+      "prompt": "Theo mô hình khoảng cách trong slide, đi từ r đến 2r làm suất liều còn bao nhiêu?",
+      "options": [
+        "1/4",
+        "1/2",
+        "2 lần",
+        "4 lần"
+      ],
+      "answer": 0,
+      "explanation": "Đây là ứng dụng quy luật nghịch đảo bình phương."
+    },
+    {
+      "id": "at-r11-q004",
+      "page": 8,
+      "prompt": "Trước khi chọn che chắn, bài yêu cầu biết yếu tố nào?",
+      "options": [
+        "Loại bức xạ",
+        "Chỉ màu tường",
+        "Chỉ tên khoa",
+        "Chỉ ngày mua vật liệu"
+      ],
+      "answer": 0,
+      "explanation": "Loại bức xạ quyết định cách chọn vật liệu che chắn thích hợp."
+    },
+    {
+      "id": "at-r11-q005",
+      "page": 9,
+      "prompt": "Cặp vật liệu–bức xạ nào phù hợp ví dụ trong bài?",
+      "options": [
+        "Perspex cho beta; chì/tungsten cho gamma",
+        "Giấy mỏng cho mọi gamma; chì chỉ cho âm thanh",
+        "Không khí cho mọi beta; vải cho mọi gamma",
+        "Nước cất cho mọi thiết bị điện"
+      ],
+      "answer": 0,
+      "explanation": "Slide phân biệt che beta bằng Perspex với che gamma bằng vật liệu nặng."
+    },
+    {
+      "id": "at-r11-q006",
+      "page": 14,
+      "prompt": "Tấm chắn chữ L dùng cho gamma trong hình gồm vật liệu nào?",
+      "options": [
+        "Chì và kính chì",
+        "Chỉ vải bông",
+        "Chỉ giấy",
+        "Chỉ lưới thép hở"
+      ],
+      "answer": 0,
+      "explanation": "Hình minh họa ghi chì và kính chì cho tấm chắn gamma."
+    },
+    {
+      "id": "at-r11-q007",
+      "page": 23,
+      "prompt": "Hiệu quả bảo hộ cần đi cùng yếu tố nào theo bài?",
+      "options": [
+        "Đào tạo, kỹ thuật và kinh nghiệm thao tác",
+        "Chỉ tăng số nhãn dán",
+        "Chỉ mua thiết bị đắt hơn",
+        "Chỉ đóng cửa phòng"
+      ],
+      "answer": 0,
+      "explanation": "Slide nhấn mạnh người dùng và thao tác bên cạnh phương tiện bảo hộ."
+    },
+    {
+      "id": "at-r11-q008",
+      "page": 28,
+      "prompt": "Liều kế dạng nhẫn được minh họa để theo dõi vùng nào?",
+      "options": [
+        "Chi, đặc biệt bàn tay",
+        "Chỉ toàn bộ tòa nhà",
+        "Chỉ không khí ngoài trời",
+        "Chỉ hoạt độ trong lọ"
+      ],
+      "answer": 0,
+      "explanation": "Hình minh họa liều kế nhẫn/TLD trong theo dõi liều ở chi."
+    },
+    {
+      "id": "at-r11-q009",
+      "page": 35,
+      "prompt": "Mạch nào nối hai PMT trong sơ đồ đếm nhấp nháy lỏng?",
+      "options": [
+        "Mạch trùng phùng",
+        "Mạch tạo chân không",
+        "Mạch điện trở nối đất",
+        "Mạch cấp khí sạch"
+      ],
+      "answer": 0,
+      "explanation": "Sơ đồ ghi coincidence circuit kết hợp tín hiệu hai PMT."
+    },
+    {
+      "id": "at-r11-q010",
+      "page": 36,
+      "prompt": "Trong đếm nhấp nháy lỏng, mẫu và môi trường nhấp nháy có quan hệ nào?",
+      "options": [
+        "Tiếp xúc trực tiếp",
+        "Luôn cách nhau bằng tường chì dày",
+        "Luôn ở hai phòng khác nhau",
+        "Không được liên quan nhau"
+      ],
+      "answer": 0,
+      "explanation": "Bài mô tả nguồn hòa trộn/tiếp xúc với môi trường nhấp nháy."
+    },
+    {
+      "id": "at-r11-q011",
+      "page": 43,
+      "prompt": "Khi có sự cố nhiễm bẩn, nhóm ưu tiên nào được bài nêu?",
+      "options": [
+        "Bảo vệ con người và ngăn phát tán",
+        "Chỉ hoàn thành phép đo đang dở",
+        "Chỉ chụp ảnh trước mọi việc",
+        "Mở toàn bộ cửa để tăng đi lại"
+      ],
+      "answer": 0,
+      "explanation": "Slide đặt chăm sóc, bảo vệ người và kiểm soát phát tán trong các ưu tiên."
+    },
+    {
+      "id": "at-r11-q012",
+      "page": 47,
+      "prompt": "Trong khảo sát nhiễm bẩn, cần lưu ý điều gì với máy đo?",
+      "options": [
+        "Chọn đúng máy và tránh làm nhiễm bẩn máy",
+        "Đặt trực tiếp mọi đầu dò vào chất tràn",
+        "Bỏ qua kiểm tra máy",
+        "Chỉ dùng bất kỳ máy đo điện nào"
+      ],
+      "answer": 0,
+      "explanation": "Slide cuối nhấn mạnh lựa chọn monitor đúng và giữ thiết bị không bị nhiễm bẩn."
+    }
+  ],
+  "source": {
+    "file": "11. ATBX trong khoa YHHN.pdf",
+    "url": "sources/at-r11.pdf",
+    "pages": 47,
+    "sha256": "6ba4cb515dcf4e9b1571b06c11cb7356a058681029b355ec355d5718b85323de"
+  }
+}

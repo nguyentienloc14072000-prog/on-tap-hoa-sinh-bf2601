@@ -1,0 +1,213 @@
+{
+  "id": "at-r09",
+  "courseId": "et4551",
+  "title": "Bức xạ 9 · Hệ thống bảo vệ an toàn",
+  "group": "An toàn bức xạ",
+  "description": "Luận chứng, tối ưu hóa, giới hạn liều và quản lý thiết bị trong slide.",
+  "sections": [
+    {
+      "title": "Các nguyên tắc và bối cảnh khuyến cáo",
+      "from": 2,
+      "to": 6,
+      "points": [
+        "Bài trình bày sự phát triển của các khuyến cáo, gồm các mốc 1977 và 1991. Số liệu trong bài được ôn theo đúng bối cảnh đó.",
+        "Ba nguyên tắc: luận chứng lợi ích so với thiệt hại, tối ưu hóa bảo vệ và giới hạn liều cá nhân trong hoàn cảnh áp dụng.",
+        "Tối ưu hóa tính đến liều cá nhân, số người bị chiếu và khả năng chiếu xạ, cùng các yếu tố kinh tế–xã hội."
+      ]
+    },
+    {
+      "title": "Hiệu ứng và nhóm chiếu xạ",
+      "from": 7,
+      "to": 9,
+      "points": [
+        "Hiệu ứng ngẫu nhiên: xác suất liên quan liều, được coi không có ngưỡng trong mô hình được trình bày; ung thư và tác động gen là ví dụ.",
+        "Hiệu ứng tất nhiên: có ngưỡng và mức độ trầm trọng tăng theo liều; bài lấy ví dụ đục thủy tinh thể, tổn thương mạch và suy giảm sinh sản.",
+        "Bài phân biệt chiếu xạ nghề nghiệp, y tế và dân chúng."
+      ]
+    },
+    {
+      "title": "Giới hạn và khu vực trong bài giảng",
+      "from": 10,
+      "to": 19,
+      "points": [
+        "Theo khuyến cáo được trích trong bài: liều hiệu dụng nghề nghiệp trung bình 20 mSv/năm trong 5 năm, không năm nào quá 50 mSv.",
+        "Các bài tập chiếu không đồng đều dùng trọng số mô. Các giá trị cơ quan, thai kỳ và sinh viên được trình bày trong PDF, không được coi là bản cập nhật quy định hiện hành.",
+        "Khu vực kiểm soát yêu cầu tuân thủ quy trình/quy định; khu vực hướng dẫn vẫn cần theo dõi các công việc bức xạ."
+      ]
+    },
+    {
+      "title": "Phòng hộ và chất lượng thiết bị",
+      "from": 20,
+      "to": 22,
+      "points": [
+        "Bài giới thiệu tạp dề, găng bảo hộ và liều kế cá nhân; liều kế phục vụ theo dõi liều đã nhận.",
+        "Máy cần được kiểm định, hiệu chuẩn khi lắp đặt và sau sửa chữa ảnh hưởng thông số theo nội dung slide.",
+        "Cơ sở lập kế hoạch kiểm tra, đảm bảo chất lượng, bảo dưỡng và duy tu định kỳ."
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "at-r09-q001",
+      "page": 6,
+      "prompt": "Ba nguyên tắc trong khuyến cáo được trình bày là gì?",
+      "options": [
+        "Luận chứng, tối ưu hóa và giới hạn liều",
+        "Chỉ thời gian, cân nặng và chiều cao",
+        "Chỉ khẩu trang, găng và mũ",
+        "Chỉ nhiệt độ, áp suất và độ ẩm"
+      ],
+      "answer": 0,
+      "explanation": "Trang 6 trình bày ba nguyên tắc của hệ thống bảo vệ an toàn."
+    },
+    {
+      "id": "at-r09-q002",
+      "page": 6,
+      "prompt": "Luận chứng công việc bức xạ xét điều gì?",
+      "options": [
+        "Lợi ích đủ bù đắp thiệt hại do công việc gây ra",
+        "Chỉ lợi nhuận của nhà cung cấp",
+        "Chỉ thiết bị mới hay cũ",
+        "Chỉ số lượng phim chụp"
+      ],
+      "answer": 0,
+      "explanation": "Bài yêu cầu xem lợi ích cho cá nhân hoặc xã hội so với thiệt hại."
+    },
+    {
+      "id": "at-r09-q003",
+      "page": 6,
+      "prompt": "Tối ưu hóa bảo vệ cần cân nhắc yếu tố nào ngoài liều cá nhân?",
+      "options": [
+        "Số người bị chiếu và khả năng xảy ra chiếu xạ",
+        "Chỉ giá ghế ngồi",
+        "Chỉ màu tạp dề",
+        "Chỉ tên của phòng"
+      ],
+      "answer": 0,
+      "explanation": "Bài nêu cả số người, khả năng chiếu xạ và các yếu tố kinh tế–xã hội."
+    },
+    {
+      "id": "at-r09-q004",
+      "page": 7,
+      "prompt": "Hiệu ứng ngẫu nhiên được mô tả bằng quan hệ nào?",
+      "options": [
+        "Xác suất xảy ra là hàm của liều",
+        "Mức độ nghiêm trọng luôn tỷ lệ liều trong mọi trường hợp",
+        "Luôn có ngưỡng cao rõ rệt",
+        "Chỉ xuất hiện do điện giật"
+      ],
+      "answer": 0,
+      "explanation": "Trang 7 phân biệt xác suất của hiệu ứng ngẫu nhiên với độ trầm trọng của hiệu ứng tất nhiên."
+    },
+    {
+      "id": "at-r09-q005",
+      "page": 7,
+      "prompt": "Ví dụ nào được bài xếp là hiệu ứng ngẫu nhiên?",
+      "options": [
+        "Gây ung thư",
+        "Chỉ đục thủy tinh thể",
+        "Chỉ tổn thương thành mạch được nêu như hiệu ứng tất nhiên",
+        "Chỉ bỏng nhiệt từ dây dẫn"
+      ],
+      "answer": 0,
+      "explanation": "Ung thư là ví dụ quan trọng của hiệu ứng ngẫu nhiên trong slide."
+    },
+    {
+      "id": "at-r09-q006",
+      "page": 7,
+      "prompt": "Hiệu ứng tất nhiên có đặc điểm nào theo bài?",
+      "options": [
+        "Có ngưỡng, mức độ trầm trọng tăng theo liều",
+        "Chỉ xác suất tăng, không xét mức độ",
+        "Không bao giờ có tổn thương mô",
+        "Không liên quan đến liều"
+      ],
+      "answer": 0,
+      "explanation": "Bài dùng ngưỡng và mức độ trầm trọng để mô tả hiệu ứng tất nhiên."
+    },
+    {
+      "id": "at-r09-q007",
+      "page": 9,
+      "prompt": "Bệnh nhân nhận bức xạ để chẩn đoán hoặc điều trị thuộc nhóm nào?",
+      "options": [
+        "Chiếu xạ y tế",
+        "Chiếu xạ nghề nghiệp trong mọi trường hợp",
+        "Chỉ phông tự nhiên",
+        "Chỉ chiếu xạ dân chúng theo công việc"
+      ],
+      "answer": 0,
+      "explanation": "Trang 9 phân loại nhóm bệnh nhân là chiếu xạ y tế."
+    },
+    {
+      "id": "at-r09-q008",
+      "page": 9,
+      "prompt": "Nhân viên thường xuyên trực tiếp làm công việc sử dụng bức xạ thuộc nhóm nào?",
+      "options": [
+        "Chiếu xạ nghề nghiệp",
+        "Chỉ chiếu xạ y tế của bệnh nhân",
+        "Chỉ chiếu xạ trong gia đình",
+        "Không được xếp nhóm nào"
+      ],
+      "answer": 0,
+      "explanation": "Đây là mô tả chiếu xạ nghề nghiệp trong bài."
+    },
+    {
+      "id": "at-r09-q009",
+      "page": 10,
+      "prompt": "Theo khuyến cáo được trích ở trang 10, mức trung bình nghề nghiệp trong 5 năm là bao nhiêu?",
+      "options": [
+        "20 mSv/năm",
+        "1 mSv/năm",
+        "50 Sv/năm",
+        "200 mSv/năm"
+      ],
+      "answer": 0,
+      "explanation": "Câu hỏi ôn số liệu trong bài: 20 mSv/năm lấy trung bình trong 5 năm."
+    },
+    {
+      "id": "at-r09-q010",
+      "page": 10,
+      "prompt": "Cũng theo trang 10, không năm riêng lẻ nào được vượt giá trị nào?",
+      "options": [
+        "50 mSv",
+        "20 Sv",
+        "500 Sv",
+        "0,05 µSv"
+      ],
+      "answer": 0,
+      "explanation": "Bài phân biệt mức trung bình 5 năm và trần của một năm là 50 mSv."
+    },
+    {
+      "id": "at-r09-q011",
+      "page": 18,
+      "prompt": "Khu vực kiểm soát được mô tả có yêu cầu nào?",
+      "options": [
+        "Nhân viên tuân thủ quy trình và quy định được thiết lập kỹ",
+        "Tự do bỏ mọi nội quy",
+        "Chỉ có biển báo là đủ",
+        "Không cần theo dõi hoạt động"
+      ],
+      "answer": 0,
+      "explanation": "Trang 18 phân loại khu vực dựa vào mức kiểm soát công việc."
+    },
+    {
+      "id": "at-r09-q012",
+      "page": 21,
+      "prompt": "Sau sửa chữa ảnh hưởng thông số kỹ thuật, bài yêu cầu gì trước khi dùng máy?",
+      "options": [
+        "Kiểm định và hiệu chuẩn lại",
+        "Chỉ đổi tên máy",
+        "Chỉ tăng số lần chụp thử trên người",
+        "Bỏ kiểm tra vì đã sửa xong"
+      ],
+      "answer": 0,
+      "explanation": "Trang 21 nêu kiểm định, hiệu chuẩn lại sau sửa chữa ảnh hưởng thông số."
+    }
+  ],
+  "source": {
+    "file": "9. He thong bao ve ATBX.pdf",
+    "url": "sources/at-r09.pdf",
+    "pages": 22,
+    "sha256": "cbf82d3406d0669a97644c0b12ade4b5df095ac5cc8587d0346280eef2ad6a90"
+  }
+}

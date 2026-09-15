@@ -1,0 +1,369 @@
+{
+  "id": "at-r10",
+  "courseId": "et4551",
+  "title": "Bức xạ 10 · Detector và kiểm tra chất lượng",
+  "group": "An toàn bức xạ",
+  "description": "Detector khí, nhấp nháy, thiết bị đo và các phép kiểm tra chất lượng.",
+  "sections": [
+    {
+      "title": "Detector khí và chất rắn",
+      "from": 3,
+      "to": 41,
+      "points": [
+        "Bài so sánh buồng ion hóa, ống đếm tỷ lệ và Geiger–Müller theo vùng điện áp, khuếch đại khí và tín hiệu.",
+        "Detector nhấp nháy biến năng lượng bức xạ thành ánh sáng; photocathode và chuỗi dynode của PMT chuyển đổi, khuếch đại tín hiệu.",
+        "TLD lưu năng lượng ở các bẫy và phát ánh sáng khi gia nhiệt. Bài giới thiệu NaI(Tl), BGO, LSO/GSO và các đặc điểm vật liệu."
+      ]
+    },
+    {
+      "title": "Hiệu suất và phổ năng lượng",
+      "from": 42,
+      "to": 54,
+      "points": [
+        "Độ nhạy phụ thuộc hình học, hiệu suất nội tại và cửa sổ năng lượng. Khi đo phải trừ phông và xét phân rã nguồn chuẩn.",
+        "Độ phân giải năng lượng được biểu diễn qua FWHM chia năng lượng đỉnh; đỉnh hẹp giúp phân biệt photon sơ cấp và tán xạ.",
+        "Thời gian chết khiến thiết bị bỏ sót xung khi tốc độ đếm cao."
+      ]
+    },
+    {
+      "title": "Các thiết bị ứng dụng",
+      "from": 55,
+      "to": 78,
+      "points": [
+        "Thiết bị khảo sát cầm tay, máy chuẩn liều hoạt độ, bộ đếm mẫu giếng, đầu dò phẫu thuật và đầu dò tuyến giáp có mục đích và hình học khác nhau.",
+        "Máy chuẩn liều sử dụng buồng ion hóa dạng giếng; cần chọn cài đặt đồng vị phù hợp.",
+        "Bộ đếm mẫu cần che chắn giảm phông, chọn cửa sổ năng lượng và kiểm soát hoạt độ mẫu để tránh sai số thời gian chết."
+      ]
+    },
+    {
+      "title": "Kiểm tra chất lượng",
+      "from": 79,
+      "to": 100,
+      "points": [
+        "QC cần quy trình, ngưỡng chấp nhận, hành động khắc phục và hồ sơ kết quả.",
+        "Các kiểm tra gồm phông, pin, độ ổn định, độ chính xác, độ tuyến tính và ảnh hưởng hình học tùy thiết bị.",
+        "Nguồn chuẩn phải có thông tin hoạt độ, thời điểm quy chiếu; phép đo so sánh cần tái lập hình học. Các dung sai cụ thể là số liệu của bài giảng."
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "at-r10-q001",
+      "page": 5,
+      "prompt": "Detector nhấp nháy sử dụng tín hiệu trung gian nào?",
+      "options": [
+        "Ánh sáng phát ra trong chất nhấp nháy",
+        "Chỉ áp suất khí",
+        "Chỉ độ ẩm",
+        "Chỉ nhiệt độ phòng"
+      ],
+      "answer": 0,
+      "explanation": "Năng lượng bức xạ được chuyển thành ánh sáng rồi thành tín hiệu điện."
+    },
+    {
+      "id": "at-r10-q002",
+      "page": 9,
+      "prompt": "Các vùng làm việc của detector khí được phân biệt chủ yếu theo yếu tố nào?",
+      "options": [
+        "Điện áp phân cực",
+        "Màu vỏ thiết bị",
+        "Tên phòng sử dụng",
+        "Chiều dài dây nguồn điện lưới"
+      ],
+      "answer": 0,
+      "explanation": "Đồ thị detector khí biểu diễn các vùng theo điện áp."
+    },
+    {
+      "id": "at-r10-q003",
+      "page": 14,
+      "prompt": "Trong vùng tỷ lệ, thông tin năng lượng liên quan đặc điểm xung nào?",
+      "options": [
+        "Biên độ xung",
+        "Chỉ màu màn hình",
+        "Chỉ âm lượng loa",
+        "Chỉ nhãn nguồn"
+      ],
+      "answer": 0,
+      "explanation": "Biên độ xung liên quan năng lượng được bức xạ truyền trong detector."
+    },
+    {
+      "id": "at-r10-q004",
+      "page": 17,
+      "prompt": "Vì sao ống GM không phù hợp để phân biệt năng lượng từ biên độ xung?",
+      "options": [
+        "Xung có biên độ tương tự bất kể năng lượng ban đầu",
+        "Không tạo được xung điện",
+        "Chỉ đo ánh sáng nhìn thấy",
+        "Luôn cho phổ năng lượng rất hẹp"
+      ],
+      "answer": 0,
+      "explanation": "Trong vùng GM, sự phóng điện làm mất thông tin năng lượng ban đầu của xung."
+    },
+    {
+      "id": "at-r10-q005",
+      "page": 31,
+      "prompt": "TLD được đọc bằng thao tác nào trong bài?",
+      "options": [
+        "Gia nhiệt để giải phóng năng lượng dưới dạng ánh sáng",
+        "Làm đông mẫu rồi đo khối lượng",
+        "Chỉ tăng áp suất phòng",
+        "Chỉ chiếu ánh sáng đỏ lên vỏ"
+      ],
+      "answer": 0,
+      "explanation": "Nhiệt giải phóng các hạt mang điện bị bẫy, tạo tín hiệu phát quang."
+    },
+    {
+      "id": "at-r10-q006",
+      "page": 33,
+      "prompt": "Photocathode trong PMT thực hiện chức năng nào?",
+      "options": [
+        "Phát electron khi nhận ánh sáng",
+        "Che chắn toàn bộ tia gamma",
+        "Làm phân rã nguồn chuẩn",
+        "Làm lạnh bệnh nhân"
+      ],
+      "answer": 0,
+      "explanation": "Photocathode chuyển tín hiệu quang thành electron."
+    },
+    {
+      "id": "at-r10-q007",
+      "page": 35,
+      "prompt": "Chuỗi dynode trong PMT có vai trò chính nào?",
+      "options": [
+        "Nhân số electron để khuếch đại tín hiệu",
+        "Giảm hoạt độ phóng xạ của mẫu",
+        "Đo thể tích lọ thuốc",
+        "Thay đổi thời gian bán rã"
+      ],
+      "answer": 0,
+      "explanation": "Các electron thứ cấp tạo sự khuếch đại qua chuỗi dynode."
+    },
+    {
+      "id": "at-r10-q008",
+      "page": 41,
+      "prompt": "Theo bảng vật liệu, NaI(Tl) được ứng dụng trong thiết bị nào?",
+      "options": [
+        "Gamma camera và bộ đếm nhấp nháy",
+        "Chỉ bộ lọc HEPA",
+        "Chỉ thiết bị đo điện trở đất",
+        "Chỉ máy đo độ ẩm"
+      ],
+      "answer": 0,
+      "explanation": "Bài liệt kê ứng dụng NaI(Tl) trong ghi đo photon và gamma camera/SPECT."
+    },
+    {
+      "id": "at-r10-q009",
+      "page": 44,
+      "prompt": "Đơn vị biểu diễn độ nhạy nào được bài sử dụng?",
+      "options": [
+        "cpm/MBq",
+        "mA-min/tuần",
+        "kg/m³",
+        "Ω/m"
+      ],
+      "answer": 0,
+      "explanation": "Độ nhạy là tốc độ đếm trên hoạt độ nguồn, ví dụ cpm/MBq."
+    },
+    {
+      "id": "at-r10-q010",
+      "page": 45,
+      "prompt": "Với mô hình nguồn điểm trong bài, tăng khoảng cách gấp đôi làm thành phần hiệu suất hình học thế nào?",
+      "options": [
+        "Còn một phần tư",
+        "Gấp đôi",
+        "Gấp bốn",
+        "Không thay đổi"
+      ],
+      "answer": 0,
+      "explanation": "Thành phần hình học tỷ lệ nghịch bình phương khoảng cách."
+    },
+    {
+      "id": "at-r10-q011",
+      "page": 48,
+      "prompt": "Cửa sổ năng lượng 20% quanh 140 keV trong ví dụ là khoảng nào?",
+      "options": [
+        "126–154 keV",
+        "140–168 keV",
+        "112–140 keV",
+        "70–210 keV"
+      ],
+      "answer": 0,
+      "explanation": "Bề rộng tổng là 28 keV, tức ±14 keV quanh đỉnh 140 keV."
+    },
+    {
+      "id": "at-r10-q012",
+      "page": 48,
+      "prompt": "Mở rộng cửa sổ năng lượng có đánh đổi nào theo bài?",
+      "options": [
+        "Nhận thêm số đếm nhưng cũng nhận thêm tán xạ",
+        "Luôn loại bỏ mọi photon tán xạ",
+        "Luôn làm thời gian chết bằng không",
+        "Làm hoạt độ nguồn tăng"
+      ],
+      "answer": 0,
+      "explanation": "Cửa sổ rộng làm tăng thu nhận, gồm cả thành phần ngoài đỉnh mong muốn."
+    },
+    {
+      "id": "at-r10-q013",
+      "page": 49,
+      "prompt": "Khi tính độ nhạy từ tốc độ đếm nguồn, cần xử lý phông thế nào?",
+      "options": [
+        "Trừ tốc độ đếm phông khỏi tốc độ đếm tổng",
+        "Cộng phông hai lần",
+        "Bỏ qua phông trong mọi trường hợp",
+        "Chia hoạt độ cho phông duy nhất"
+      ],
+      "answer": 0,
+      "explanation": "Công thức sử dụng Rg − Rb và hoạt độ nguồn đã hiệu chỉnh thời gian."
+    },
+    {
+      "id": "at-r10-q014",
+      "page": 50,
+      "prompt": "Để so sánh độ nhạy giữa các lần đo, điều kiện nào cần tái lập?",
+      "options": [
+        "Hình học nguồn–detector",
+        "Chỉ tên người đo",
+        "Chỉ màu lọ",
+        "Chỉ vị trí ghi nhãn trong sổ"
+      ],
+      "answer": 0,
+      "explanation": "Kích thước nguồn, hình dạng và khoảng cách ảnh hưởng độ nhạy."
+    },
+    {
+      "id": "at-r10-q015",
+      "page": 51,
+      "prompt": "Nếu FWHM = 14 keV tại đỉnh 140 keV, độ phân giải theo phần trăm là bao nhiêu?",
+      "options": [
+        "10%",
+        "1%",
+        "20%",
+        "100%"
+      ],
+      "answer": 0,
+      "explanation": "Theo công thức FWHM/E đỉnh × 100 = 14/140 × 100 = 10%."
+    },
+    {
+      "id": "at-r10-q016",
+      "page": 52,
+      "prompt": "Đỉnh quang điện hẹp hơn biểu thị điều gì?",
+      "options": [
+        "Khả năng phân giải năng lượng tốt hơn",
+        "Hoạt độ nguồn luôn thấp hơn",
+        "Thời gian bán rã luôn dài hơn",
+        "Không cần trừ phông"
+      ],
+      "answer": 0,
+      "explanation": "Đỉnh hẹp giúp tách các thành phần năng lượng, trong đó có photon tán xạ."
+    },
+    {
+      "id": "at-r10-q017",
+      "page": 53,
+      "prompt": "Thời gian chết có thể làm tốc độ đếm đo được thế nào khi tốc độ sự kiện cao?",
+      "options": [
+        "Thấp hơn tốc độ sự kiện thực",
+        "Luôn đúng tuyệt đối",
+        "Luôn bằng không kể cả nguồn yếu",
+        "Luôn cao gấp đôi tốc độ thực"
+      ],
+      "answer": 0,
+      "explanation": "Detector chưa sẵn sàng trong thời gian chết nên bỏ sót một số sự kiện."
+    },
+    {
+      "id": "at-r10-q018",
+      "page": 58,
+      "prompt": "Máy chuẩn liều hoạt độ được bài mô tả dùng cấu trúc nào?",
+      "options": [
+        "Buồng ion hóa dạng giếng",
+        "Chỉ ống nghe âm học",
+        "Chỉ bộ lọc không khí",
+        "Chỉ điện cực đo pH"
+      ],
+      "answer": 0,
+      "explanation": "Buồng dạng giếng tiếp nhận lọ hoặc bơm tiêm chứa dược chất phóng xạ."
+    },
+    {
+      "id": "at-r10-q019",
+      "page": 59,
+      "prompt": "Trước khi đọc hoạt độ trên máy chuẩn liều, cần chọn đúng thông tin nào?",
+      "options": [
+        "Đồng vị phóng xạ",
+        "Chỉ số phòng",
+        "Chỉ giới tính người thao tác",
+        "Chỉ dung lượng pin điện thoại"
+      ],
+      "answer": 0,
+      "explanation": "Cài đặt hiệu chuẩn phụ thuộc đồng vị."
+    },
+    {
+      "id": "at-r10-q020",
+      "page": 62,
+      "prompt": "Lớp chì quanh bộ đếm giếng có mục đích chính nào?",
+      "options": [
+        "Giảm số đếm phông từ môi trường",
+        "Tăng hoạt độ mẫu",
+        "Thay đổi đồng vị trong mẫu",
+        "Tăng thể tích giếng"
+      ],
+      "answer": 0,
+      "explanation": "Che chắn giúp giảm thành phần phông ngoài mẫu."
+    },
+    {
+      "id": "at-r10-q021",
+      "page": 65,
+      "prompt": "Đầu dò phẫu thuật trong bài hỗ trợ việc nào?",
+      "options": [
+        "Định vị vùng tích tụ chất đánh dấu bằng số đếm",
+        "Đo điện trở cách điện ổ cắm",
+        "Phân loại nhóm nguy cơ vi sinh",
+        "Đếm tiểu phân phòng sạch"
+      ],
+      "answer": 0,
+      "explanation": "Bài mô tả đầu dò nhỏ cầm tay dùng để xác định vị trí như hạch đánh dấu."
+    },
+    {
+      "id": "at-r10-q022",
+      "page": 80,
+      "prompt": "Một chương trình QC cần có nhóm thông tin nào?",
+      "options": [
+        "Quy trình, dung sai, hành động khắc phục và hồ sơ",
+        "Chỉ tên nhà sản xuất",
+        "Chỉ giá mua thiết bị",
+        "Chỉ lịch nghỉ của nhân viên"
+      ],
+      "answer": 0,
+      "explanation": "Các thành phần này giúp đánh giá và xử lý kết quả kiểm tra chất lượng."
+    },
+    {
+      "id": "at-r10-q023",
+      "page": 85,
+      "prompt": "Kiểm tra hằng ngày của máy khảo sát gồm nội dung nào trong bài?",
+      "options": [
+        "Pin và mức phông, tình trạng nhiễm bẩn",
+        "Chỉ sơn lại vỏ máy",
+        "Chỉ tăng điện áp tùy ý",
+        "Chỉ đổi đơn vị sang kg"
+      ],
+      "answer": 0,
+      "explanation": "Trang 85 liệt kê các kiểm tra cơ bản trước sử dụng."
+    },
+    {
+      "id": "at-r10-q024",
+      "page": 93,
+      "prompt": "Trong kiểm tra tuyến tính máy chuẩn liều, phương pháp che chì có ưu điểm thời gian nào được bài nêu?",
+      "options": [
+        "Nhanh hơn chờ nguồn phân rã qua nhiều mức hoạt độ",
+        "Luôn phải chờ nhiều chu kỳ bán rã hơn",
+        "Không tạo được mức tín hiệu khác nhau",
+        "Chỉ dùng để đo phông phòng"
+      ],
+      "answer": 0,
+      "explanation": "Bài so sánh phương pháp suy giảm bằng che chắn với phương pháp theo dõi phân rã."
+    }
+  ],
+  "source": {
+    "file": "10. Detectors ghi do buc xa.pdf",
+    "url": "sources/at-r10.pdf",
+    "pages": 100,
+    "sha256": "142bd2730f72950df595f903555bc5eff651474285fee79fe9ee8b597acb452d"
+  }
+}

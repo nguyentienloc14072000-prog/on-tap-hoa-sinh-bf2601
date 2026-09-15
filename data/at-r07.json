@@ -1,0 +1,266 @@
+{
+  "id": "at-r07",
+  "courseId": "et4551",
+  "title": "Bức xạ 7 · Bảo vệ đối với chiếu xạ ngoài",
+  "group": "An toàn bức xạ",
+  "description": "Thời gian, khoảng cách, che chắn, HVL/TVL và kiểm soát liều.",
+  "sections": [
+    {
+      "title": "Ba nguyên tắc kiểm soát",
+      "from": 2,
+      "to": 10,
+      "points": [
+        "Nguồn ở ngoài cơ thể có thể gây chiếu xạ ngoài; bài nhấn mạnh tia X, gamma và neutron có khả năng đâm xuyên.",
+        "Ba nguyên tắc: giảm thời gian, tăng khoảng cách thích hợp và che chắn.",
+        "Với suất liều không đổi, liều = suất liều × thời gian. ALARA hướng đến mức thấp có thể đạt được một cách hợp lý."
+      ]
+    },
+    {
+      "title": "Khoảng cách và nguồn gamma",
+      "from": 11,
+      "to": 14,
+      "points": [
+        "Định luật nghịch đảo bình phương áp dụng chặt chẽ với nguồn điểm, detector điểm và hấp thụ giữa chúng không đáng kể.",
+        "D₁r₁² = D₂r₂²; ở đây D là suất liều.",
+        "Công thức gần đúng trong bài: D = A × E /(6r²), D bằng µSv/h, A bằng MBq, E bằng MeV trên mỗi phân rã và r bằng m."
+      ]
+    },
+    {
+      "title": "Vật liệu và bề dày che chắn",
+      "from": 15,
+      "to": 26,
+      "points": [
+        "Lựa chọn che chắn phụ thuộc loại bức xạ, hoạt độ và suất liều sau chắn.",
+        "Với beta cần chú ý bức xạ hãm; bài nêu ưu tiên vật liệu Z thấp như nhựa Perspex hoặc nhôm để hạn chế tia X thứ cấp.",
+        "Trong mô hình suy giảm mũ, HVL = 0,693/µ. Một HVL để lại một nửa cường độ; một TVL để lại một phần mười.",
+        "Neutron có các tương tác đàn hồi, không đàn hồi và bắt neutron; cần phân biệt cơ chế với photon."
+      ]
+    },
+    {
+      "title": "Kiểm soát khu vực và cá nhân",
+      "from": 27,
+      "to": 32,
+      "points": [
+        "Phân loại khu vực nhằm tách các vùng theo mức nguy hiểm chiếu xạ. Các mức số liệu trong slide thuộc phạm vi bài giảng.",
+        "Kiểm xạ khi đưa cơ sở vào vận hành và định kỳ giúp đánh giá che chắn, mức liều và kiểm soát liều tích lũy.",
+        "Bài liệt kê liều kế phim, TLD, điện tử và các thiết bị cho neutron."
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "at-r07-q001",
+      "page": 3,
+      "prompt": "Ba nguyên tắc bảo vệ chiếu xạ ngoài trong bài là gì?",
+      "options": [
+        "Thời gian, khoảng cách và che chắn",
+        "Nhiệt độ, độ ẩm và chiếu sáng",
+        "Hấp thu, tiêu hóa và bài tiết",
+        "Nguyên tử số, số khối và đồng vị"
+      ],
+      "answer": 0,
+      "explanation": "Trang 3 liệt kê ba nguyên tắc kiểm soát này."
+    },
+    {
+      "id": "at-r07-q002",
+      "page": 4,
+      "prompt": "Ở suất liều không đổi, giảm thời gian còn một nửa làm liều thế nào?",
+      "options": [
+        "Còn một nửa",
+        "Gấp đôi",
+        "Gấp bốn",
+        "Không đổi"
+      ],
+      "answer": 0,
+      "explanation": "Liều tỷ lệ thuận với thời gian trong vùng có suất liều không đổi."
+    },
+    {
+      "id": "at-r07-q003",
+      "page": 6,
+      "prompt": "Theo ví dụ 400 µSv mỗi tuần và 20 µSv/h, thời gian tính được là bao nhiêu?",
+      "options": [
+        "20 giờ",
+        "2 giờ",
+        "40 giờ",
+        "200 giờ"
+      ],
+      "answer": 0,
+      "explanation": "Lời giải ở trang 6 tính 400 = 20 × t."
+    },
+    {
+      "id": "at-r07-q004",
+      "page": 8,
+      "prompt": "Với dữ kiện 400 µSv cho 40 giờ trong ví dụ, suất liều bằng bao nhiêu?",
+      "options": [
+        "10 µSv/h",
+        "100 µSv/h",
+        "0,1 µSv/h",
+        "40 µSv/h"
+      ],
+      "answer": 0,
+      "explanation": "Suất liều bằng 400/40 = 10 µSv/h theo ví dụ."
+    },
+    {
+      "id": "at-r07-q005",
+      "page": 10,
+      "prompt": "ALARA trong bài yêu cầu mức liều như thế nào?",
+      "options": [
+        "Thấp có thể đạt được một cách hợp lý",
+        "Luôn bằng giới hạn tối đa",
+        "Luôn bằng không bất kể điều kiện",
+        "Chỉ giảm liều sau khi có sự cố"
+      ],
+      "answer": 0,
+      "explanation": "Bài nhấn mạnh tối ưu liều dưới các giới hạn với điều kiện hợp lý."
+    },
+    {
+      "id": "at-r07-q006",
+      "page": 11,
+      "prompt": "Định luật nghịch đảo bình phương áp dụng chặt chẽ trong điều kiện nào?",
+      "options": [
+        "Nguồn điểm, detector điểm, hấp thụ ở giữa không đáng kể",
+        "Mọi nguồn mở rộng với mọi lớp chắn",
+        "Mọi khoảng cách bất kể hình học",
+        "Chỉ nguồn nằm trong cơ thể"
+      ],
+      "answer": 0,
+      "explanation": "Bài nêu rõ điều kiện giới hạn của mô hình."
+    },
+    {
+      "id": "at-r07-q007",
+      "page": 11,
+      "prompt": "Với mô hình nguồn điểm, tăng khoảng cách gấp đôi làm suất liều thế nào?",
+      "options": [
+        "Còn 1/4",
+        "Còn 1/2",
+        "Gấp đôi",
+        "Gấp bốn"
+      ],
+      "answer": 0,
+      "explanation": "Suất liều tỷ lệ nghịch bình phương khoảng cách."
+    },
+    {
+      "id": "at-r07-q008",
+      "page": 13,
+      "prompt": "Theo công thức gần đúng của bài, nguồn Co-60 240 MBq, E = 1,17 + 1,33 MeV, r = 2 m cho D bao nhiêu?",
+      "options": [
+        "25 µSv/h",
+        "100 µSv/h",
+        "2,5 µSv/h",
+        "250 µSv/h"
+      ],
+      "answer": 0,
+      "explanation": "D = 240 × 2,5 /(6 × 2²) = 25 µSv/h theo dữ kiện bài tập."
+    },
+    {
+      "id": "at-r07-q009",
+      "page": 15,
+      "prompt": "Lựa chọn che chắn phụ thuộc vào nhóm yếu tố nào?",
+      "options": [
+        "Loại bức xạ, hoạt độ nguồn và suất liều sau chắn",
+        "Chỉ màu vật liệu",
+        "Chỉ thời gian mua nguồn",
+        "Chỉ số người trong lớp"
+      ],
+      "answer": 0,
+      "explanation": "Trang 15 liệt kê các yếu tố quyết định vật liệu và lượng che chắn."
+    },
+    {
+      "id": "at-r07-q010",
+      "page": 16,
+      "prompt": "Vì sao cần chú ý vật liệu Z thấp khi che chắn beta theo bài?",
+      "options": [
+        "Hạn chế bức xạ hãm thứ cấp",
+        "Để tạo thêm tia X năng lượng cao",
+        "Để tăng số phân rã của nguồn",
+        "Để không cần kiểm xạ"
+      ],
+      "answer": 0,
+      "explanation": "Bài nêu sự giảm tốc beta trong vật liệu có thể phát tia X hãm."
+    },
+    {
+      "id": "at-r07-q011",
+      "page": 18,
+      "prompt": "Trong mô hình suy giảm mũ, HVL liên hệ µ thế nào?",
+      "options": [
+        "HVL = 0,693/µ",
+        "HVL = µ/0,693",
+        "HVL = 2µ",
+        "HVL = µ²"
+      ],
+      "answer": 0,
+      "explanation": "Công thức được suy ra từ điều kiện cường độ còn một nửa."
+    },
+    {
+      "id": "at-r07-q012",
+      "page": 20,
+      "prompt": "Một lớp TVL làm cường độ còn bao nhiêu?",
+      "options": [
+        "1/10",
+        "1/2",
+        "1/4",
+        "1/100 trong mọi trường hợp"
+      ],
+      "answer": 0,
+      "explanation": "TVL là tenth-value layer, tức độ dày một phần mười."
+    },
+    {
+      "id": "at-r07-q013",
+      "page": 22,
+      "prompt": "Giảm 160 xuống 10 µSv/h cần bao nhiêu HVL?",
+      "options": [
+        "4 HVL",
+        "2 HVL",
+        "8 HVL",
+        "16 HVL"
+      ],
+      "answer": 0,
+      "explanation": "160/10 = 16 = 2⁴, nên cần bốn lớp giảm nửa."
+    },
+    {
+      "id": "at-r07-q014",
+      "page": 22,
+      "prompt": "Với 4 HVL và mỗi HVL chì là 12,5 mm trong bài tập, bề dày là bao nhiêu?",
+      "options": [
+        "50 mm",
+        "25 mm",
+        "12,5 mm",
+        "200 mm"
+      ],
+      "answer": 0,
+      "explanation": "Bề dày theo mô hình bài tập là 4 × 12,5 = 50 mm."
+    },
+    {
+      "id": "at-r07-q015",
+      "page": 24,
+      "prompt": "Nhóm tương tác neutron nào được bài liệt kê?",
+      "options": [
+        "Đàn hồi, không đàn hồi và bắt neutron",
+        "Chỉ quang điện và Compton",
+        "Chỉ truyền thẳng không tương tác",
+        "Chỉ nhiệt huỳnh quang"
+      ],
+      "answer": 0,
+      "explanation": "Ba phản ứng chính được nêu trong phần che chắn neutron."
+    },
+    {
+      "id": "at-r07-q016",
+      "page": 29,
+      "prompt": "Kiểm xạ cơ sở được bài nêu cần thực hiện khi nào?",
+      "options": [
+        "Khi đưa vào vận hành và thường kỳ khi hoạt động",
+        "Chỉ một lần trước xây dựng",
+        "Chỉ khi hết nguồn",
+        "Không cần nếu có biển báo"
+      ],
+      "answer": 0,
+      "explanation": "Kiểm xạ phục vụ kiểm tra che chắn và kiểm soát mức liều trong vận hành."
+    }
+  ],
+  "source": {
+    "file": "7. Bao ve nguon buc xa ngoai.pdf",
+    "url": "sources/at-r07.pdf",
+    "pages": 32,
+    "sha256": "81da1c5b69c2333fd0e1bb6b78616ab4a47e778b3d374cecc1253157e0df3883"
+  }
+}

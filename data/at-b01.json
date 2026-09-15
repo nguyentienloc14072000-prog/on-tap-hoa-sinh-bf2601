@@ -1,0 +1,267 @@
+{
+  "id": "at-b01",
+  "courseId": "et4551",
+  "title": "Sinh học 1 · An toàn và an ninh sinh học",
+  "group": "An toàn sinh học",
+  "description": "Khái niệm, nhóm nguy cơ, cấp BSL và các vấn đề đạo đức được giới thiệu trong bài.",
+  "sections": [
+    {
+      "title": "Phạm vi học phần và chủ đề đạo đức",
+      "from": 2,
+      "to": 12,
+      "points": [
+        "Bài mở đầu giới thiệu an toàn trong kỹ thuật y sinh và năm chương về an toàn sinh học, cùng phần đạo đức sinh học.",
+        "Sáu chủ đề thảo luận: tự quyết; lợi ích và không gây hại; công bằng; trách nhiệm nghề nghiệp và minh bạch; quyền riêng tư dữ liệu; đạo đức nghiên cứu.",
+        "Các tình huống ở trang 6–11 là đề thảo luận mở, không kèm đáp án chuẩn trong bài giảng."
+      ]
+    },
+    {
+      "title": "An toàn và an ninh sinh học",
+      "from": 13,
+      "to": 23,
+      "points": [
+        "An toàn sinh học: nguyên tắc, kỹ thuật và thực hành nhằm ngăn phơi nhiễm không mong muốn hoặc vô tình làm thất thoát tác nhân gây bệnh, độc tố.",
+        "An ninh sinh học: ngăn mất mát, đánh cắp, lạm dụng, đánh tráo hoặc cố tình phóng thích tác nhân và độc tố.",
+        "Tác nhân nguy hiểm được liệt kê gồm virus, vi khuẩn, nấm, ký sinh trùng, prion; DNA tái tổ hợp, sinh vật chuyển gen; tế bào, mô và dịch cơ thể.",
+        "Bài nhắc Hội nghị Asilomar năm 1975 trong lịch sử an toàn sinh học hiện đại."
+      ]
+    },
+    {
+      "title": "Nhóm nguy cơ và cấp độ BSL",
+      "from": 24,
+      "to": 32,
+      "points": [
+        "Nhóm 1: nguy cơ thấp hoặc không có với cá nhân và cộng đồng. Nhóm 2: nguy cơ tương đối với cá nhân, thấp với cộng đồng, có biện pháp kiểm soát hữu hiệu theo bài.",
+        "Nhóm 3: nguy cơ cao với cá nhân, thấp với cộng đồng. Nhóm 4: nguy cơ cao với cả cá nhân và cộng đồng theo trang 25.",
+        "BSL-1 có thực hành cơ bản trên bàn mở; BSL-2 tăng kiểm soát ra vào, trang bị tủ ATSH và xử lý chất thải.",
+        "BSL-3 nhấn mạnh áp suất âm, kiểm soát khí, tủ ATSH II/III và đào tạo chuyên sâu. BSL-4 yêu cầu cách ly, bảo hộ và kiểm soát ở mức cao nhất như mô tả trong slide."
+      ]
+    },
+    {
+      "title": "Áp dụng trong kỹ thuật y sinh",
+      "from": 33,
+      "to": 38,
+      "points": [
+        "Cần kết hợp phân loại tác nhân, thiết bị, PPE, SOP, đào tạo, đánh giá rủi ro và quản lý chất thải.",
+        "Nguồn nguy cơ có thể là mẫu bệnh phẩm, mô, dịch cơ thể, thiết bị nhiễm khuẩn và công nghệ gen.",
+        "An ninh sinh học bao gồm kiểm soát truy cập, giám sát vật liệu, bảo vệ dữ liệu nhạy cảm và báo cáo bất thường."
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "at-b01-q001",
+      "page": 21,
+      "prompt": "An toàn sinh học chủ yếu nhằm ngăn điều gì theo định nghĩa trong bài?",
+      "options": [
+        "Phơi nhiễm không mong muốn hoặc vô tình làm thất thoát tác nhân",
+        "Chỉ việc đánh cắp dữ liệu nghiên cứu",
+        "Chỉ việc cố ý đánh tráo mẫu",
+        "Mọi hoạt động trao đổi học thuật"
+      ],
+      "answer": 0,
+      "explanation": "Trang 21 nhấn mạnh phòng ngừa phơi nhiễm ngoài ý muốn và thất thoát vô tình."
+    },
+    {
+      "id": "at-b01-q002",
+      "page": 21,
+      "prompt": "Ngăn đánh cắp, lạm dụng hoặc cố tình phóng thích tác nhân thuộc khái niệm nào?",
+      "options": [
+        "An ninh sinh học",
+        "Hoạt độ phóng xạ",
+        "Tiệt trùng nhiệt",
+        "Định lượng vi sinh"
+      ],
+      "answer": 0,
+      "explanation": "Đây là các hành vi được nêu trong định nghĩa an ninh sinh học."
+    },
+    {
+      "id": "at-b01-q003",
+      "page": 23,
+      "prompt": "Prion được bài giảng mô tả là gì?",
+      "options": [
+        "Hạt protein có khả năng gây bệnh truyền nhiễm",
+        "Một loại hạt bức xạ ion hóa",
+        "Mọi phân tử DNA tái tổ hợp",
+        "Một nhóm hóa chất ăn mòn"
+      ],
+      "answer": 0,
+      "explanation": "Danh sách tác nhân nguy hiểm giải thích prion là hạt protein có khả năng gây bệnh truyền nhiễm."
+    },
+    {
+      "id": "at-b01-q004",
+      "page": 24,
+      "prompt": "Nhóm nguy cơ 1 có mức nguy cơ như thế nào?",
+      "options": [
+        "Không có hoặc thấp với cá nhân và cộng đồng",
+        "Cao với cá nhân, thấp với cộng đồng",
+        "Cao với cả cá nhân và cộng đồng",
+        "Thấp với cá nhân, luôn cao với cộng đồng"
+      ],
+      "answer": 0,
+      "explanation": "Trang 24 nêu đặc trưng này cho nhóm nguy cơ 1."
+    },
+    {
+      "id": "at-b01-q005",
+      "page": 24,
+      "prompt": "Theo trang 24, nhóm nguy cơ 2 có đặc điểm nào?",
+      "options": [
+        "Nguy cơ tương đối với cá nhân và thấp với cộng đồng",
+        "Không có khả năng gây bệnh trong mọi tình huống",
+        "Luôn lan truyền nhanh và chưa có cách điều trị",
+        "Nguy cơ cao với cả cá nhân và cộng đồng"
+      ],
+      "answer": 0,
+      "explanation": "Bài mô tả nhóm 2 có nguy cơ tương đối với cá nhân, thấp với cộng đồng và có biện pháp kiểm soát hữu hiệu."
+    },
+    {
+      "id": "at-b01-q006",
+      "page": 25,
+      "prompt": "Theo trang 25, nhóm nguy cơ 3 có mức nguy cơ nào?",
+      "options": [
+        "Cao với cá nhân, thấp với cộng đồng",
+        "Thấp với cá nhân, cao với cộng đồng",
+        "Không có với cả hai",
+        "Cao với cả hai trong mọi trường hợp"
+      ],
+      "answer": 0,
+      "explanation": "Cặp mức nguy cơ này được ghi trực tiếp ở phần nhóm 3."
+    },
+    {
+      "id": "at-b01-q007",
+      "page": 25,
+      "prompt": "Theo trang 25, nhóm nguy cơ nào được mô tả là cao với cả cá nhân và cộng đồng?",
+      "options": [
+        "Nhóm 4",
+        "Nhóm 1",
+        "Nhóm 2",
+        "Nhóm 3"
+      ],
+      "answer": 0,
+      "explanation": "Bài phân biệt nhóm 4 với nhóm 3 ở nguy cơ đối với cộng đồng."
+    },
+    {
+      "id": "at-b01-q008",
+      "page": 29,
+      "prompt": "Làm việc trên mặt bàn mở với thực hành phòng ngừa cơ bản được mô tả ở cấp nào?",
+      "options": [
+        "BSL-1",
+        "BSL-2",
+        "BSL-3",
+        "BSL-4"
+      ],
+      "answer": 0,
+      "explanation": "Phần BSL-1 nêu công việc được thực hiện trên mặt bàn mở."
+    },
+    {
+      "id": "at-b01-q009",
+      "page": 30,
+      "prompt": "Khi xử lý tác nhân có thể phát tán qua khí dung ở BSL-2, slide nhấn mạnh thiết bị nào?",
+      "options": [
+        "Tủ an toàn sinh học",
+        "Chỉ bàn thao tác mở",
+        "Chỉ tủ bảo quản giấy",
+        "Chỉ đèn chiếu sáng khẩn cấp"
+      ],
+      "answer": 0,
+      "explanation": "Tủ ATSH được nêu cho thao tác với tác nhân phát tán qua khí dung."
+    },
+    {
+      "id": "at-b01-q010",
+      "page": 31,
+      "prompt": "Thông số áp suất nào được nhấn mạnh trong mô tả BSL-3?",
+      "options": [
+        "Áp suất âm",
+        "Áp suất dương so với mọi khu vực",
+        "Không cần kiểm soát áp suất",
+        "Áp suất thay đổi tùy thời tiết"
+      ],
+      "answer": 0,
+      "explanation": "Trang 31 mô tả duy trì áp suất âm để hạn chế khí thoát ra ngoài."
+    },
+    {
+      "id": "at-b01-q011",
+      "page": 32,
+      "prompt": "Đặc điểm nào thuộc mô tả BSL-4 trong bài?",
+      "options": [
+        "Biệt lập, buồng đệm và kiểm soát an ninh cao",
+        "Làm việc trên bàn mở như yêu cầu duy nhất",
+        "Mọi người được tự do ra vào",
+        "Không cần khử trùng vật liệu ra ngoài"
+      ],
+      "answer": 0,
+      "explanation": "Phần BSL-4 nêu biệt lập, cách ly và giám sát an ninh chặt chẽ."
+    },
+    {
+      "id": "at-b01-q012",
+      "page": 33,
+      "prompt": "SOP và đào tạo nhân viên có vai trò nào trong bài?",
+      "options": [
+        "Chuẩn hóa thao tác và kiểm tra tuân thủ an toàn",
+        "Thay thế hoàn toàn thiết bị bảo hộ",
+        "Loại bỏ nhu cầu đánh giá rủi ro",
+        "Chỉ dùng để tính học phí"
+      ],
+      "answer": 0,
+      "explanation": "Bài yêu cầu huấn luyện định kỳ, thực hiện SOP và kiểm tra tuân thủ."
+    },
+    {
+      "id": "at-b01-q013",
+      "page": 38,
+      "prompt": "Biện pháp nào được xếp vào an ninh sinh học?",
+      "options": [
+        "Kiểm soát truy cập khu vực và dữ liệu nhạy cảm",
+        "Chỉ tăng nhiệt độ phòng",
+        "Chỉ đo đường huyết",
+        "Thay tất cả đánh giá nguy cơ bằng PPE"
+      ],
+      "answer": 0,
+      "explanation": "Kiểm soát truy cập là một biện pháp an ninh sinh học được liệt kê."
+    },
+    {
+      "id": "at-b01-q014",
+      "page": 14,
+      "prompt": "Hội nghị Asilomar được bài giảng gắn với nội dung nào?",
+      "options": [
+        "Hướng dẫn đạo đức và an toàn nghiên cứu DNA tái tổ hợp",
+        "Phát minh máy X-quang",
+        "Định nghĩa đơn vị gray",
+        "Phân loại thiết bị điện CF"
+      ],
+      "answer": 0,
+      "explanation": "Trang 14 trình bày Asilomar năm 1975 trong lịch sử an toàn sinh học hiện đại."
+    },
+    {
+      "id": "at-b01-q015",
+      "page": 8,
+      "prompt": "Tình huống máy thở thông minh khó tiếp cận ở vùng sâu được đặt dưới chủ đề nào?",
+      "options": [
+        "Công bằng và tiếp cận công nghệ",
+        "Chỉ hiệu suất lọc HEPA",
+        "Chỉ đo liều bức xạ",
+        "Phân nhóm vi sinh vật"
+      ],
+      "answer": 0,
+      "explanation": "Đây là tên chủ đề 3 trong phần thảo luận, không phải kết luận giải quyết tình huống."
+    },
+    {
+      "id": "at-b01-q016",
+      "page": 9,
+      "prompt": "Tình huống kỹ sư phát hiện sai số máy đo huyết áp được đặt dưới chủ đề nào?",
+      "options": [
+        "Trách nhiệm nghề nghiệp và minh bạch",
+        "Đường lây truyền qua vector",
+        "Thiết kế dòng khí laminar",
+        "Định luật nghịch đảo bình phương"
+      ],
+      "answer": 0,
+      "explanation": "Tên chủ đề ở trang 9 là trách nhiệm nghề nghiệp và minh bạch trong kỹ thuật y sinh."
+    }
+  ],
+  "source": {
+    "file": "1. ET4551_ Introduction to Biosafety.pdf",
+    "url": "sources/at-b01.pdf",
+    "pages": 39,
+    "sha256": "f6079c740160c3eea338f175178c08971d092d4b0136a3b267ea9ff52277397e"
+  }
+}
