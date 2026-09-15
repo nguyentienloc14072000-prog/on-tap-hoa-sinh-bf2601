@@ -1,0 +1,184 @@
+{
+  "id": "at-b04",
+  "courseId": "et4551",
+  "title": "Sinh học 4 · Hệ thống quy định trong bài giảng",
+  "group": "An toàn sinh học",
+  "description": "Cartagena, quản lý mẫu, điều kiện PXN và an toàn sinh vật biến đổi gen.",
+  "sections": [
+    {
+      "title": "Phạm vi của phần ôn quy định",
+      "from": 1,
+      "to": 1,
+      "points": [
+        "Phần này ôn các văn bản được liệt kê trong bài giảng. Tài liệu không phải bản kiểm tra hiệu lực pháp luật hiện hành."
+      ]
+    },
+    {
+      "title": "Nghị định thư Cartagena",
+      "from": 2,
+      "to": 3,
+      "points": [
+        "Mục tiêu được nêu: bảo vệ đa dạng sinh học trước rủi ro từ sinh vật biến đổi gen, nhất là vận chuyển xuyên biên giới.",
+        "Nội dung gồm AIA, thông báo và chấp thuận, thông tin–ghi nhãn, BCH, biện pháp phòng ngừa và tăng cường năng lực quốc gia."
+      ]
+    },
+    {
+      "title": "Pháp luật và quản lý phòng xét nghiệm trong slide",
+      "from": 4,
+      "to": 8,
+      "points": [
+        "Bài trình bày bảo tồn và sử dụng bền vững đa dạng sinh học, quản lý GMO và đánh giá rủi ro.",
+        "Mục ATSH trong xét nghiệm của Luật Phòng, chống bệnh truyền nhiễm được trình bày qua Điều 24: PXN; Điều 25: mẫu bệnh phẩm; Điều 26: bảo vệ người làm việc.",
+        "Nghị định 103/2016/NĐ-CP được bài gắn với điều kiện cơ sở vật chất, thiết bị, nhân sự, thực hành, kiểm tra và xử lý sự cố.",
+        "Các thông tư được nhóm theo danh mục vi sinh vật, quản lý mẫu, thực hành ATSH, chứng nhận, chất thải và sức khỏe người lao động."
+      ]
+    },
+    {
+      "title": "An toàn sinh vật biến đổi gen",
+      "from": 9,
+      "to": 9,
+      "points": [
+        "Mục tiêu: sức khỏe cộng đồng, đa dạng sinh học, môi trường và ứng dụng công nghệ sinh học bền vững.",
+        "Biện pháp được nêu: đánh giá rủi ro trước thử nghiệm/lưu hành; giám sát môi trường; cách ly sinh học; ghi nhãn; xin phép, công bố và báo cáo."
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "at-b04-q001",
+      "page": 2,
+      "prompt": "Theo bài giảng, Cartagena tập trung vào rủi ro nào?",
+      "options": [
+        "Rủi ro từ sinh vật biến đổi gen, đặc biệt khi vận chuyển xuyên biên giới",
+        "Chỉ dòng điện rò của thiết bị",
+        "Chỉ bức xạ tia X",
+        "Chỉ bụi cơ học trong phòng mổ"
+      ],
+      "answer": 0,
+      "explanation": "Mục tiêu ở trang 2 gắn với đa dạng sinh học và GMO/LMO."
+    },
+    {
+      "id": "at-b04-q002",
+      "page": 3,
+      "prompt": "Cơ chế AIA yêu cầu điều gì theo bài?",
+      "options": [
+        "Cung cấp đầy đủ thông tin cho nước nhập khẩu trước quyết định cho phép",
+        "Chỉ thông báo sau khi đã vận chuyển",
+        "Không cần thông tin về LMO",
+        "Chỉ cần báo cho hãng vận tải"
+      ],
+      "answer": 0,
+      "explanation": "AIA là cơ chế đồng thuận trước được trình bày trong bài."
+    },
+    {
+      "id": "at-b04-q003",
+      "page": 3,
+      "prompt": "BCH có vai trò nào trong nội dung Cartagena?",
+      "options": [
+        "Chia sẻ, cập nhật thông tin an toàn sinh học giữa các nước",
+        "Đo hoạt độ phóng xạ",
+        "Lọc khí cho phòng sạch",
+        "Phân loại thiết bị điện"
+      ],
+      "answer": 0,
+      "explanation": "BCH được giải thích là cơ chế cơ sở dữ liệu chia sẻ thông tin ATSH."
+    },
+    {
+      "id": "at-b04-q004",
+      "page": 3,
+      "prompt": "Bài nêu yêu cầu gì đối với nhãn lô hàng LMO?",
+      "options": [
+        "Ghi rõ có chứa sinh vật biến đổi gen",
+        "Chỉ ghi khối lượng bao bì",
+        "Không ghi bất kỳ thông tin nào",
+        "Thay nhãn bằng màu ngẫu nhiên"
+      ],
+      "answer": 0,
+      "explanation": "Nội dung thông tin và ghi nhãn được nêu ở trang 3."
+    },
+    {
+      "id": "at-b04-q005",
+      "page": 5,
+      "prompt": "Trong bảng nội dung luật của bài, Điều 25 gắn với vấn đề nào?",
+      "options": [
+        "Quản lý mẫu bệnh phẩm",
+        "Thiết kế máy phát tia X",
+        "Đo mật độ hạt trong phòng sạch",
+        "Hiệu chuẩn buồng ion hóa"
+      ],
+      "answer": 0,
+      "explanation": "Trang 5 gắn Điều 25 với quản lý mẫu bệnh phẩm."
+    },
+    {
+      "id": "at-b04-q006",
+      "page": 5,
+      "prompt": "Trong bài, bảo vệ người làm việc tại PXN bao gồm điều gì?",
+      "options": [
+        "Đào tạo, trang bị phòng hộ và tuân thủ quy trình chuyên môn",
+        "Chỉ phát đồng phục",
+        "Chỉ có giấy phép mà không cần đào tạo",
+        "Bỏ quy trình khi đã có kinh nghiệm"
+      ],
+      "answer": 0,
+      "explanation": "Đây là các nội dung được trình bày dưới Điều 26."
+    },
+    {
+      "id": "at-b04-q007",
+      "page": 6,
+      "prompt": "Nghị định 103/2016/NĐ-CP được bài giảng gắn với lĩnh vực nào?",
+      "options": [
+        "Bảo đảm ATSH tại phòng xét nghiệm",
+        "Thuế nhập khẩu mọi thiết bị điện tử",
+        "Định luật suy giảm bức xạ",
+        "Phân loại cấp sạch ISO"
+      ],
+      "answer": 0,
+      "explanation": "Trang 6 trình bày nghị định này trong hệ thống điều kiện ATSH của PXN."
+    },
+    {
+      "id": "at-b04-q008",
+      "page": 7,
+      "prompt": "Theo danh mục trong bài, Thông tư 41/2016/TT-BYT nói về nội dung nào?",
+      "options": [
+        "Danh mục vi sinh vật theo nhóm nguy cơ và cấp ATSH phù hợp kỹ thuật xét nghiệm",
+        "Chỉ quản lý liều kế cá nhân",
+        "Chỉ thiết kế đường dây điện",
+        "Chỉ kiểm soát nhiệt độ phòng sạch"
+      ],
+      "answer": 0,
+      "explanation": "Nội dung này được ghi tại trang 7 của bài giảng."
+    },
+    {
+      "id": "at-b04-q009",
+      "page": 9,
+      "prompt": "Đánh giá rủi ro GMO được bài đặt ở thời điểm nào?",
+      "options": [
+        "Trước khi cấp phép thử nghiệm hoặc lưu hành",
+        "Chỉ sau khi ngừng mọi sản xuất",
+        "Chỉ sau khi xảy ra sự cố",
+        "Không cần nếu đã có nhãn"
+      ],
+      "answer": 0,
+      "explanation": "Đây là biện pháp đầu tiên trong danh sách an toàn sinh vật biến đổi gen."
+    },
+    {
+      "id": "at-b04-q010",
+      "page": 9,
+      "prompt": "Biện pháp nào được nêu cho GMO bên cạnh đánh giá rủi ro?",
+      "options": [
+        "Giám sát môi trường trong và sau thử nghiệm/ứng dụng",
+        "Bỏ cách ly khi trồng thử nghiệm",
+        "Không cần ghi nhãn sản phẩm",
+        "Không lập báo cáo nào"
+      ],
+      "answer": 0,
+      "explanation": "Trang 9 yêu cầu giám sát môi trường cùng các biện pháp kiểm soát khác."
+    }
+  ],
+  "source": {
+    "file": "4. Cac quy định về ATSH tại Việt Nam.pdf",
+    "url": "sources/at-b04.pdf",
+    "pages": 10,
+    "sha256": "f1a60d78a7b2b94917784c8216ce4ac02a6717c5279f981d53a4881d59684bc1"
+  }
+}

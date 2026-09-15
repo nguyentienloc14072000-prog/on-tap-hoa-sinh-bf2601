@@ -1,0 +1,399 @@
+{
+  "id": "at-e01",
+  "courseId": "et4551",
+  "title": "Điện 1 · An toàn điện trong y tế",
+  "group": "An toàn điện & quản lý rủi ro",
+  "description": "Giật vi mô/vĩ mô, dòng rò, hệ thống bảo vệ và kiểm tra an toàn điện.",
+  "sections": [
+    {
+      "title": "Khái niệm và trách nhiệm",
+      "from": 2,
+      "to": 12,
+      "points": [
+        "Rủi ro được xét theo khả năng xảy ra và mức độ nghiêm trọng của thiệt hại. An toàn điện cần được theo dõi thường xuyên.",
+        "Môi trường điều trị có thể làm giảm bảo vệ tự nhiên của da và khả năng chủ động tránh nguy hiểm của bệnh nhân.",
+        "Nhân viên sử dụng, kỹ thuật và quản lý có vai trò trong phát hiện, báo cáo, khắc phục, giám sát và đào tạo. PM là bảo dưỡng phòng ngừa; CM là bảo dưỡng sửa chữa."
+      ]
+    },
+    {
+      "title": "Sinh lý và đường đi dòng điện",
+      "from": 13,
+      "to": 29,
+      "points": [
+        "Tác động gồm kích thích thần kinh/cơ, phản ứng điện hóa và sinh nhiệt. Cần xét cường độ, tần số, thời gian, điểm tiếp xúc và thể trạng.",
+        "Macroshock: dòng từ bề mặt phân bố qua cơ thể; microshock: đường dẫn trực tiếp tới tim khiến dòng nhỏ cũng có thể nguy hiểm.",
+        "Các ngưỡng trong slide phụ thuộc điều kiện minh họa; bài tập tập trung vào cơ chế và đường đi dòng điện."
+      ]
+    },
+    {
+      "title": "Dòng rò và tình huống",
+      "from": 30,
+      "to": 39,
+      "points": [
+        "Dòng rò có thể qua tụ ký sinh hoặc điện trở cách điện hữu hạn, kể cả khi thiết bị chưa có hỏng hóc rõ ràng.",
+        "Ví dụ dùng điện dung 2,5 nF, 220 V, 50 Hz và các tình huống giường điện, ống thông, thiết bị theo dõi.",
+        "Chênh lệch điện thế giữa các điểm đất khác nhau có thể tạo vòng dòng điện qua bệnh nhân."
+      ]
+    },
+    {
+      "title": "Biện pháp bảo vệ",
+      "from": 40,
+      "to": 57,
+      "points": [
+        "Nối đất đẳng thế nhằm giảm chênh lệch điện thế giữa các bề mặt dẫn điện; đường bảo vệ cần điện trở thấp.",
+        "Nguồn cách ly vẫn có dòng rò qua điện dung ký sinh. GFCI phát hiện mất cân bằng dòng đi–về; LIM theo dõi cách ly và cảnh báo.",
+        "Bài còn trình bày khuếch đại cách ly, mạch chân phải, kiểm tra cực tính, cách điện kép và giảm căng dây."
+      ]
+    },
+    {
+      "title": "Phân loại và phép kiểm tra",
+      "from": 58,
+      "to": 67,
+      "points": [
+        "Class I dùng nối đất bảo vệ cùng cách điện cơ bản; Class II dùng cách điện kép hoặc tăng cường.",
+        "Các sơ đồ đo gồm dòng rò vỏ, điện cực–đất, giữa điện cực và dòng cách ly.",
+        "Mã tiêu chuẩn, văn bản và giới hạn số liệu được giữ trong bối cảnh bài giảng, không được cập nhật từ nguồn ngoài."
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "at-e01-q001",
+      "page": 5,
+      "prompt": "Rủi ro được định nghĩa dựa trên cặp yếu tố nào?",
+      "options": [
+        "Xác suất gây thiệt hại và độ nghiêm trọng thiệt hại",
+        "Chỉ công suất và giá thiết bị",
+        "Chỉ tuổi máy và màu vỏ",
+        "Chỉ số người sử dụng"
+      ],
+      "answer": 0,
+      "explanation": "Định nghĩa trang 5 kết hợp khả năng xảy ra và mức thiệt hại."
+    },
+    {
+      "id": "at-e01-q002",
+      "page": 7,
+      "prompt": "Vì sao an toàn điện cần được quan tâm thường xuyên?",
+      "options": [
+        "Đây là tình huống động, có thể thay đổi trong sử dụng",
+        "Chỉ cần kiểm tra ngày mua máy",
+        "Thiết bị mới không thể có nguy cơ",
+        "Mọi dòng rò tự mất theo thời gian"
+      ],
+      "answer": 0,
+      "explanation": "Bài nhấn mạnh an toàn điện là tình huống động, không phải tĩnh."
+    },
+    {
+      "id": "at-e01-q003",
+      "page": 8,
+      "prompt": "Yếu tố điều trị nào có thể làm giảm bảo vệ tự nhiên trước dòng điện?",
+      "options": [
+        "Da ẩm hoặc vết mổ",
+        "Chỉ thay màu áo",
+        "Chỉ ghi tên bệnh nhân",
+        "Chỉ đổi vị trí bảng tên"
+      ],
+      "answer": 0,
+      "explanation": "Bài nêu làm ẩm da và vết mổ làm giảm khả năng kháng điện tự nhiên."
+    },
+    {
+      "id": "at-e01-q004",
+      "page": 10,
+      "prompt": "Vai trò nào thuộc nhân viên kỹ thuật theo bài?",
+      "options": [
+        "Nhận diện nguy cơ, sửa lỗi và lập kế hoạch giám sát/đào tạo",
+        "Chỉ mua thuốc",
+        "Chỉ xếp lịch thăm bệnh",
+        "Chỉ ký nhận tài liệu mà không kiểm tra"
+      ],
+      "answer": 0,
+      "explanation": "Trang 10 phân công các hoạt động kỹ thuật này."
+    },
+    {
+      "id": "at-e01-q005",
+      "page": 11,
+      "prompt": "PM viết tắt cho chương trình nào?",
+      "options": [
+        "Preventive Maintenance – bảo dưỡng phòng ngừa",
+        "Patient Monitoring – mọi phép đo sinh hiệu",
+        "Power Multiplier – nhân công suất",
+        "Pressure Measurement – đo áp suất"
+      ],
+      "answer": 0,
+      "explanation": "Bài dùng PM cho duy trì/bảo dưỡng phòng ngừa để phát hiện sớm nguy cơ."
+    },
+    {
+      "id": "at-e01-q006",
+      "page": 15,
+      "prompt": "Nhóm tác dụng nào của dòng điện lên cơ thể được bài nêu?",
+      "options": [
+        "Kích thích cơ/thần kinh, điện hóa và sinh nhiệt",
+        "Chỉ thay đổi màu da",
+        "Chỉ tác động quang học",
+        "Chỉ làm thay đổi trọng lực"
+      ],
+      "answer": 0,
+      "explanation": "Trang 15 liệt kê ba nhóm tác động này."
+    },
+    {
+      "id": "at-e01-q007",
+      "page": 17,
+      "prompt": "Ngưỡng thả lỏng được bài định nghĩa theo khả năng nào?",
+      "options": [
+        "Chủ động rút lui khỏi tiếp xúc điện",
+        "Chỉ nhìn thấy tia lửa",
+        "Chỉ đo được điện áp bằng đồng hồ",
+        "Chỉ nghe được âm báo"
+      ],
+      "answer": 0,
+      "explanation": "Ngưỡng thả lỏng gắn với dòng tối đa còn cho phép chủ động rút lui."
+    },
+    {
+      "id": "at-e01-q008",
+      "page": 18,
+      "prompt": "Khi đánh giá tác động điện, nhóm tham số nào cần xét?",
+      "options": [
+        "Cường độ/tần số, thời gian, điểm tiếp xúc và thể trạng",
+        "Chỉ điện áp danh định",
+        "Chỉ giá thành",
+        "Chỉ chiều dài tên thiết bị"
+      ],
+      "answer": 0,
+      "explanation": "Slide liệt kê cả thông số dòng, tình huống và yếu tố cơ thể."
+    },
+    {
+      "id": "at-e01-q009",
+      "page": 20,
+      "prompt": "Theo bài, thời gian dòng đi qua cơ thể kéo dài ảnh hưởng ngưỡng rung thất thế nào?",
+      "options": [
+        "Ngưỡng có xu hướng giảm",
+        "Ngưỡng luôn tăng vô hạn",
+        "Không thể ảnh hưởng",
+        "Luôn làm dòng điện biến mất"
+      ],
+      "answer": 0,
+      "explanation": "Trang 20 liên hệ thời gian tiếp xúc dài hơn với ngưỡng rung thất thấp hơn."
+    },
+    {
+      "id": "at-e01-q010",
+      "page": 23,
+      "prompt": "Ống thông dẫn điện tới tim có thể làm mất vai trò bảo vệ nào?",
+      "options": [
+        "Hàng rào điện trở của da",
+        "Chỉ khả năng nghe",
+        "Chỉ che chắn tia X",
+        "Chỉ lọc tiểu phân"
+      ],
+      "answer": 0,
+      "explanation": "Đường dẫn xâm nhập bỏ qua hàng rào da và làm thay đổi phân bố dòng."
+    },
+    {
+      "id": "at-e01-q011",
+      "page": 25,
+      "prompt": "Điểm phân biệt chính của microshock so với macroshock là gì?",
+      "options": [
+        "Dòng tác động trực tiếp tới tim qua đường dẫn",
+        "Luôn có dòng tổng lớn hơn macroshock",
+        "Chỉ xảy ra khi chạm hai tay vào ổ cắm",
+        "Luôn để lại bỏng ngoài da rõ rệt"
+      ],
+      "answer": 0,
+      "explanation": "Microshock liên quan đường dẫn trực tiếp tới tim; dòng nhỏ cũng có thể gây rối loạn."
+    },
+    {
+      "id": "at-e01-q012",
+      "page": 26,
+      "prompt": "Tình huống nào được bài nêu là nguy cơ macroshock?",
+      "options": [
+        "Hỏng cách điện hoặc mất dây nối đất",
+        "Chỉ thiếu nhãn ngày sinh",
+        "Chỉ độ sáng màn hình thấp",
+        "Chỉ mất kết nối Internet"
+      ],
+      "answer": 0,
+      "explanation": "Các hỏng hóc điện và dây bảo vệ là những tình huống được liệt kê."
+    },
+    {
+      "id": "at-e01-q013",
+      "page": 28,
+      "prompt": "Dòng rò có nhất thiết chỉ xuất hiện khi thiết bị hỏng không?",
+      "options": [
+        "Không; điện dung và cách điện hữu hạn cũng tạo dòng rò",
+        "Có; thiết bị nguyên vẹn luôn có dòng rò bằng không",
+        "Có; chỉ xuất hiện sau cháy",
+        "Không; nhưng chỉ do pin đồng hồ"
+      ],
+      "answer": 0,
+      "explanation": "Slide chỉ ra dòng rò là hiện tượng có thể tồn tại tự nhiên giữa các phần dẫn điện."
+    },
+    {
+      "id": "at-e01-q014",
+      "page": 30,
+      "prompt": "Dòng rò điện dung liên quan yếu tố nào?",
+      "options": [
+        "Tụ ký sinh giữa dây/cuộn dây/mạch và vỏ",
+        "Chỉ lực hút trọng trường",
+        "Chỉ áp suất nước",
+        "Chỉ hàm lượng oxy"
+      ],
+      "answer": 0,
+      "explanation": "Các cấu trúc dẫn điện gần nhau hình thành điện dung ký sinh."
+    },
+    {
+      "id": "at-e01-q015",
+      "page": 30,
+      "prompt": "Dòng rò điện trở tăng có thể liên quan hiện tượng nào?",
+      "options": [
+        "Suy giảm điện trở cách điện",
+        "Tăng độ cách điện vô hạn",
+        "Giảm số ký tự nhãn máy",
+        "Đổi kiểu phông chữ"
+      ],
+      "answer": 0,
+      "explanation": "Bài nêu sự suy giảm trở kháng lớp cách điện giữa mạch và vỏ."
+    },
+    {
+      "id": "at-e01-q016",
+      "page": 38,
+      "prompt": "Trong ví dụ, dòng 1 A qua điện trở dây đất 0,08 Ω tạo điện áp bao nhiêu?",
+      "options": [
+        "80 mV",
+        "8 V",
+        "0,8 mV",
+        "800 V"
+      ],
+      "answer": 0,
+      "explanation": "U = IR = 1 × 0,08 = 0,08 V = 80 mV."
+    },
+    {
+      "id": "at-e01-q017",
+      "page": 38,
+      "prompt": "Theo ví dụ 80 mV, nếu điện trở vòng là 8.000 Ω thì dòng bằng bao nhiêu?",
+      "options": [
+        "10 µA",
+        "10 mA",
+        "100 mA",
+        "0,01 µA"
+      ],
+      "answer": 0,
+      "explanation": "I = 0,08/8000 = 0,00001 A = 10 µA, đúng mốc so sánh của ví dụ."
+    },
+    {
+      "id": "at-e01-q018",
+      "page": 44,
+      "prompt": "Mục tiêu của nối đất đẳng thế là gì?",
+      "options": [
+        "Giảm chênh lệch điện thế giữa các bề mặt có thể chạm",
+        "Tăng điện áp trên mọi vỏ máy",
+        "Thay thế mọi lớp cách điện bằng dây trần",
+        "Làm tăng tụ ký sinh"
+      ],
+      "answer": 0,
+      "explanation": "Bài nhấn mạnh sự chênh lệch điện thế giữa bề mặt tiếp xúc tạo nguy cơ giật."
+    },
+    {
+      "id": "at-e01-q019",
+      "page": 45,
+      "prompt": "Dây nối đất bảo vệ cần điện trở thế nào theo nguyên lý trong bài?",
+      "options": [
+        "Thấp để dẫn dòng rò/sự cố qua đường bảo vệ",
+        "Càng cao càng tốt",
+        "Luôn bằng điện trở da khô",
+        "Không ảnh hưởng đến dòng"
+      ],
+      "answer": 0,
+      "explanation": "Đường bảo vệ điện trở thấp giúp dẫn dòng về nguồn và hỗ trợ tác động bảo vệ khi sự cố."
+    },
+    {
+      "id": "at-e01-q020",
+      "page": 48,
+      "prompt": "Vì sao có nguồn cách ly vẫn cần xét dòng rò?",
+      "options": [
+        "Vẫn có điện dung ký sinh và trở kháng cách ly hữu hạn",
+        "Biến áp cách ly luôn nối tắt sơ cấp–thứ cấp",
+        "Nguồn cách ly làm mọi dòng tăng vô hạn",
+        "Nguồn cách ly chỉ thay đổi màu dây"
+      ],
+      "answer": 0,
+      "explanation": "Slide lưu ý cách ly không loại bỏ mọi đường rò điện dung/điện trở."
+    },
+    {
+      "id": "at-e01-q021",
+      "page": 49,
+      "prompt": "GFCI phát hiện sự cố theo đại lượng nào?",
+      "options": [
+        "Chênh lệch dòng dây đi và dây về",
+        "Chỉ số vòng quay quạt",
+        "Chỉ tần số nhịp tim",
+        "Chỉ nhiệt độ phòng"
+      ],
+      "answer": 0,
+      "explanation": "Khi có dòng qua đường ngoài ý muốn, dòng đi và về không còn bằng nhau."
+    },
+    {
+      "id": "at-e01-q022",
+      "page": 51,
+      "prompt": "LIM theo dõi nội dung nào?",
+      "options": [
+        "Trở kháng giữa đường nguồn cách ly và đất",
+        "Chỉ áp suất khí nén",
+        "Chỉ số tiểu phân trong không khí",
+        "Chỉ tốc độ đếm gamma"
+      ],
+      "answer": 0,
+      "explanation": "Line isolation monitor theo dõi cách ly và phát cảnh báo khi có nguy cơ rò."
+    },
+    {
+      "id": "at-e01-q023",
+      "page": 54,
+      "prompt": "Bài nêu cách ly quang để làm gì?",
+      "options": [
+        "Truyền tín hiệu giữa mạch đo và các khối còn lại qua tầng cách ly",
+        "Tăng dòng qua bệnh nhân",
+        "Nối trực tiếp điện lưới vào điện cực",
+        "Loại bỏ nhu cầu thu tín hiệu"
+      ],
+      "answer": 0,
+      "explanation": "Đây là một giải pháp trong phần khuếch đại cách ly."
+    },
+    {
+      "id": "at-e01-q024",
+      "page": 55,
+      "prompt": "Máy kiểm tra ổ cắm 3 LED có giới hạn nào theo bài?",
+      "options": [
+        "Không phát hiện được mọi lỗi, như đảo dây đất và trung tính",
+        "Phát hiện tuyệt đối mọi lỗi của bệnh viện",
+        "Chỉ dùng đo liều bức xạ",
+        "Không cung cấp thông tin về đấu dây"
+      ],
+      "answer": 0,
+      "explanation": "Trang 55 nêu rõ giới hạn của bộ kiểm tra đơn giản này."
+    },
+    {
+      "id": "at-e01-q025",
+      "page": 61,
+      "prompt": "Class I bổ sung biện pháp nào ngoài cách điện cơ bản?",
+      "options": [
+        "Nối đất bảo vệ",
+        "Chỉ dùng màu vỏ sáng",
+        "Chỉ giảm âm lượng",
+        "Chỉ dùng tín hiệu không dây"
+      ],
+      "answer": 0,
+      "explanation": "Phân loại trong slide gắn Class I với nối đất bảo vệ các phần kim loại."
+    },
+    {
+      "id": "at-e01-q026",
+      "page": 61,
+      "prompt": "Class II sử dụng biện pháp bảo vệ nào trong bài?",
+      "options": [
+        "Cách điện kép hoặc tăng cường",
+        "Chỉ nối đất với cách điện cơ bản",
+        "Chỉ cầu chì mà không cách điện",
+        "Chỉ nhãn cảnh báo"
+      ],
+      "answer": 0,
+      "explanation": "Trang 61 mô tả Class II dùng cách điện kép/tăng cường."
+    }
+  ]
+}

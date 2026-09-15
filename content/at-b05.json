@@ -1,0 +1,295 @@
+{
+  "id": "at-b05",
+  "courseId": "et4551",
+  "title": "Sinh học 5 · Thiết kế phòng sạch",
+  "group": "An toàn sinh học",
+  "description": "ISO/GMP, luồng di chuyển, chênh áp, HVAC và tính lưu lượng khí theo bài.",
+  "sections": [
+    {
+      "title": "Khái niệm và phân loại",
+      "from": 1,
+      "to": 7,
+      "points": [
+        "Phòng sạch kiểm soát bụi, vi sinh vật trong không khí, hơi hóa chất và hạt lơ lửng nhằm hạn chế nhiễm bẩn.",
+        "Bài nêu ISO Class 1–9; số cấp ISO nhỏ hơn tương ứng mức sạch cao hơn. Phân loại dựa trên kích thước hạt và mật độ hạt trong một m³ không khí.",
+        "GMP chia A–D: A cho thao tác cục bộ nguy cơ cao, B làm nền cho A; C và D cho công đoạn ít quan trọng hơn theo bài."
+      ]
+    },
+    {
+      "title": "Theo dõi điều kiện phòng sạch",
+      "from": 8,
+      "to": 12,
+      "points": [
+        "Các bảng trình bày giới hạn hạt, vi sinh, nhiệt độ, độ ẩm và trao đổi không khí. Khi ôn số liệu phải phân biệt trạng thái nghỉ và trạng thái động.",
+        "Các cách lấy mẫu vi sinh được nêu: không khí, đĩa lắng, đĩa tiếp xúc và in găng tay.",
+        "Một số bảng trong PDF tổng hợp theo cách khác nhau; câu quiz chỉ dùng các thông tin rõ và chỉ rõ trang nguồn."
+      ]
+    },
+    {
+      "title": "Nguyên tắc thiết kế",
+      "from": 13,
+      "to": 19,
+      "points": [
+        "Ưu tiên kiểm soát ô nhiễm, bề mặt dễ vệ sinh, phân cấp vùng sạch và tách luồng người–vật tư.",
+        "Áp suất dương giúp ngăn nhiễm bẩn từ ngoài; áp suất âm dùng để hạn chế phát tán từ khu xử lý tác nhân nguy hiểm.",
+        "Airlock, khu thay đồ, thiết bị chuyên dụng và giám sát liên tục hỗ trợ kiểm soát phòng sạch.",
+        "Chín bước thiết kế bắt đầu từ đánh giá người và vật liệu, phân loại độ sạch, chênh áp; tiếp đến cấp khí, lọc, cân bằng, yếu tố khác, cơ khí và tính nhiệt."
+      ]
+    },
+    {
+      "title": "Luồng khí, tính toán và thiết bị",
+      "from": 20,
+      "to": 26,
+      "points": [
+        "Slide nêu luồng một chiều/laminar và luồng không một chiều/mixed theo yêu cầu cấp sạch.",
+        "Công thức trang 20: SA = ACH × V / 60, với SA tính bằng m³/phút, V bằng m³ và ACH là số lần trao đổi mỗi giờ.",
+        "Ví dụ phòng 6 × 4 × 3 m có V = 72 m³; với 60 ACH, SA = 72 m³/phút, tương đương 4.320 m³/giờ.",
+        "AHU xử lý không khí; HEPA/ULPA lọc cuối đường cấp; quạt tạo lưu lượng; ống gió phân phối; BMS giám sát và điều khiển."
+      ]
+    },
+    {
+      "title": "Ví dụ bố trí",
+      "from": 27,
+      "to": 32,
+      "points": [
+        "Các trang cuối minh họa vật liệu, quy trình sản xuất sinh học, phòng sạch thiết bị y tế và phòng thí nghiệm vi sinh; xem PDF để đối chiếu sơ đồ."
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "at-b05-q001",
+      "page": 2,
+      "prompt": "Mục đích cơ bản của phòng sạch trong bài là gì?",
+      "options": [
+        "Kiểm soát nhiễm bẩn trong sản xuất, nghiên cứu hoặc kiểm tra",
+        "Chỉ tăng ánh sáng phòng",
+        "Chỉ giảm tiếng ồn máy",
+        "Chỉ làm lạnh sản phẩm"
+      ],
+      "answer": 0,
+      "explanation": "Định nghĩa nhấn mạnh kiểm soát bụi, vi sinh và hạt để hạn chế nhiễm bẩn."
+    },
+    {
+      "id": "at-b05-q002",
+      "page": 4,
+      "prompt": "Theo bài, ISO Class nào sạch nhất trong dải 1–9?",
+      "options": [
+        "ISO Class 1",
+        "ISO Class 9",
+        "ISO Class 8",
+        "Mọi cấp đều như nhau"
+      ],
+      "answer": 0,
+      "explanation": "Slide ghi Class 1 là sạch nhất."
+    },
+    {
+      "id": "at-b05-q003",
+      "page": 5,
+      "prompt": "Phân loại ISO trong bài dựa vào thông số nào?",
+      "options": [
+        "Kích thước hạt và số hạt trong 1 m³ không khí",
+        "Chỉ chiều cao trần",
+        "Chỉ số cửa ra vào",
+        "Chỉ công suất đèn"
+      ],
+      "answer": 0,
+      "explanation": "Bảng phân loại dùng ngưỡng kích thước và mật độ hạt."
+    },
+    {
+      "id": "at-b05-q004",
+      "page": 7,
+      "prompt": "Grade A theo GMP được bài mô tả cho khu vực nào?",
+      "options": [
+        "Khu cục bộ có thao tác nguy cơ cao như đóng lọ",
+        "Mọi hành lang không kiểm soát",
+        "Chỉ khu ăn uống",
+        "Chỉ kho giấy tờ"
+      ],
+      "answer": 0,
+      "explanation": "Phần cấp độ sạch nêu A cho thao tác cục bộ nguy cơ cao."
+    },
+    {
+      "id": "at-b05-q005",
+      "page": 7,
+      "prompt": "Grade B có quan hệ nào với Grade A theo bài?",
+      "options": [
+        "Làm môi trường nền cho khu vực A",
+        "Luôn thay thế A trong mọi công đoạn",
+        "Chỉ là môi trường ngoài trời",
+        "Không liên quan đến sản xuất vô trùng"
+      ],
+      "answer": 0,
+      "explanation": "Bài ghi B là môi trường nền cho A."
+    },
+    {
+      "id": "at-b05-q006",
+      "page": 8,
+      "prompt": "Theo bảng trang 8, giới hạn hạt ≥0,5 µm/m³ của Grade A ở trạng thái nghỉ và động là bao nhiêu?",
+      "options": [
+        "Đều là 3.520",
+        "Lần lượt 3.520 và 352.000",
+        "Đều là 3.520.000",
+        "Không xác định ở cả hai trạng thái"
+      ],
+      "answer": 0,
+      "explanation": "Hàng A trong bảng giữ cùng giá trị 3.520 cho hạt ≥0,5 µm."
+    },
+    {
+      "id": "at-b05-q007",
+      "page": 9,
+      "prompt": "Phương pháp in năm ngón găng tay dùng để theo dõi loại chỉ tiêu nào?",
+      "options": [
+        "Vi sinh trên găng tay",
+        "Dòng điện rò",
+        "Liều hấp thụ",
+        "Nồng độ oxy hòa tan"
+      ],
+      "answer": 0,
+      "explanation": "Đây là phương pháp số 4 trong bảng giới hạn vi sinh vật."
+    },
+    {
+      "id": "at-b05-q008",
+      "page": 13,
+      "prompt": "Vì sao cần tách luồng người và vật tư?",
+      "options": [
+        "Hạn chế nhiễm chéo",
+        "Để bỏ hệ thống lọc khí",
+        "Để không cần vệ sinh",
+        "Để mọi dòng di chuyển giao nhau"
+      ],
+      "answer": 0,
+      "explanation": "Nguyên tắc phân luồng được nêu để tránh nhiễm chéo."
+    },
+    {
+      "id": "at-b05-q009",
+      "page": 14,
+      "prompt": "Áp suất dương giữa các khu sạch nhằm mục đích chính nào?",
+      "options": [
+        "Ngăn bụi từ ngoài xâm nhập khu sạch hơn",
+        "Đẩy mọi tác nhân nguy hiểm ra hành lang",
+        "Thay thế PPE trong mọi trường hợp",
+        "Làm tăng nồng độ bụi"
+      ],
+      "answer": 0,
+      "explanation": "Bài gắn áp suất dương với bảo vệ độ sạch bên trong."
+    },
+    {
+      "id": "at-b05-q010",
+      "page": 14,
+      "prompt": "Bài nêu áp suất âm phù hợp với khu vực nào?",
+      "options": [
+        "Phòng cách ly, xử lý mầm bệnh",
+        "Mọi phòng sạch chỉ để bảo vệ sản phẩm",
+        "Mọi hành lang văn phòng",
+        "Mọi kho vật tư không nguy hiểm"
+      ],
+      "answer": 0,
+      "explanation": "Áp suất âm được nêu để hạn chế phát tán từ khu có tác nhân nguy hiểm."
+    },
+    {
+      "id": "at-b05-q011",
+      "page": 15,
+      "prompt": "Hệ thống giám sát phòng sạch cần theo dõi nhóm thông số nào?",
+      "options": [
+        "Nhiệt độ, độ ẩm, chênh áp và số hạt",
+        "Chỉ thời gian nghỉ trưa",
+        "Chỉ giá vật tư",
+        "Chỉ màu sơn tường"
+      ],
+      "answer": 0,
+      "explanation": "Trang 15 yêu cầu giám sát liên tục và cảnh báo khi vượt giới hạn."
+    },
+    {
+      "id": "at-b05-q012",
+      "page": 16,
+      "prompt": "Bước đầu trong chín bước thiết kế được bài nêu là gì?",
+      "options": [
+        "Đánh giá con người và hướng di chuyển nguyên vật liệu",
+        "Tính nhiệt trước khi biết quy trình",
+        "Chọn quạt trước khi xác định độ sạch",
+        "Mua bàn ghế trước mọi khảo sát"
+      ],
+      "answer": 0,
+      "explanation": "Danh sách trang 16 bắt đầu bằng đánh giá người và luồng vật liệu."
+    },
+    {
+      "id": "at-b05-q013",
+      "page": 17,
+      "prompt": "Theo bài, nguồn ô nhiễm lớn nhất cần kiểm soát trong phòng sạch là gì?",
+      "options": [
+        "Con người",
+        "Chỉ tên của cấp sạch",
+        "Chỉ số phòng",
+        "Chỉ ký hiệu bản vẽ"
+      ],
+      "answer": 0,
+      "explanation": "Trang 17 nhấn mạnh con người là nguồn ô nhiễm lớn nhất."
+    },
+    {
+      "id": "at-b05-q014",
+      "page": 20,
+      "prompt": "ACH trong công thức lưu lượng khí có nghĩa là gì?",
+      "options": [
+        "Số lần trao đổi không khí mỗi giờ",
+        "Thể tích phòng tính bằng lít",
+        "Áp suất tuyệt đối tính bằng Pa",
+        "Nhiệt độ khí cấp"
+      ],
+      "answer": 0,
+      "explanation": "Slide định nghĩa ACH là air changes per hour."
+    },
+    {
+      "id": "at-b05-q015",
+      "page": 20,
+      "prompt": "Khi SA tính bằng m³/phút, công thức nào đúng theo trang 20?",
+      "options": [
+        "SA = ACH × V / 60",
+        "SA = ACH / V",
+        "SA = 60 / (ACH × V)",
+        "SA = V − ACH"
+      ],
+      "answer": 0,
+      "explanation": "Hệ số 60 đổi từ số lần mỗi giờ sang lưu lượng mỗi phút."
+    },
+    {
+      "id": "at-b05-q016",
+      "page": 21,
+      "prompt": "Phòng 6 × 4 × 3 m trong ví dụ có thể tích bao nhiêu?",
+      "options": [
+        "72 m³",
+        "24 m³",
+        "13 m³",
+        "432 m³"
+      ],
+      "answer": 0,
+      "explanation": "Thể tích bằng tích ba kích thước: 6 × 4 × 3 = 72 m³."
+    },
+    {
+      "id": "at-b05-q017",
+      "page": 21,
+      "prompt": "Dùng công thức của bài, phòng 72 m³ với 60 ACH cần SA bao nhiêu m³/phút?",
+      "options": [
+        "72",
+        "4.320",
+        "1,2",
+        "720"
+      ],
+      "answer": 0,
+      "explanation": "SA = 60 × 72 / 60 = 72 m³/phút; 4.320 là giá trị theo m³/giờ."
+    },
+    {
+      "id": "at-b05-q018",
+      "page": 25,
+      "prompt": "AHU được mô tả có chức năng gì?",
+      "options": [
+        "Xử lý nhiệt độ, độ ẩm và lọc không khí sơ bộ/trung gian",
+        "Chỉ đo liều bức xạ",
+        "Chỉ thu gom vật sắc nhọn",
+        "Chỉ tạo dữ liệu bệnh nhân"
+      ],
+      "answer": 0,
+      "explanation": "Bảng cơ khí mô tả AHU là bộ xử lý không khí."
+    }
+  ]
+}

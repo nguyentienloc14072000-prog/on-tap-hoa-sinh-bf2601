@@ -1,0 +1,261 @@
+{
+  "id": "at-r08",
+  "courseId": "et4551",
+  "title": "Bức xạ 8 · Bảo vệ đối với chiếu xạ trong",
+  "group": "An toàn bức xạ",
+  "description": "Nguồn hở, bán hủy hiệu dụng, ALI/DAC và kiểm soát nhiễm bẩn.",
+  "sections": [
+    {
+      "title": "Nguồn hở và đường tiếp nhận",
+      "from": 2,
+      "to": 5,
+      "points": [
+        "Nguồn không được bao kín có thể thất thoát ra môi trường và đi vào cơ thể, gây chiếu xạ trong.",
+        "Bài xét hít thở, tiêu hóa, da/vết thương và nguy cơ chiếu trực tiếp lên da.",
+        "Phân bố đồng vị phụ thuộc đặc tính lý hóa; có thể tập trung ở một số cơ quan."
+      ]
+    },
+    {
+      "title": "Loại bỏ và liều cam kết",
+      "from": 6,
+      "to": 16,
+      "points": [
+        "Chất phóng xạ giảm trong cơ thể do phân rã vật lý và đào thải sinh học: λeff = λr + λb.",
+        "1/Teff = 1/Tr + 1/Tb; tương đương Teff = TrTb/(Tr+Tb).",
+        "Liều tương đương cam kết phụ thuộc suất liều ban đầu và tốc độ thải loại.",
+        "ALI là giới hạn lượng hấp thụ hằng năm, tính bằng Bq; trong mô hình bài giảng, một ALI được gắn với liều hiệu dụng cam kết 20 mSv."
+      ]
+    },
+    {
+      "title": "DAC và giới hạn bề mặt",
+      "from": 17,
+      "to": 24,
+      "points": [
+        "DAC là nồng độ hoạt độ trong không khí liên quan lượng hít một ALI trong năm làm việc theo giả định của bài.",
+        "DAC = ALI đường hô hấp / thể tích không khí hít trong năm; cần nêu đủ giả định thời gian làm việc và năng suất thở.",
+        "Giới hạn nhiễm bẩn bề mặt được xét để hạn chế phát tán vào không khí, đưa qua tay–miệng và liều lên da."
+      ]
+    },
+    {
+      "title": "Kiểm soát và thiết kế nơi làm việc",
+      "from": 25,
+      "to": 36,
+      "points": [
+        "Các nguyên tắc được nêu: giảm lượng hoạt độ cần sử dụng, bao giữ nguồn và tuân thủ quy trình/PPE/kiểm xạ.",
+        "Không ăn uống, hút thuốc hoặc hút pipette bằng miệng; vật đưa ra ngoài cần kiểm tra và dán nhãn thích hợp.",
+        "Bảo hộ được lựa chọn theo dạng và mức nhiễm bẩn; khu thay đồ cần bố trí vùng sạch, đồ đã dùng, rửa và kiểm xạ.",
+        "Bề mặt cần nhẵn, trơ, không thấm, dễ tẩy xạ; thông khí và lọc cần phù hợp chất phóng xạ đang sử dụng."
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "at-r08-q001",
+      "page": 3,
+      "prompt": "Nguồn phóng xạ hở có nguy cơ chính nào được bài nhấn mạnh?",
+      "options": [
+        "Thoát ra môi trường và xâm nhập cơ thể",
+        "Chỉ phát sóng âm",
+        "Không bao giờ gây nhiễm bẩn",
+        "Chỉ ảnh hưởng màu quần áo"
+      ],
+      "answer": 0,
+      "explanation": "Nguồn hở có thể dẫn đến nhiễm bẩn và chiếu xạ trong."
+    },
+    {
+      "id": "at-r08-q002",
+      "page": 4,
+      "prompt": "Đường nào có thể đưa chất phóng xạ trong không khí vào cơ thể?",
+      "options": [
+        "Hô hấp",
+        "Chỉ nhìn bằng mắt",
+        "Chỉ nghe âm thanh",
+        "Chỉ đứng sau tường"
+      ],
+      "answer": 0,
+      "explanation": "Trang 4 nêu hít hạt hoặc khí phóng xạ trong không khí."
+    },
+    {
+      "id": "at-r08-q003",
+      "page": 5,
+      "prompt": "Sự phân bố đồng vị trong cơ thể phụ thuộc yếu tố nào?",
+      "options": [
+        "Đặc tính lý hóa của đồng vị/chất",
+        "Chỉ tên liều kế",
+        "Chỉ độ cao tòa nhà",
+        "Chỉ số lần thay găng"
+      ],
+      "answer": 0,
+      "explanation": "Bài nêu một số chất phân bố khá đều, nhiều chất tập trung vào cơ quan nhất định."
+    },
+    {
+      "id": "at-r08-q004",
+      "page": 6,
+      "prompt": "Chất phóng xạ trong cơ thể giảm do hai quá trình nào?",
+      "options": [
+        "Phân rã vật lý và đào thải sinh học",
+        "Chỉ đổi tư thế và uống nước theo ý muốn",
+        "Chỉ ánh sáng và âm thanh",
+        "Chỉ che chắn từ bên ngoài"
+      ],
+      "answer": 0,
+      "explanation": "Hai quá trình được gộp trong hằng số phân rã hiệu dụng."
+    },
+    {
+      "id": "at-r08-q005",
+      "page": 6,
+      "prompt": "Hằng số phân rã hiệu dụng bằng gì theo bài?",
+      "options": [
+        "λr + λb",
+        "λr − λb",
+        "λr/λb",
+        "Chỉ λr trong mọi tình huống"
+      ],
+      "answer": 0,
+      "explanation": "Công thức ở trang 6 cộng hai hằng số vật lý và sinh học."
+    },
+    {
+      "id": "at-r08-q006",
+      "page": 8,
+      "prompt": "Công thức chu kỳ bán hủy hiệu dụng nào đúng theo slide?",
+      "options": [
+        "1/Teff = 1/Tr + 1/Tb",
+        "Teff = Tr + Tb",
+        "Teff = Tr − Tb",
+        "Teff = Tr × Tb mà không chia"
+      ],
+      "answer": 0,
+      "explanation": "Trang 8 biểu diễn quan hệ bằng tổng nghịch đảo chu kỳ."
+    },
+    {
+      "id": "at-r08-q007",
+      "page": 8,
+      "prompt": "Áp dụng công thức của bài, nếu Tr = 8 ngày và Tb = 8 ngày thì Teff bằng bao nhiêu?",
+      "options": [
+        "4 ngày",
+        "8 ngày",
+        "16 ngày",
+        "64 ngày"
+      ],
+      "answer": 0,
+      "explanation": "1/Teff = 1/8 + 1/8 = 1/4."
+    },
+    {
+      "id": "at-r08-q008",
+      "page": 10,
+      "prompt": "Liều tương đương cam kết phụ thuộc các yếu tố nào được nêu?",
+      "options": [
+        "Suất liều ban đầu và tốc độ thải loại",
+        "Chỉ độ dày áo bảo hộ",
+        "Chỉ ánh sáng phòng",
+        "Chỉ thời gian đo bằng đồng hồ"
+      ],
+      "answer": 0,
+      "explanation": "Đây là hai yếu tố được ghi ở trang 10."
+    },
+    {
+      "id": "at-r08-q009",
+      "page": 11,
+      "prompt": "Đơn vị lượng hấp thụ ALI trong bài là gì?",
+      "options": [
+        "Bq",
+        "Gy/h",
+        "Pa",
+        "m³/phút"
+      ],
+      "answer": 0,
+      "explanation": "ALI là lượng chất phóng xạ/hoạt độ hấp thụ và được biểu diễn bằng becquerel."
+    },
+    {
+      "id": "at-r08-q010",
+      "page": 16,
+      "prompt": "Trong lời giải, hai phần hấp thụ chiếm 0,2 và 0,4 ALI; với mốc 20 mSv, tổng liều là bao nhiêu?",
+      "options": [
+        "12 mSv",
+        "4 mSv",
+        "8 mSv",
+        "20 mSv"
+      ],
+      "answer": 0,
+      "explanation": "Theo lời giải: (0,2 + 0,4) × 20 = 12 mSv."
+    },
+    {
+      "id": "at-r08-q011",
+      "page": 18,
+      "prompt": "DAC được tính theo quan hệ nào trong bài?",
+      "options": [
+        "ALI hô hấp chia thể tích khí hít trong năm làm việc",
+        "ALI nhân thể tích khí hít",
+        "Liều hấp thụ chia số proton",
+        "Chỉ số hạt chia nhiệt độ"
+      ],
+      "answer": 0,
+      "explanation": "Cần dùng ALI theo đường hô hấp và thể tích khí theo giả định làm việc."
+    },
+    {
+      "id": "at-r08-q012",
+      "page": 19,
+      "prompt": "Với 50 tuần/năm, 5 ngày/tuần và 10 m³/ngày như ví dụ, thể tích khí hít là bao nhiêu?",
+      "options": [
+        "2.500 m³/năm",
+        "500 m³/năm",
+        "250 m³/năm",
+        "25.000 m³/năm"
+      ],
+      "answer": 0,
+      "explanation": "Tích 50 × 5 × 10 bằng 2.500 m³/năm."
+    },
+    {
+      "id": "at-r08-q013",
+      "page": 21,
+      "prompt": "Nếu ALI hô hấp = 300 Bq và thể tích khí là 2.500 m³/năm, DAC bằng bao nhiêu?",
+      "options": [
+        "0,12 Bq/m³",
+        "12 Bq/m³",
+        "120 Bq/m³",
+        "7,5 Bq/m³"
+      ],
+      "answer": 0,
+      "explanation": "DAC = 300/2.500 = 0,12 Bq/m³ theo giả định của bài."
+    },
+    {
+      "id": "at-r08-q014",
+      "page": 25,
+      "prompt": "Biện pháp bao giữ chất phóng xạ thường tối thiểu bao nhiêu lớp theo bài?",
+      "options": [
+        "Hai lớp ngăn cách",
+        "Không lớp nào",
+        "Chỉ một nhãn giấy",
+        "Năm lớp bắt buộc cho mọi nguồn"
+      ],
+      "answer": 0,
+      "explanation": "Trang 25 nêu thường tối thiểu hai lớp ngăn cách."
+    },
+    {
+      "id": "at-r08-q015",
+      "page": 30,
+      "prompt": "Vì sao bài cấm hút dung dịch bằng miệng trong khu phóng xạ?",
+      "options": [
+        "Tránh đưa chất phóng xạ qua đường tiêu hóa",
+        "Để tăng tốc độ thao tác",
+        "Để thay thế hoàn toàn che chắn",
+        "Để tăng độ nhạy detector"
+      ],
+      "answer": 0,
+      "explanation": "Nội quy hạn chế đường tay–miệng và các thao tác đưa chất vào cơ thể."
+    },
+    {
+      "id": "at-r08-q016",
+      "page": 36,
+      "prompt": "Bề mặt khu làm việc nên có đặc tính nào?",
+      "options": [
+        "Nhẵn, trơ hóa học, không thấm và dễ tẩy xạ",
+        "Nhiều khe nứt, hút nước mạnh",
+        "Dễ bong bụi và khó thay thế",
+        "Chỉ cần màu tối"
+      ],
+      "answer": 0,
+      "explanation": "Bài nêu các đặc tính giúp hạn chế lưu giữ nhiễm bẩn và thuận tiện tẩy xạ."
+    }
+  ]
+}

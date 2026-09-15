@@ -1,0 +1,253 @@
+{
+  "id": "at-b02",
+  "courseId": "et4551",
+  "title": "Sinh học 2 · An toàn phòng thí nghiệm",
+  "group": "An toàn sinh học",
+  "description": "Tủ ATSH, HEPA/ULPA, bảo hộ và cách tổ chức thao tác theo slide.",
+  "sections": [
+    {
+      "title": "Phân loại tác nhân và thiết bị",
+      "from": 2,
+      "to": 4,
+      "points": [
+        "Tác nhân được xem xét theo độc lực, đường lây và mức nguy hiểm. Các đường lây được nêu gồm hô hấp, tiếp xúc, máu, tiêu hóa, vector và vật dụng nhiễm.",
+        "Trang thiết bị gồm tủ ATSH, autoclave, lọc khí, bồn rửa tay, thiết bị khẩn cấp, thu gom chất thải và hệ thống giám sát."
+      ]
+    },
+    {
+      "title": "Ba cấp tủ an toàn sinh học",
+      "from": 5,
+      "to": 10,
+      "points": [
+        "BSC-I bảo vệ người và môi trường nhưng không bảo vệ mẫu khỏi dòng khí phòng đi vào.",
+        "BSC-II bảo vệ người, môi trường và mẫu nhờ hệ thống khí và lọc HEPA. Bảng phân loại nêu B1 thải 70%, tuần hoàn 30%; B2 thải 100%.",
+        "BSC-III là hệ thống kín khí, có găng tay gắn liền và cơ chế chuyển vật liệu qua nồi hấp hai cửa theo bài.",
+        "Cấp tủ BSC mô tả thiết bị; cấp BSL mô tả mức an toàn của phòng thí nghiệm."
+      ]
+    },
+    {
+      "title": "Bảo hộ và thao tác trong tủ",
+      "from": 11,
+      "to": 15,
+      "points": [
+        "Rửa tay trước khi mang PPE; găng tay phủ lên gấu tay áo theo phần chuẩn bị.",
+        "Hình ở trang 14 phân khu sạch, khu thao tác và khu nhiễm trong buồng ATSH.",
+        "Kết thúc công việc: xử lý vật liệu, chất thải và khử trùng bề mặt theo quy trình được bài mô tả; không xịt nước vào lỗ khí phía trước."
+      ]
+    },
+    {
+      "title": "Lọc khí và cơ sở vật chất",
+      "from": 16,
+      "to": 22,
+      "points": [
+        "Bảng của bài nêu HEPA ≥99,97% ở kích thước ≥0,3 µm; ULPA ≥99,9995% ở ≥0,12 µm.",
+        "Các cơ chế lọc được liệt kê: chặn, khuếch tán, tác động quán tính và ở một số loại có hút tĩnh điện.",
+        "ULPA có vật liệu dày hơn, lưu lượng thấp hơn HEPA theo bảng so sánh; thiết bị cần phù hợp mục đích sử dụng.",
+        "Bài nhóm kỹ thuật an toàn thành an toàn cá nhân; mẫu và thiết bị; hóa chất–điện–thiết bị; ứng phó sự cố."
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "at-b02-q001",
+      "page": 2,
+      "prompt": "Ngoài độc lực và mức nguy hiểm, bài dùng tiêu chí nào để phân loại tác nhân?",
+      "options": [
+        "Đường lây truyền",
+        "Màu nhãn nhà sản xuất",
+        "Giá mua hóa chất",
+        "Tuổi của thiết bị"
+      ],
+      "answer": 0,
+      "explanation": "Trang 2 trình bày ba hướng phân loại: độc lực, đường lây và mức nguy hiểm."
+    },
+    {
+      "id": "at-b02-q002",
+      "page": 2,
+      "prompt": "Lây truyền qua muỗi hoặc ve được xếp vào đường nào?",
+      "options": [
+        "Qua vector",
+        "Qua tiêu hóa",
+        "Qua vật dụng nhiễm",
+        "Qua máu do lấy mẫu"
+      ],
+      "answer": 0,
+      "explanation": "Muỗi và ve là ví dụ loài trung gian truyền bệnh trong phần đường lây."
+    },
+    {
+      "id": "at-b02-q003",
+      "page": 6,
+      "prompt": "BSC-I không bảo vệ trực tiếp đối tượng nào khỏi khí phòng đi vào?",
+      "options": [
+        "Mẫu thí nghiệm",
+        "Người thao tác",
+        "Môi trường xung quanh",
+        "Người lao động"
+      ],
+      "answer": 0,
+      "explanation": "Dòng khí phòng đi vào khoang thao tác có thể làm nhiễm mẫu, trong khi khí thải qua HEPA."
+    },
+    {
+      "id": "at-b02-q004",
+      "page": 7,
+      "prompt": "BSC-II được mô tả bảo vệ những đối tượng nào?",
+      "options": [
+        "Người, môi trường và mẫu",
+        "Chỉ mẫu",
+        "Chỉ môi trường",
+        "Chỉ người mà không bảo vệ mẫu"
+      ],
+      "answer": 0,
+      "explanation": "Trang 7 liệt kê đủ ba đối tượng được bảo vệ."
+    },
+    {
+      "id": "at-b02-q005",
+      "page": 8,
+      "prompt": "Theo bảng phân loại BSC-II, loại nào thải 100% khí ra ngoài và không tuần hoàn?",
+      "options": [
+        "Type B2",
+        "Type A1",
+        "Type B1",
+        "Type A2"
+      ],
+      "answer": 0,
+      "explanation": "Bảng ghi Type B2 thải toàn bộ khí, không tuần hoàn."
+    },
+    {
+      "id": "at-b02-q006",
+      "page": 8,
+      "prompt": "Tỷ lệ khí thải và tuần hoàn của BSC-II B1 trong bảng là bao nhiêu?",
+      "options": [
+        "70% thải, 30% tuần hoàn",
+        "30% thải, 70% tuần hoàn",
+        "100% tuần hoàn",
+        "50% thải, 50% tuần hoàn"
+      ],
+      "answer": 0,
+      "explanation": "Dòng Type B1 trong bảng nêu tỷ lệ 70% và 30% tương ứng."
+    },
+    {
+      "id": "at-b02-q007",
+      "page": 9,
+      "prompt": "Dấu hiệu cấu tạo nào đặc trưng cho BSC-III theo bài?",
+      "options": [
+        "Kín khí, có găng tay gắn phía trước",
+        "Bàn mở không có vách ngăn",
+        "Không có cơ chế chuyển vật liệu",
+        "Không cần ngăn tiếp xúc trực tiếp"
+      ],
+      "answer": 0,
+      "explanation": "Găng tay gắn liền và khoang kín giúp cách ly người thao tác với tác nhân."
+    },
+    {
+      "id": "at-b02-q008",
+      "page": 9,
+      "prompt": "Vật liệu ra vào BSC-III được mô tả đi qua thiết bị nào?",
+      "options": [
+        "Nồi hấp tiệt trùng hai cửa",
+        "Chỉ một cửa sổ mở",
+        "Quạt trần thông thường",
+        "Bể rửa không có nắp"
+      ],
+      "answer": 0,
+      "explanation": "Trang 9 nêu nồi hấp hai cửa trong cơ chế chuyển vật liệu."
+    },
+    {
+      "id": "at-b02-q009",
+      "page": 12,
+      "prompt": "Theo phần chuẩn bị PPE, găng tay cần bố trí thế nào so với tay áo?",
+      "options": [
+        "Lồng phủ lên gấu tay áo",
+        "Để hở da giữa găng và áo",
+        "Chỉ mang sau khi đã thao tác mẫu",
+        "Chỉ dùng thay cho mọi trang bị khác"
+      ],
+      "answer": 0,
+      "explanation": "Bài nhấn mạnh găng phủ tay áo để không lộ da."
+    },
+    {
+      "id": "at-b02-q010",
+      "page": 14,
+      "prompt": "Hình bố trí buồng ATSH thể hiện những khu nào?",
+      "options": [
+        "Khu sạch, khu làm việc và khu nhiễm",
+        "Khu nóng, khu lạnh và khu phóng xạ",
+        "Khu hành chính, khu lưu trữ và khu ăn uống",
+        "Khu điện cao áp, thấp áp và nối đất"
+      ],
+      "answer": 0,
+      "explanation": "Hình trang 14 có nhãn Clean Area, Working Area và Contaminated Area."
+    },
+    {
+      "id": "at-b02-q011",
+      "page": 15,
+      "prompt": "Khi vệ sinh buồng ATSH, điều nào được bài nhắc không thực hiện?",
+      "options": [
+        "Xịt nước vào lỗ khí phía trước",
+        "Khử trùng mặt ngoài vật liệu trước khi mang ra",
+        "Lau khử trùng bề mặt buồng",
+        "Rửa tay khi kết thúc"
+      ],
+      "answer": 0,
+      "explanation": "Trang 15 ghi rõ không xịt nước vào lỗ khí phía trước."
+    },
+    {
+      "id": "at-b02-q012",
+      "page": 17,
+      "prompt": "Bảng thông số trong bài ghi hiệu suất HEPA tối thiểu là bao nhiêu?",
+      "options": [
+        "99,97% với hạt ≥0,3 µm",
+        "90% với hạt ≥3 mm",
+        "50% với mọi kích thước hạt",
+        "100% với mọi chất khí"
+      ],
+      "answer": 0,
+      "explanation": "Đây là thông số được ghi trong slide HEPA, cần đọc cùng kích thước hạt."
+    },
+    {
+      "id": "at-b02-q013",
+      "page": 17,
+      "prompt": "Cơ chế khuếch tán trong lọc HEPA liên quan đến điều gì?",
+      "options": [
+        "Chuyển động ngẫu nhiên Brown của hạt cực nhỏ",
+        "Chỉ sự tan của hạt vào nước",
+        "Chỉ điện phân hạt bụi",
+        "Sự nhân đôi của vi sinh vật"
+      ],
+      "answer": 0,
+      "explanation": "Bài mô tả hạt cực nhỏ chuyển động ngẫu nhiên và bị sợi lọc bắt giữ."
+    },
+    {
+      "id": "at-b02-q014",
+      "page": 18,
+      "prompt": "Theo bảng so sánh, lưu lượng khí của ULPA so với HEPA thường thế nào?",
+      "options": [
+        "Thấp hơn do mật độ vật liệu dày hơn",
+        "Luôn lớn hơn vì không có sợi lọc",
+        "Bằng không trong mọi thiết bị",
+        "Không phụ thuộc cấu tạo lọc"
+      ],
+      "answer": 0,
+      "explanation": "Bảng ghi ULPA có vật liệu dày hơn, nén hơn và lưu lượng khí thấp hơn."
+    },
+    {
+      "id": "at-b02-q015",
+      "page": 22,
+      "prompt": "Nhóm nội dung nào có trong các kỹ thuật an toàn PTN của bài?",
+      "options": [
+        "Ứng phó sự cố và xử lý khẩn cấp",
+        "Chỉ thiết kế bảng điểm",
+        "Chỉ quản lý doanh thu",
+        "Chỉ phân loại đồng vị"
+      ],
+      "answer": 0,
+      "explanation": "Trang 22 liệt kê ứng phó sự cố bên cạnh an toàn cá nhân, mẫu, hóa chất, điện và thiết bị."
+    }
+  ],
+  "source": {
+    "file": "2. An toàn sinh học PTN.pdf",
+    "url": "sources/at-b02.pdf",
+    "pages": 23,
+    "sha256": "0620d76c162f17b7b9f9f9ce29ecb24c235eb30a1a5c22dc40aaa0308f5c9fe5"
+  }
+}

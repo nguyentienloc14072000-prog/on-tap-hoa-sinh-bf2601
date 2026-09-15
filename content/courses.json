@@ -1,0 +1,138 @@
+[
+  {
+    "id": "bf2601",
+    "code": "BF2601",
+    "title": "Hóa sinh y sinh",
+    "sourceFolder": "Slide 2024",
+    "localSourceRoot": "../Slide 2024",
+    "legacyVersions": [
+      "9c6458474827"
+    ],
+    "scopeNote": "Chỉ dùng 9 PDF của bộ Slide 2024. Không bổ sung nội dung từ Internet, bài thí nghiệm, tiểu luận hay đề thi.",
+    "files": [
+      {
+        "id": "s01",
+        "relative": "1.1 Emzym 1.pdf"
+      },
+      {
+        "id": "s02",
+        "relative": "1.2 Enzym 1.pdf"
+      },
+      {
+        "id": "s03",
+        "relative": "2.1 Enzym 2.pdf"
+      },
+      {
+        "id": "s04",
+        "relative": "2.2 Enzym 2.pdf"
+      },
+      {
+        "id": "s05",
+        "relative": "3. Gluxit 1.pdf"
+      },
+      {
+        "id": "s06",
+        "relative": "4. Axit Amin - PROTEN huyet thanh.pdf"
+      },
+      {
+        "id": "s07",
+        "relative": "5. Lipid.pdf"
+      },
+      {
+        "id": "s08",
+        "relative": "6. Nước - khoáng.pdf"
+      },
+      {
+        "id": "s09",
+        "relative": "7. Vận chuyển khí trong máu và cân bằng axit base.pdf"
+      }
+    ]
+  },
+  {
+    "id": "et4551",
+    "code": "ET4551",
+    "title": "An toàn trong kỹ thuật y sinh",
+    "sourceFolder": "Bài giảng ET4551",
+    "localSourceRoot": "../../An toàn trong kỹ thuật y sinh - ET4551",
+    "legacyVersions": [],
+    "scopeNote": "Chỉ dùng 19 PDF bài giảng: 5 bài an toàn sinh học, 12 bài an toàn bức xạ và 2 tài liệu trong phần an toàn điện. Không dùng bài thuyết trình sinh viên, tiểu luận hoặc kiến thức trên Internet. Đạo đức chỉ được nhắc ở mức giới thiệu có trong bài An toàn sinh học 1. Số liệu và văn bản được ôn trong bối cảnh bài giảng.",
+    "files": [
+      {
+        "id": "at-b01",
+        "relative": "An toàn sinh học/1. ET4551_ Introduction to Biosafety.pdf"
+      },
+      {
+        "id": "at-b02",
+        "relative": "An toàn sinh học/2. An toàn sinh học PTN.pdf"
+      },
+      {
+        "id": "at-b03",
+        "relative": "An toàn sinh học/3. Đánh giá nguy cơ và các biện pháp khắc phục.pdf"
+      },
+      {
+        "id": "at-b04",
+        "relative": "An toàn sinh học/4. Cac quy định về ATSH tại Việt Nam.pdf"
+      },
+      {
+        "id": "at-b05",
+        "relative": "An toàn sinh học/5. Thiết kế phòng sạch.pdf"
+      },
+      {
+        "id": "at-r01",
+        "relative": "An toàn bức xạ/Slide/1. Gioi thieu chung.pdf"
+      },
+      {
+        "id": "at-r02",
+        "relative": "An toàn bức xạ/Slide/2. Nguyen tu va BX ion hoa.pdf"
+      },
+      {
+        "id": "at-r03",
+        "relative": "An toàn bức xạ/Slide/3. Tia X tuong tac voi vat chat.pdf"
+      },
+      {
+        "id": "at-r04",
+        "relative": "An toàn bức xạ/Slide/4. Don vi va dai luong do lieu xa.pdf"
+      },
+      {
+        "id": "at-r05",
+        "relative": "An toàn bức xạ/Slide/5. Cac phuong phap ghi do buc xa.pdf"
+      },
+      {
+        "id": "at-r06",
+        "relative": "An toàn bức xạ/Slide/6. Anh huong cua BX ion hoa.pdf"
+      },
+      {
+        "id": "at-r07",
+        "relative": "An toàn bức xạ/Slide/7. Bao ve nguon buc xa ngoai.pdf"
+      },
+      {
+        "id": "at-r08",
+        "relative": "An toàn bức xạ/Slide/8. Bao ve an toan với chieu xa trong.pdf"
+      },
+      {
+        "id": "at-r09",
+        "relative": "An toàn bức xạ/Slide/9. He thong bao ve ATBX.pdf"
+      },
+      {
+        "id": "at-r10",
+        "relative": "An toàn bức xạ/Slide/10. Detectors ghi do buc xa.pdf"
+      },
+      {
+        "id": "at-r11",
+        "relative": "An toàn bức xạ/Slide/11. ATBX trong khoa YHHN.pdf"
+      },
+      {
+        "id": "at-r12",
+        "relative": "An toàn bức xạ/Slide/12. ATBX khoa X quang chan doan.pdf"
+      },
+      {
+        "id": "at-e01",
+        "relative": "An toàn điện/Slide/An toan dien_2021.pdf"
+      },
+      {
+        "id": "at-e02",
+        "relative": "An toàn điện/Slide/CE_Topic2_Summary Viet.pdf"
+      }
+    ]
+  }
+]

@@ -1,0 +1,285 @@
+{
+  "id": "at-e02",
+  "courseId": "et4551",
+  "title": "Điện 2 · An toàn bệnh viện và quản lý rủi ro",
+  "group": "An toàn điện & quản lý rủi ro",
+  "description": "Bài tổng hợp Clinical Engineering: nhận diện nguy hiểm, kiểm soát và hồ sơ an toàn.",
+  "sections": [
+    {
+      "title": "Nguồn nguy hiểm và thông báo",
+      "from": 4,
+      "to": 10,
+      "points": [
+        "Nguồn nguy hiểm trong bệnh viện gồm hóa chất, sinh học, bức xạ, điện, cơ học, môi trường và con người.",
+        "Nhận diện, đánh dấu/cảnh báo, MSDS, đào tạo và chương trình thông báo bằng văn bản được giới thiệu trong bối cảnh tài liệu.",
+        "Phơi nhiễm hóa chất có thể qua tiêu hóa, hô hấp và da; kiểm soát gồm thông gió, bảo hộ, vệ sinh và đào tạo."
+      ]
+    },
+    {
+      "title": "Chất thải và bức xạ",
+      "from": 11,
+      "to": 25,
+      "points": [
+        "Bài nêu các đặc tính chất thải nguy hiểm và yêu cầu phân tách chất thải lây nhiễm tại nơi phát sinh.",
+        "Phần bức xạ nhắc lại hoạt độ, suy giảm mũ, liều/suất liều, liều tương đương và nguyên tắc thời gian–khoảng cách–che chắn.",
+        "Các ví dụ và giới hạn được ôn theo tài liệu, không bổ sung hoặc cập nhật bằng nguồn bên ngoài."
+      ]
+    },
+    {
+      "title": "Phòng cháy, thảm họa và kiểm tra",
+      "from": 26,
+      "to": 30,
+      "points": [
+        "Tam giác cháy gồm nhiên liệu, nhiệt và oxy. Chương trình phòng cháy xét phòng ngừa, phát hiện/dập sớm, ngăn khoang và di chuyển/thoát hiểm.",
+        "Thảm họa được định nghĩa qua việc vượt hoặc đe dọa vượt khả năng vận hành thường lệ của bệnh viện.",
+        "Kiểm tra định kỳ và hồ sơ giúp phát hiện xu hướng rủi ro."
+      ]
+    },
+    {
+      "title": "Đánh giá và kiểm soát rủi ro",
+      "from": 31,
+      "to": 36,
+      "points": [
+        "Cảnh báo, hướng dẫn sử dụng và ghi chép bảo dưỡng/sửa chữa/kiểm tra là các yếu tố quản lý được nhấn mạnh.",
+        "Quy trình: xác định mối nguy hiểm → đánh giá rủi ro → kiểm soát rủi ro.",
+        "Ma trận trang 35 kết hợp khả năng xảy ra và tính nghiêm trọng. Thứ tự kiểm soát: loại trừ, thay thế, kỹ thuật, hành chính và PPE."
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "at-e02-q001",
+      "page": 6,
+      "prompt": "MSDS được giải thích trong tài liệu là gì?",
+      "options": [
+        "Bảng chỉ dẫn an toàn hóa chất",
+        "Bảng số đếm gamma",
+        "Phiếu tính liều X-quang",
+        "Sơ đồ nối đất đẳng thế"
+      ],
+      "answer": 0,
+      "explanation": "Bài đưa MSDS vào chương trình nhận diện và thông báo nguy hiểm."
+    },
+    {
+      "id": "at-e02-q002",
+      "page": 7,
+      "prompt": "Theo bài, vì sao bệnh nhân dễ bị nguy hiểm sinh học?",
+      "options": [
+        "Thể trạng có thể suy yếu và dễ mắc lây nhiễm",
+        "Luôn có miễn dịch cao nhất",
+        "Không tiếp xúc môi trường bệnh viện",
+        "Chỉ tiếp xúc âm thanh"
+      ],
+      "answer": 0,
+      "explanation": "Trang 7 nêu sự suy yếu thể lý và nguy cơ lây nhiễm ở bệnh nhân."
+    },
+    {
+      "id": "at-e02-q003",
+      "page": 8,
+      "prompt": "Ba đường phơi nhiễm hóa chất được bài liệt kê là gì?",
+      "options": [
+        "Ăn vào, hít vào và tiếp xúc da",
+        "Chỉ nghe, nhìn và ngửi",
+        "Chỉ bức xạ sơ cấp, tán xạ và rò",
+        "Chỉ điện dung, điện trở và điện cảm"
+      ],
+      "answer": 0,
+      "explanation": "Các đáp án điền trên slide là tiêu hóa, hô hấp và da."
+    },
+    {
+      "id": "at-e02-q004",
+      "page": 9,
+      "prompt": "Biện pháp kiểm soát hóa chất nào được bài nhấn mạnh?",
+      "options": [
+        "Thông gió hoặc tủ hút khí độc phù hợp",
+        "Chỉ đóng kín mọi lỗ thông khí",
+        "Chỉ đổi nhãn hóa chất",
+        "Chỉ tăng tiếng ồn"
+      ],
+      "answer": 0,
+      "explanation": "Bài nêu thông gió, tủ hút/xả cục bộ cùng các biện pháp khác."
+    },
+    {
+      "id": "at-e02-q005",
+      "page": 10,
+      "prompt": "Công việc lặp lại, tư thế và mệt mỏi thuộc nhóm nguy hiểm nào?",
+      "options": [
+        "Công thái học",
+        "Chỉ bức xạ ion hóa",
+        "Chỉ nguy hiểm điện dung",
+        "Chỉ chất thải phóng xạ"
+      ],
+      "answer": 0,
+      "explanation": "Các yếu tố tổ chức công việc và tư thế được xếp trong nhóm công thái học."
+    },
+    {
+      "id": "at-e02-q006",
+      "page": 11,
+      "prompt": "Nhóm đặc tính nào giúp nhận diện chất thải nguy hiểm theo bài?",
+      "options": [
+        "Dễ cháy, phản ứng, ăn mòn và độc",
+        "Chỉ màu, mùi, chiều cao và cân nặng",
+        "Chỉ tròn, vuông, dài và ngắn",
+        "Chỉ độ sáng, âm lượng, áp suất và tần số"
+      ],
+      "answer": 0,
+      "explanation": "Bốn đặc tính được ghi trong phần xác định chất thải nguy hiểm."
+    },
+    {
+      "id": "at-e02-q007",
+      "page": 13,
+      "prompt": "Chất thải lây nhiễm cần được tách khỏi chất thải chung khi nào?",
+      "options": [
+        "Ngay khi trở thành chất thải",
+        "Chỉ sau khi trộn đầy thùng",
+        "Chỉ khi vận chuyển ra khỏi bệnh viện",
+        "Chỉ cuối tháng"
+      ],
+      "answer": 0,
+      "explanation": "Slide yêu cầu phân tách tại thời điểm phát sinh chất thải."
+    },
+    {
+      "id": "at-e02-q008",
+      "page": 15,
+      "prompt": "Hoạt độ 1 Bq tương ứng điều gì?",
+      "options": [
+        "Một phân rã trong một giây",
+        "Một joule trên kilogram",
+        "Một coulomb trên giây",
+        "Một phim X-quang mỗi tuần"
+      ],
+      "answer": 0,
+      "explanation": "Bài định nghĩa becquerel theo tốc độ phân rã."
+    },
+    {
+      "id": "at-e02-q009",
+      "page": 18,
+      "prompt": "Theo bài, liều tương đương được tính từ liều hấp thụ cùng yếu tố nào?",
+      "options": [
+        "Hệ số chất lượng của loại bức xạ",
+        "Chỉ hệ số công suất điện",
+        "Chỉ nhiệt độ phòng",
+        "Chỉ khối lượng máy"
+      ],
+      "answer": 0,
+      "explanation": "Tài liệu trình bày liều tương đương qua liều hấp thụ nhân Q factor."
+    },
+    {
+      "id": "at-e02-q010",
+      "page": 22,
+      "prompt": "Ở suất liều không đổi, thời gian theo giới hạn liều được tính thế nào?",
+      "options": [
+        "Giới hạn liều chia suất liều",
+        "Giới hạn liều nhân suất liều",
+        "Suất liều chia bình phương giới hạn",
+        "Luôn bằng một giờ"
+      ],
+      "answer": 0,
+      "explanation": "Slide ghi thời gian ở = giới hạn liều / suất liều."
+    },
+    {
+      "id": "at-e02-q011",
+      "page": 26,
+      "prompt": "Tam giác cháy trong bài gồm thành phần nào?",
+      "options": [
+        "Nhiên liệu, nhiệt và oxy",
+        "Điện áp, dòng và điện trở",
+        "Nước, muối và đường",
+        "Chì, tungsten và Perspex"
+      ],
+      "answer": 0,
+      "explanation": "Ba thành phần cấu thành lửa được ghi ở trang 26."
+    },
+    {
+      "id": "at-e02-q012",
+      "page": 27,
+      "prompt": "Ngăn khoang trong chương trình phòng cháy nhằm mục đích gì?",
+      "options": [
+        "Hạn chế đám cháy lan rộng",
+        "Tăng nguồn nhiên liệu",
+        "Ngăn mọi lối thoát hiểm",
+        "Tăng nhiệt độ cháy"
+      ],
+      "answer": 0,
+      "explanation": "Bài liệt kê ngăn khoang như biện pháp chặn đám cháy."
+    },
+    {
+      "id": "at-e02-q013",
+      "page": 28,
+      "prompt": "Thảm họa trong bối cảnh bệnh viện được bài xác định qua điều gì?",
+      "options": [
+        "Vượt hoặc đe dọa vượt nghiêm trọng khả năng vận hành thường lệ",
+        "Chỉ bất kỳ thiết bị nào hết pin",
+        "Chỉ một lần đổi lịch trực",
+        "Chỉ việc mua máy mới"
+      ],
+      "answer": 0,
+      "explanation": "Định nghĩa tập trung vào yêu cầu hoạt động vượt khả năng thông thường."
+    },
+    {
+      "id": "at-e02-q014",
+      "page": 30,
+      "prompt": "Hồ sơ an toàn giúp phát hiện rủi ro theo cách nào?",
+      "options": [
+        "Nhận ra xu hướng từ các quan sát được ghi lại",
+        "Loại bỏ nhu cầu kiểm tra thực tế",
+        "Chỉ lưu tên phòng",
+        "Chỉ thay thế việc đào tạo"
+      ],
+      "answer": 0,
+      "explanation": "Ghi chép giúp nhìn thấy xu hướng và rủi ro tiềm tàng."
+    },
+    {
+      "id": "at-e02-q015",
+      "page": 31,
+      "prompt": "Thiếu loại hồ sơ nào được bài nêu trong quản lý rủi ro thiết bị?",
+      "options": [
+        "Bảo dưỡng định kỳ, sửa chữa và kiểm tra",
+        "Chỉ danh sách món ăn",
+        "Chỉ lịch sinh nhật",
+        "Chỉ màu tường phòng"
+      ],
+      "answer": 0,
+      "explanation": "Bài nhấn mạnh ghi chép chi tiết những hoạt động với thiết bị."
+    },
+    {
+      "id": "at-e02-q016",
+      "page": 34,
+      "prompt": "Trình tự đánh giá rủi ro 3 bước là gì?",
+      "options": [
+        "Xác định mối nguy → đánh giá rủi ro → kiểm soát rủi ro",
+        "Kiểm soát → bỏ hồ sơ → mua thiết bị",
+        "Đánh giá → bỏ qua mối nguy → kết thúc",
+        "Chỉ xác định mối nguy rồi dừng"
+      ],
+      "answer": 0,
+      "explanation": "Ba bước được liệt kê theo đúng thứ tự này."
+    },
+    {
+      "id": "at-e02-q017",
+      "page": 35,
+      "prompt": "Theo ma trận trang 35, hậu quả lớn và xảy ra thỉnh thoảng được xếp mức nào?",
+      "options": [
+        "Rủi ro cao",
+        "Rủi ro thấp",
+        "Không có rủi ro",
+        "Không cần đánh giá"
+      ],
+      "answer": 0,
+      "explanation": "Ô giao giữa tính nghiêm trọng lớn và khả năng thỉnh thoảng là rủi ro cao."
+    },
+    {
+      "id": "at-e02-q018",
+      "page": 36,
+      "prompt": "Thứ tự biện pháp kiểm soát trong bài là gì?",
+      "options": [
+        "Loại trừ → thay thế → kỹ thuật → hành chính → PPE",
+        "PPE → hành chính → kỹ thuật → thay thế → loại trừ",
+        "Hành chính → PPE → loại trừ → kỹ thuật → thay thế",
+        "Chỉ PPE, không có biện pháp khác"
+      ],
+      "answer": 0,
+      "explanation": "Trang cuối liệt kê năm nhóm theo thứ tự từ loại trừ đến bảo hộ cá nhân."
+    }
+  ]
+}

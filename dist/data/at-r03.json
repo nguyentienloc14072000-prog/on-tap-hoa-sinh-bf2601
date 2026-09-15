@@ -1,0 +1,291 @@
+{
+  "id": "at-r03",
+  "courseId": "et4551",
+  "title": "Bức xạ 3 · Tia X và tương tác với vật chất",
+  "group": "An toàn bức xạ",
+  "description": "Tạo tia X, phổ bức xạ, suy giảm, HVL và năm tương tác cơ bản.",
+  "sections": [
+    {
+      "title": "Tạo tia X và phổ",
+      "from": 2,
+      "to": 8,
+      "points": [
+        "Electron từ cathode được gia tốc đến anode; phần lớn năng lượng thành nhiệt, một phần nhỏ thành tia X theo bài.",
+        "Bức xạ hãm tạo phổ liên tục; bức xạ đặc trưng có năng lượng rời rạc do chuyển mức electron.",
+        "Công thức trang 6: λ (Å) = 12,4 / E (keV); năng lượng càng cao, bước sóng càng ngắn."
+      ]
+    },
+    {
+      "title": "Suy giảm và tạo ảnh",
+      "from": 9,
+      "to": 19,
+      "points": [
+        "Qua lớp đồng nhất: I = I₀ × exp(−µd), với µ là hệ số suy giảm tuyến tính và d là bề dày.",
+        "Các mô suy giảm tia X khác nhau tạo nên thông tin ảnh. Chùm tia có thể truyền qua, bị hấp thụ hoặc tán xạ.",
+        "Tia X cứng có năng lượng cao; tia X mềm có năng lượng thấp. Tấm lọc loại bớt photon năng lượng thấp không đóng góp hữu ích cho ảnh theo bài.",
+        "HVL là bề dày làm giảm cường độ còn một nửa; n lớp HVL để lại tỷ lệ (1/2)ⁿ trong mô hình của bài."
+      ]
+    },
+    {
+      "title": "Tán xạ và quang điện",
+      "from": 20,
+      "to": 29,
+      "points": [
+        "Coherent: đổi hướng mà không đổi năng lượng; bước sóng trước và sau bằng nhau.",
+        "Compton: tương tác với electron lớp ngoài, gây ion hóa, đổi hướng và giảm năng lượng photon. Tán xạ làm giảm tương phản ảnh.",
+        "Quang điện: photon bị hấp thụ hoàn toàn khi ion hóa electron lớp trong; động năng quang điện tử bằng năng lượng photon trừ năng lượng liên kết."
+      ]
+    },
+    {
+      "title": "Tạo cặp và quang rã",
+      "from": 30,
+      "to": 32,
+      "points": [
+        "Tạo cặp xảy ra ở năng lượng trên khoảng 1,02 MeV theo slide: tạo electron và positron; hủy cặp tạo hai photon khoảng 0,51 MeV theo hai hướng ngược nhau.",
+        "Quang rã là tương tác photon năng lượng rất cao với hạt nhân; bài nhấn mạnh không xuất hiện trong tạo ảnh X-quang chẩn đoán."
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "at-r03-q001",
+      "page": 3,
+      "prompt": "Trong bóng X-quang, electron được gia tốc từ đâu tới đâu?",
+      "options": [
+        "Từ cathode tới anode",
+        "Từ anode tới cathode để tạo ánh sáng nhìn thấy",
+        "Từ phim tới bệnh nhân",
+        "Từ detector tới bộ lọc HEPA"
+      ],
+      "answer": 0,
+      "explanation": "Trang 3 mô tả điện áp cao gia tốc electron về anode."
+    },
+    {
+      "id": "at-r03-q002",
+      "page": 3,
+      "prompt": "Theo tỷ lệ minh họa trong slide, phần lớn năng lượng electron thành gì?",
+      "options": [
+        "Nhiệt năng",
+        "Tia X hữu ích hoàn toàn",
+        "Sóng âm",
+        "Từ trường tĩnh"
+      ],
+      "answer": 0,
+      "explanation": "Bài nêu khoảng 99% thành nhiệt và 1% thành tia X."
+    },
+    {
+      "id": "at-r03-q003",
+      "page": 5,
+      "prompt": "Loại bức xạ nào có phổ liên tục?",
+      "options": [
+        "Bức xạ hãm",
+        "Chỉ bức xạ đặc trưng",
+        "Chỉ ánh sáng laser đơn sắc",
+        "Chỉ photon hủy cặp đơn năng"
+      ],
+      "answer": 0,
+      "explanation": "Bài phân biệt bức xạ hãm liên tục với bức xạ đặc trưng rời rạc."
+    },
+    {
+      "id": "at-r03-q004",
+      "page": 7,
+      "prompt": "Năng lượng tia X đặc trưng phụ thuộc trực tiếp vào điều gì?",
+      "options": [
+        "Chênh lệch năng lượng liên kết giữa hai quỹ đạo electron",
+        "Chỉ bề dày phim",
+        "Chỉ khoảng cách đến bàn",
+        "Chỉ tốc độ thay đổi không khí"
+      ],
+      "answer": 0,
+      "explanation": "Trang 7 gắn photon đặc trưng với chênh lệch năng lượng khi electron chuyển mức."
+    },
+    {
+      "id": "at-r03-q005",
+      "page": 6,
+      "prompt": "Theo công thức λ = 12,4/E, nếu E tăng gấp đôi thì λ thế nào?",
+      "options": [
+        "Giảm một nửa",
+        "Tăng gấp đôi",
+        "Tăng gấp bốn",
+        "Không đổi"
+      ],
+      "answer": 0,
+      "explanation": "Bước sóng tỷ lệ nghịch với năng lượng trong công thức của bài."
+    },
+    {
+      "id": "at-r03-q006",
+      "page": 9,
+      "prompt": "Trong I = I₀exp(−µd), µ là gì?",
+      "options": [
+        "Hệ số suy giảm tuyến tính",
+        "Thời gian chiếu",
+        "Điện áp cathode",
+        "Liều tương đương"
+      ],
+      "answer": 0,
+      "explanation": "Slide định nghĩa µ là hệ số suy giảm tuyến tính của môi trường."
+    },
+    {
+      "id": "at-r03-q007",
+      "page": 12,
+      "prompt": "Tấm lọc tia X được bài nêu để loại bớt thành phần nào?",
+      "options": [
+        "Photon năng lượng thấp không đưa thông tin hữu ích tới ảnh",
+        "Toàn bộ photon năng lượng cao trong mọi trường hợp",
+        "Chỉ electron trong dây nguồn",
+        "Chỉ sóng siêu âm"
+      ],
+      "answer": 0,
+      "explanation": "Bài giải thích lọc tia X mềm không góp thông tin cho ảnh."
+    },
+    {
+      "id": "at-r03-q008",
+      "page": 13,
+      "prompt": "Tia X cứng được mô tả có đặc điểm gì?",
+      "options": [
+        "Năng lượng cao",
+        "Năng lượng thấp",
+        "Luôn không đâm xuyên",
+        "Luôn là sóng âm"
+      ],
+      "answer": 0,
+      "explanation": "Trang 13 phân biệt hard X-rays và soft X-rays theo năng lượng."
+    },
+    {
+      "id": "at-r03-q009",
+      "page": 17,
+      "prompt": "Khi photon đổi hướng, quá trình được gọi là gì?",
+      "options": [
+        "Tán xạ",
+        "Chỉ truyền thẳng",
+        "Chỉ hấp thụ hoàn toàn",
+        "Chỉ phân rã sinh học"
+      ],
+      "answer": 0,
+      "explanation": "Tán xạ là đổi hướng có hoặc không mất năng lượng."
+    },
+    {
+      "id": "at-r03-q010",
+      "page": 18,
+      "prompt": "Suy giảm chùm tia X gồm những quá trình nào?",
+      "options": [
+        "Hấp thụ và tán xạ",
+        "Chỉ truyền qua không tương tác",
+        "Chỉ khuếch đại điện",
+        "Chỉ phát ánh sáng từ đèn phòng"
+      ],
+      "answer": 0,
+      "explanation": "Trang 18 nêu tia bị suy giảm là tia bị hấp thụ hoặc tán xạ."
+    },
+    {
+      "id": "at-r03-q011",
+      "page": 19,
+      "prompt": "Một lớp HVL làm cường độ chùm tia còn bao nhiêu?",
+      "options": [
+        "Một nửa",
+        "Một phần mười",
+        "Gấp đôi",
+        "Bằng không tuyệt đối"
+      ],
+      "answer": 0,
+      "explanation": "HVL là bề dày làm suy giảm còn một nửa cường độ."
+    },
+    {
+      "id": "at-r03-q012",
+      "page": 19,
+      "prompt": "Nếu HVL = 2 mm, sau 8 mm vật liệu cường độ còn bao nhiêu theo ví dụ?",
+      "options": [
+        "1/16 ban đầu",
+        "1/4 ban đầu",
+        "1/2 ban đầu",
+        "1/8 ban đầu"
+      ],
+      "answer": 0,
+      "explanation": "8 mm bằng 4 HVL, nên còn (1/2)⁴ = 1/16."
+    },
+    {
+      "id": "at-r03-q013",
+      "page": 21,
+      "prompt": "Trong tán xạ coherent, năng lượng photon thay đổi thế nào?",
+      "options": [
+        "Không đổi, chỉ đổi hướng",
+        "Mất hoàn toàn",
+        "Tăng gấp đôi",
+        "Biến hoàn toàn thành một neutron"
+      ],
+      "answer": 0,
+      "explanation": "Bài nêu bước sóng tới và tán xạ bằng nhau."
+    },
+    {
+      "id": "at-r03-q014",
+      "page": 22,
+      "prompt": "Hiệu ứng Compton trong bài tương tác chủ yếu với electron nào?",
+      "options": [
+        "Electron lớp ngoài",
+        "Chỉ proton trong hạt nhân",
+        "Chỉ neutron tự do",
+        "Chỉ electron của mạch điện ngoài"
+      ],
+      "answer": 0,
+      "explanation": "Trang 22 mô tả tương tác với electron lớp ngoài, liên kết lỏng lẻo."
+    },
+    {
+      "id": "at-r03-q015",
+      "page": 24,
+      "prompt": "Tán xạ Compton ảnh hưởng thế nào tới ảnh theo bài?",
+      "options": [
+        "Giảm độ tương phản",
+        "Luôn làm ảnh tương phản tối đa",
+        "Không thể tới bộ thu ảnh",
+        "Chỉ thay màu vỏ thiết bị"
+      ],
+      "answer": 0,
+      "explanation": "Bài nêu tán xạ Compton gây nguy hiểm và làm giảm tương phản."
+    },
+    {
+      "id": "at-r03-q016",
+      "page": 27,
+      "prompt": "Điều gì xảy ra với photon tới trong hiệu ứng quang điện?",
+      "options": [
+        "Bị hấp thụ hoàn toàn",
+        "Truyền qua với nguyên năng lượng",
+        "Chỉ lệch hướng không mất năng lượng",
+        "Luôn tạo hai photon 0,51 MeV"
+      ],
+      "answer": 0,
+      "explanation": "Photon biến mất sau khi truyền năng lượng để ion hóa electron lớp trong."
+    },
+    {
+      "id": "at-r03-q017",
+      "page": 28,
+      "prompt": "Động năng quang điện tử bằng đại lượng nào?",
+      "options": [
+        "Năng lượng photon tới trừ năng lượng liên kết",
+        "Năng lượng photon cộng năng lượng liên kết",
+        "Chỉ năng lượng liên kết",
+        "Luôn bằng không"
+      ],
+      "answer": 0,
+      "explanation": "Từ Eᵢ = Eᵦ + EKE suy ra EKE = Eᵢ − Eᵦ."
+    },
+    {
+      "id": "at-r03-q018",
+      "page": 30,
+      "prompt": "Sự tạo cặp trong bài tạo ra cặp hạt nào?",
+      "options": [
+        "Electron và positron",
+        "Hai neutron",
+        "Hai proton",
+        "Proton và neutron"
+      ],
+      "answer": 0,
+      "explanation": "Trang 30 mô tả photon biến mất trong trường hạt nhân và tạo cặp điện tích ngược nhau."
+    }
+  ],
+  "source": {
+    "file": "3. Tia X tuong tac voi vat chat.pdf",
+    "url": "sources/at-r03.pdf",
+    "pages": 32,
+    "sha256": "a8aee7cdf13cf9e278e975b362cdd2ef6e119be6b397d76701ae33a4da122da7"
+  }
+}

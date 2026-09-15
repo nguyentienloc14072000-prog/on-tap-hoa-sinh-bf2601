@@ -1,0 +1,206 @@
+{
+  "id": "at-r05",
+  "courseId": "et4551",
+  "title": "Bức xạ 5 · Các phương pháp ghi đo",
+  "group": "An toàn bức xạ",
+  "description": "Detector khí, detector rắn, nhấp nháy, TLD và mạch đọc tín hiệu.",
+  "sections": [
+    {
+      "title": "Nguyên tắc phát hiện",
+      "from": 2,
+      "to": 4,
+      "points": [
+        "Cơ thể người không trực tiếp cảm nhận bức xạ ion hóa; thiết bị dựa vào các hiệu ứng vật lý hoặc hóa học.",
+        "Các hiệu ứng được nêu: ion hóa khí, ion hóa/kích thích trong chất rắn, biến đổi hóa học và kích hoạt neutron."
+      ]
+    },
+    {
+      "title": "Detector ion hóa khí",
+      "from": 4,
+      "to": 12,
+      "points": [
+        "Detector khí gồm điện cực trong thể tích khí; điện trường thu các điện tích sinh bởi bức xạ.",
+        "Buồng ion hóa làm việc ở vùng bão hòa: dòng chủ yếu phụ thuộc số ion ban đầu, ít phụ thuộc điện áp trong vùng đó.",
+        "Ống tỉ lệ có khuếch đại khí do ion hóa tiếp. Ống G-M cho xung lớn có biên độ gần như không phụ thuộc năng lượng ban đầu."
+      ]
+    },
+    {
+      "title": "Detector chất rắn",
+      "from": 13,
+      "to": 20,
+      "points": [
+        "Bài phân biệt dẫn điện, huỳnh quang và nhiệt huỳnh quang.",
+        "Detector Ge/Si chế độ xung cho biên độ liên quan năng lượng và được ứng dụng trong phổ kế.",
+        "Detector nhấp nháy tạo ánh sáng; ống nhân quang đổi ánh sáng thành xung điện và khuếch đại.",
+        "Điện tử bị bẫy có thể được giải phóng khi gia nhiệt; TLD dùng ghi tổng liều trong thời kỳ chiếu xạ."
+      ]
+    },
+    {
+      "title": "Mạch đo",
+      "from": 21,
+      "to": 23,
+      "points": [
+        "Tín hiệu đầu ra có thể là dòng một chiều hoặc xung điện; cần bộ khuếch đại, bộ đếm hoặc chỉ thị tốc độ phù hợp.",
+        "Dòng buồng ion rất nhỏ nên cần khuếch đại nhạy, hồi tiếp ổn định và hạn chế dòng nhiễu/rò."
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "at-r05-q001",
+      "page": 3,
+      "prompt": "Vì sao cần thiết bị để phát hiện bức xạ ion hóa?",
+      "options": [
+        "Cơ thể người không trực tiếp cảm nhận được bức xạ này",
+        "Mọi bức xạ đều nhìn thấy bằng mắt",
+        "Chỉ cần nghe âm thanh từ nguồn",
+        "Bức xạ luôn có mùi đặc trưng"
+      ],
+      "answer": 0,
+      "explanation": "Nguyên tắc chung của bài bắt đầu từ việc phải dựa vào hiệu ứng vật lý hoặc hóa học."
+    },
+    {
+      "id": "at-r05-q002",
+      "page": 4,
+      "prompt": "Trong detector khí, điện trường có vai trò chính nào?",
+      "options": [
+        "Thu các điện tích sinh ra do ion hóa",
+        "Tạo mẫu bệnh phẩm",
+        "Làm đổi số proton mọi nguyên tử",
+        "Chỉ lọc bụi phòng"
+      ],
+      "answer": 0,
+      "explanation": "Các ion và electron chuyển về điện cực tương ứng, tạo tín hiệu điện."
+    },
+    {
+      "id": "at-r05-q003",
+      "page": 7,
+      "prompt": "Buồng ion hóa làm việc ở vùng nào theo bài?",
+      "options": [
+        "Vùng bão hòa",
+        "Vùng phóng điện không kiểm soát",
+        "Vùng quang rã hạt nhân",
+        "Vùng bẫy nhiệt của tinh thể"
+      ],
+      "answer": 0,
+      "explanation": "Trang 7 gọi vùng làm việc của buồng ion là vùng bão hòa."
+    },
+    {
+      "id": "at-r05-q004",
+      "page": 7,
+      "prompt": "Trong vùng buồng ion hóa, dòng chủ yếu phụ thuộc yếu tố nào?",
+      "options": [
+        "Số ion do bức xạ tạo ra",
+        "Chỉ màu khí",
+        "Điện áp theo cấp số nhân trong mọi vùng",
+        "Tên nhà chế tạo"
+      ],
+      "answer": 0,
+      "explanation": "Bài nói dòng hầu như phụ thuộc số ion ban đầu và không phụ thuộc độ lớn điện áp trong vùng đó."
+    },
+    {
+      "id": "at-r05-q005",
+      "page": 10,
+      "prompt": "Khuếch đại khí trong ống đếm tỉ lệ xảy ra do điều gì?",
+      "options": [
+        "Electron được gia tốc gây ion hóa tiếp và tạo thác lũ",
+        "Chỉ gia nhiệt tinh thể TLD",
+        "Chỉ thay đổi hóa học của phim",
+        "Chỉ tăng nhiệt độ bàn đo"
+      ],
+      "answer": 0,
+      "explanation": "Cơ chế tạo thác ion hóa được mô tả ở trang 10."
+    },
+    {
+      "id": "at-r05-q006",
+      "page": 11,
+      "prompt": "Biên độ xung G-M có đặc điểm gì trong bài?",
+      "options": [
+        "Gần như giống nhau bất kể năng lượng truyền ban đầu",
+        "Luôn cho phổ năng lượng chi tiết",
+        "Luôn bằng không",
+        "Chỉ tỷ lệ với nhiệt độ nước"
+      ],
+      "answer": 0,
+      "explanation": "Đặc trưng G-M là các xung lớn không giữ thông tin năng lượng ban đầu qua biên độ."
+    },
+    {
+      "id": "at-r05-q007",
+      "page": 15,
+      "prompt": "Ba hiệu ứng trong detector rắn được bài liệt kê là gì?",
+      "options": [
+        "Dẫn điện, huỳnh quang và nhiệt huỳnh quang",
+        "Chỉ đối lưu, dẫn nhiệt và bức xạ nhiệt",
+        "Chỉ hấp thụ, khuếch tán và thẩm thấu",
+        "Chỉ ma sát, đàn hồi và trọng lực"
+      ],
+      "answer": 0,
+      "explanation": "Đây là ba hiệu ứng ghi ở trang 15."
+    },
+    {
+      "id": "at-r05-q008",
+      "page": 14,
+      "prompt": "Nhiệt huỳnh quang liên quan đến quá trình nào?",
+      "options": [
+        "Gia nhiệt giải phóng điện tử bị bẫy rồi phát ánh sáng",
+        "Chỉ làm lạnh khí cho ngưng tụ",
+        "Chỉ phân hạch đồng vị",
+        "Chỉ phát điện từ pin"
+      ],
+      "answer": 0,
+      "explanation": "Bài giải thích cung cấp nhiệt giúp electron thoát bẫy."
+    },
+    {
+      "id": "at-r05-q009",
+      "page": 16,
+      "prompt": "Detector Ge hoặc Si ở chế độ xung được nêu có ưu điểm nào?",
+      "options": [
+        "Biên độ xung tỷ lệ với năng lượng bức xạ tới",
+        "Không cần tương tác bức xạ",
+        "Mọi xung luôn có cùng biên độ như G-M",
+        "Chỉ đo độ ẩm"
+      ],
+      "answer": 0,
+      "explanation": "Bài gắn tính chất này với ứng dụng phổ kế gamma."
+    },
+    {
+      "id": "at-r05-q010",
+      "page": 17,
+      "prompt": "Ống nhân quang trong detector nhấp nháy làm gì?",
+      "options": [
+        "Biến ánh sáng thành xung điện và khuếch đại",
+        "Chỉ hấp thụ nhiệt mà không cho tín hiệu",
+        "Chỉ tạo bức xạ neutron",
+        "Chỉ đo áp suất khí"
+      ],
+      "answer": 0,
+      "explanation": "Ánh sáng nhấp nháy được thu và chuyển thành tín hiệu điện qua ống nhân quang."
+    },
+    {
+      "id": "at-r05-q011",
+      "page": 19,
+      "prompt": "TLD được bài nêu dùng để đo gì?",
+      "options": [
+        "Tổng liều trong thời kỳ chiếu xạ",
+        "Chỉ số khối của nguyên tử",
+        "Chỉ độ dày thành phòng",
+        "Chỉ vận tốc quạt"
+      ],
+      "answer": 0,
+      "explanation": "Dòng cuối trang 19 nêu ứng dụng tích lũy liều của TLD."
+    },
+    {
+      "id": "at-r05-q012",
+      "page": 21,
+      "prompt": "Hai dạng tín hiệu đầu ra detector được nêu là gì?",
+      "options": [
+        "Dòng một chiều và xung điện",
+        "Chỉ mùi và nhiệt độ",
+        "Chỉ hình ảnh và âm thanh",
+        "Chỉ áp suất và độ ẩm"
+      ],
+      "answer": 0,
+      "explanation": "Các mạch khuếch đại hoặc đếm được chọn theo dạng tín hiệu này."
+    }
+  ]
+}

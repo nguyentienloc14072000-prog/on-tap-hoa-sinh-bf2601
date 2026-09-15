@@ -1,0 +1,285 @@
+{
+  "id": "at-r12",
+  "courseId": "et4551",
+  "title": "Bức xạ 12 · Che chắn khoa X-quang chẩn đoán",
+  "group": "An toàn bức xạ",
+  "description": "Dữ kiện thiết kế, hệ số U/T/W và ví dụ tính che chắn trong slide.",
+  "sections": [
+    {
+      "title": "Dữ kiện và thành phần chiếu xạ",
+      "from": 5,
+      "to": 19,
+      "points": [
+        "Thiết kế xét nhân viên, bệnh nhân khác, khách và người ở vùng lân cận, kể cả tầng trên và dưới.",
+        "Cần biết thiết bị, kVp, mAs, khối lượng công việc, hình học, hướng chùm tia và vị trí người xung quanh.",
+        "Ba thành phần: chùm sơ cấp, tán xạ từ bệnh nhân và rò từ bóng phát."
+      ]
+    },
+    {
+      "title": "U, T và W",
+      "from": 20,
+      "to": 33,
+      "points": [
+        "U là hệ số sử dụng theo hướng chùm sơ cấp; T biểu diễn mức chiếm dụng khu vực.",
+        "W là khối lượng công việc, dùng mA-min/tuần trong các ví dụ X-quang thường quy.",
+        "Khi có nhiều nguồn phải cộng đóng góp; số liệu thiết kế trong bài thuộc bối cảnh ví dụ, không thay thế khảo sát cơ sở thực tế."
+      ]
+    },
+    {
+      "title": "Vật liệu và tính liên tục",
+      "from": 35,
+      "to": 46,
+      "points": [
+        "Bài minh họa chì, gạch, bê tông/baryte và kính chì.",
+        "Mối ghép, khung cửa, đường cáp và lỗ xuyên có thể làm gián đoạn che chắn; cần kiểm tra tính liên tục.",
+        "Vật liệu kính thông thường không tự động tương đương kính chì."
+      ]
+    },
+    {
+      "title": "Ví dụ X-quang và CT",
+      "from": 47,
+      "to": 69,
+      "points": [
+        "Ví dụ X-quang: W = 700 mA-min/tuần; liều sơ cấp tính theo P₁UT/d², rồi cộng tán xạ và rò.",
+        "Tại điểm tính trong ví dụ: 132,16 + 5,2 + 0,233 ≈ 137,59 mGy/tuần trước chắn.",
+        "Phần CT quy đổi số lát, bề dày, mAs và loại chụp trước khi tính; các đồ thị/hệ số che chắn cần xem trực tiếp trên PDF."
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "at-r12-q001",
+      "page": 14,
+      "prompt": "Khi khảo sát khu vực xung quanh phòng X-quang, cần xét nơi nào?",
+      "options": [
+        "Cả bên cạnh, tầng trên và tầng dưới",
+        "Chỉ ngay cửa phòng",
+        "Chỉ vị trí điều khiển",
+        "Chỉ phòng ở cùng tầng"
+      ],
+      "answer": 0,
+      "explanation": "Bài yêu cầu xem xét khu vực lân cận theo cả phương ngang và đứng."
+    },
+    {
+      "id": "at-r12-q002",
+      "page": 19,
+      "prompt": "Ba thành phần bức xạ cần xét khi tính che chắn là gì?",
+      "options": [
+        "Sơ cấp, tán xạ và rò",
+        "Chỉ alpha, beta và neutron",
+        "Chỉ ánh sáng đỏ, xanh và vàng",
+        "Chỉ âm, nhiệt và áp suất"
+      ],
+      "answer": 0,
+      "explanation": "Trang 19 phân tách primary, scattered và leakage radiation."
+    },
+    {
+      "id": "at-r12-q003",
+      "page": 20,
+      "prompt": "Hệ số sử dụng U mô tả điều gì trong phần này?",
+      "options": [
+        "Phần sử dụng chùm sơ cấp theo một hướng",
+        "Thời gian bán rã đồng vị",
+        "Điện trở cơ thể",
+        "Hiệu suất lọc khí"
+      ],
+      "answer": 0,
+      "explanation": "U liên quan phân bố hướng chiếu của chùm sơ cấp."
+    },
+    {
+      "id": "at-r12-q004",
+      "page": 23,
+      "prompt": "Hệ số chiếm dụng T mô tả yếu tố nào?",
+      "options": [
+        "Mức hiện diện của người tại khu vực được xét",
+        "Độ dày riêng của chì",
+        "Nhiệt độ bóng phát",
+        "Số nguyên tử trong vật liệu"
+      ],
+      "answer": 0,
+      "explanation": "T dùng để xét mức sử dụng/hiện diện tại vị trí cần bảo vệ."
+    },
+    {
+      "id": "at-r12-q005",
+      "page": 24,
+      "prompt": "Trong bảng của bài, khu vực văn phòng có T bằng bao nhiêu?",
+      "options": [
+        "1",
+        "1/40",
+        "0",
+        "10"
+      ],
+      "answer": 0,
+      "explanation": "Bảng minh họa sử dụng T = 1 cho khu vực chiếm dụng đầy đủ như văn phòng."
+    },
+    {
+      "id": "at-r12-q006",
+      "page": 26,
+      "prompt": "Đơn vị W trong ví dụ X-quang thường quy là gì?",
+      "options": [
+        "mA-min/tuần",
+        "mSv/giờ",
+        "Bq/kg",
+        "keV/mm"
+      ],
+      "answer": 0,
+      "explanation": "Bài biểu diễn workload bằng tổng mA-min trong một tuần."
+    },
+    {
+      "id": "at-r12-q007",
+      "page": 28,
+      "prompt": "Với 50 mAs/phim, 3 phim/người, 50 người/ngày và 7 ngày/tuần, W bằng bao nhiêu?",
+      "options": [
+        "875 mA-min/tuần",
+        "52.500 mA-min/tuần",
+        "125 mA-min/tuần",
+        "14,58 mA-min/tuần"
+      ],
+      "answer": 0,
+      "explanation": "50 × 3 × 50 × 7 = 52.500 mAs/tuần; chia 60 được 875 mA-min/tuần."
+    },
+    {
+      "id": "at-r12-q008",
+      "page": 31,
+      "prompt": "Vì sao vẫn phải xét bức xạ rò từ bóng phát?",
+      "options": [
+        "Vỏ bóng không làm bức xạ rò bằng không tuyệt đối",
+        "Mọi tia sơ cấp đều là bức xạ rò",
+        "Rò chỉ tồn tại khi máy tắt",
+        "Rò không bao giờ góp liều"
+      ],
+      "answer": 0,
+      "explanation": "Bài dành phần riêng cho leakage radiation từ cụm bóng."
+    },
+    {
+      "id": "at-r12-q009",
+      "page": 33,
+      "prompt": "Khi nhiều nguồn đóng góp tại cùng vị trí, cần làm gì?",
+      "options": [
+        "Cộng các đóng góp liều phù hợp",
+        "Chỉ chọn nguồn nhỏ nhất",
+        "Luôn bỏ qua nguồn thứ hai",
+        "Chia liều cho số cửa sổ"
+      ],
+      "answer": 0,
+      "explanation": "Tổng phơi nhiễm phải xét các nguồn cùng ảnh hưởng vị trí đó."
+    },
+    {
+      "id": "at-r12-q010",
+      "page": 37,
+      "prompt": "Trong tường gạch, vị trí nào được bài lưu ý có thể yếu về che chắn?",
+      "options": [
+        "Mạch vữa",
+        "Mọi viên gạch đều trong suốt hoàn toàn",
+        "Chỉ lớp sơn bên ngoài",
+        "Chỉ biển tên phòng"
+      ],
+      "answer": 0,
+      "explanation": "Bài lưu ý cấu trúc gạch đặc và mạch vữa trong thiết kế che chắn."
+    },
+    {
+      "id": "at-r12-q011",
+      "page": 39,
+      "prompt": "Mục đích của việc chồng mép tấm chì là gì?",
+      "options": [
+        "Tránh khe hở làm gián đoạn che chắn",
+        "Tăng hoạt độ bóng phát",
+        "Giảm số phim chụp",
+        "Thay đổi điện áp máy"
+      ],
+      "answer": 0,
+      "explanation": "Mép ghép cần chồng phủ để duy trì che chắn liên tục."
+    },
+    {
+      "id": "at-r12-q012",
+      "page": 40,
+      "prompt": "Nhận định nào phù hợp lưu ý về kính trong bài?",
+      "options": [
+        "Kính thường dày không mặc nhiên thay thế kính chì",
+        "Mọi kính đều có khả năng chắn như nhau",
+        "Kính càng trong càng chắn tốt trong mọi trường hợp",
+        "Kính cửa không cần xét bức xạ"
+      ],
+      "answer": 0,
+      "explanation": "Bài phân biệt vật liệu kính thông thường với vật liệu che chắn chuyên dụng."
+    },
+    {
+      "id": "at-r12-q013",
+      "page": 42,
+      "prompt": "Chi tiết nào cần kiểm tra để tránh gián đoạn che chắn?",
+      "options": [
+        "Lỗ xuyên và đường cáp/ống qua tường",
+        "Chỉ màu dây điện",
+        "Chỉ tên thiết bị",
+        "Chỉ kích thước bàn phím"
+      ],
+      "answer": 0,
+      "explanation": "Các chỗ xuyên tường có thể tạo đường truyền bức xạ ngoài thiết kế."
+    },
+    {
+      "id": "at-r12-q014",
+      "page": 48,
+      "prompt": "Ví dụ 20 mAs/phim × 100 người/ngày × 3 phim/người × 7 ngày cho W bao nhiêu?",
+      "options": [
+        "700 mA-min/tuần",
+        "42.000 mA-min/tuần",
+        "100 mA-min/tuần",
+        "7.000 mA-min/tuần"
+      ],
+      "answer": 0,
+      "explanation": "Tổng là 42.000 mAs/tuần, chia 60 được 700 mA-min/tuần."
+    },
+    {
+      "id": "at-r12-q015",
+      "page": 50,
+      "prompt": "Theo ví dụ P₁ = 3304, U = 0,25, T = 1, d = 2,5 m, P₁UT/d² bằng bao nhiêu?",
+      "options": [
+        "132,16 mGy/tuần",
+        "330,4 mGy/tuần",
+        "528,64 mGy/tuần",
+        "52,864 mGy/tuần"
+      ],
+      "answer": 0,
+      "explanation": "3304 × 0,25 × 1 / 2,5² = 132,16 theo đơn vị của ví dụ."
+    },
+    {
+      "id": "at-r12-q016",
+      "page": 50,
+      "prompt": "Trong công thức P = P₁UT/d², giữ yếu tố khác không đổi và giảm U một nửa làm P thế nào?",
+      "options": [
+        "Giảm một nửa",
+        "Tăng gấp đôi",
+        "Tăng gấp bốn",
+        "Không đổi"
+      ],
+      "answer": 0,
+      "explanation": "P tỷ lệ thuận với U trong công thức đang dùng."
+    },
+    {
+      "id": "at-r12-q017",
+      "page": 53,
+      "prompt": "Theo ví dụ, tổng 132,16 + 5,2 + 0,233 xấp xỉ bao nhiêu?",
+      "options": [
+        "137,59 mGy/tuần",
+        "132,16 mGy/tuần",
+        "5,433 mGy/tuần",
+        "687,97 mGy/tuần"
+      ],
+      "answer": 0,
+      "explanation": "Cộng sơ cấp, tán xạ và rò cho 137,593, làm tròn 137,59."
+    },
+    {
+      "id": "at-r12-q018",
+      "page": 60,
+      "prompt": "Trong ví dụ CT, vì sao quy đổi các nhóm chụp trước khi cộng workload?",
+      "options": [
+        "Để xét khác biệt loại chụp và thông số như mAs/bề dày",
+        "Để luôn bỏ qua chụp đầu",
+        "Để loại bỏ mọi bức xạ tán xạ",
+        "Để không cần biết số lát chụp"
+      ],
+      "answer": 0,
+      "explanation": "Phần tính CT chuẩn hóa các nhóm chụp theo điều kiện của ví dụ trước khi cộng."
+    }
+  ]
+}

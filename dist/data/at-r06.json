@@ -1,0 +1,213 @@
+{
+  "id": "at-r06",
+  "courseId": "et4551",
+  "title": "Bức xạ 6 · Ảnh hưởng sinh học",
+  "group": "An toàn bức xạ",
+  "description": "Cơ chế tổn thương, hiệu ứng sớm–muộn và mối liên hệ với liều.",
+  "sections": [
+    {
+      "title": "Từ tương tác nguyên tử đến tế bào",
+      "from": 2,
+      "to": 6,
+      "points": [
+        "Sinh học bức xạ nghiên cứu ảnh hưởng của bức xạ ion hóa lên mô sinh học.",
+        "Ion hóa hoặc kích thích có thể làm đổi liên kết, cấu trúc phân tử và chức năng tế bào.",
+        "Bài cũng nêu khả năng sửa chữa nhờ enzyme, phục hồi tế bào và tái tạo mô."
+      ]
+    },
+    {
+      "title": "Hiệu ứng sớm và muộn",
+      "from": 7,
+      "to": 19,
+      "points": [
+        "Hiệu ứng sớm được mô tả xuất hiện trong vài phút hoặc vài ngày; hiệu ứng muộn không nhận biết trong sáu tháng hoặc lâu hơn theo bài.",
+        "Bài giới thiệu hội chứng cấp, tổn thương mô và các hiệu ứng muộn như ung thư, tổn thương mắt và di truyền.",
+        "Ảnh hưởng tới bào thai được trình bày riêng; các ảnh minh họa cho thấy tác động không phải lúc nào cũng dễ nhận biết ngay."
+      ]
+    },
+    {
+      "title": "Đường vào và cơ chế gián tiếp",
+      "from": 20,
+      "to": 24,
+      "points": [
+        "Chất phóng xạ có thể liên quan đường tiêu hóa, hô hấp, da/vết thương, sau đó phân bố và bài tiết.",
+        "Chuỗi gián tiếp: photon → electron nhanh → ion/gốc tự do → thay đổi liên kết phân tử → hiệu ứng sinh học.",
+        "LET là năng lượng truyền trên một đơn vị chiều dài đường đi."
+      ]
+    },
+    {
+      "title": "Liều, đáp ứng và biểu hiện",
+      "from": 25,
+      "to": 45,
+      "points": [
+        "Các phần sau trình bày hội chứng tạo máu, tiêu hóa, não–mạch và các hiệu ứng muộn; các ngưỡng số liệu phải đọc trong bối cảnh của bài.",
+        "Phát sinh ung thư được bài xếp là hiệu ứng muộn ngẫu nhiên: xác suất liên quan liều, khác với mức độ nghiêm trọng của một trường hợp.",
+        "Bài lưu ý đột biến phụ thuộc liều và suất liều, với nhiều dữ liệu nghiên cứu từ động vật và in vitro."
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "at-r06-q001",
+      "page": 2,
+      "prompt": "Sinh học bức xạ nghiên cứu vấn đề nào?",
+      "options": [
+        "Ảnh hưởng bức xạ ion hóa trên mô sinh học",
+        "Chỉ thiết kế dây dẫn điện",
+        "Chỉ cấu tạo bộ lọc khí",
+        "Chỉ phân loại thiết bị theo giá"
+      ],
+      "answer": 0,
+      "explanation": "Định nghĩa của ngành được ghi ở trang 2."
+    },
+    {
+      "id": "at-r06-q002",
+      "page": 3,
+      "prompt": "Ảnh hưởng tia X lên cơ thể bắt đầu từ mức tương tác nào theo bài?",
+      "options": [
+        "Cấp nguyên tử",
+        "Chỉ cấp cơ quan nhìn thấy được",
+        "Chỉ lớp quần áo",
+        "Chỉ lớp vỏ máy"
+      ],
+      "answer": 0,
+      "explanation": "Bài nhấn mạnh ion hóa và kích thích electron ở cấp nguyên tử."
+    },
+    {
+      "id": "at-r06-q003",
+      "page": 4,
+      "prompt": "Ion hóa có thể làm gì với phân tử lớn?",
+      "options": [
+        "Đổi liên kết, phá vỡ hoặc sắp xếp lại cấu trúc",
+        "Luôn giữ nguyên mọi liên kết",
+        "Chỉ đổi màu bên ngoài",
+        "Không thể ảnh hưởng chức năng"
+      ],
+      "answer": 0,
+      "explanation": "Trang 4 mô tả thay đổi hóa học dẫn đến sai lệch chức năng."
+    },
+    {
+      "id": "at-r06-q004",
+      "page": 5,
+      "prompt": "Theo bài, tổn thương phân tử có thể được phục hồi nhờ yếu tố nào?",
+      "options": [
+        "Enzyme sửa chữa",
+        "Chỉ tín hiệu âm thanh",
+        "Chỉ áp suất phòng",
+        "Chỉ nhãn cảnh báo"
+      ],
+      "answer": 0,
+      "explanation": "Bài nêu enzyme sửa chữa và khả năng tái tạo của tế bào, mô."
+    },
+    {
+      "id": "at-r06-q005",
+      "page": 7,
+      "prompt": "Hiệu ứng xuất hiện trong vài phút hoặc vài ngày được bài gọi là gì?",
+      "options": [
+        "Hiệu ứng sớm",
+        "Hiệu ứng muộn",
+        "Chỉ đột biến di truyền thế hệ sau",
+        "Chỉ phông bức xạ"
+      ],
+      "answer": 0,
+      "explanation": "Đây là phân loại thời gian đáp ứng ở trang 7."
+    },
+    {
+      "id": "at-r06-q006",
+      "page": 11,
+      "prompt": "Bài xếp bệnh ung thư vào nhóm tác động nào trong phần này?",
+      "options": [
+        "Hiệu ứng muộn",
+        "Chỉ hiệu ứng cơ học tức thời",
+        "Chỉ tác động nhiệt trên dây dẫn",
+        "Không liên quan đến bức xạ"
+      ],
+      "answer": 0,
+      "explanation": "Trang 11 trình bày ung thư trong các hiệu ứng muộn."
+    },
+    {
+      "id": "at-r06-q007",
+      "page": 21,
+      "prompt": "Trong sơ đồ phân bố đồng vị, I-131 được gắn với cơ quan nào?",
+      "options": [
+        "Tuyến giáp",
+        "Xương",
+        "Gan",
+        "Cơ"
+      ],
+      "answer": 0,
+      "explanation": "Sơ đồ trang 21 minh họa vị trí lắng đọng I-131 ở tuyến giáp."
+    },
+    {
+      "id": "at-r06-q008",
+      "page": 23,
+      "prompt": "Trong cơ chế gián tiếp, yếu tố nào xuất hiện trước biến đổi phân tử lớn?",
+      "options": [
+        "Các gốc tự do",
+        "Chỉ hồng cầu mới sinh",
+        "Chỉ không khí lạnh",
+        "Chỉ trường âm học"
+      ],
+      "answer": 0,
+      "explanation": "Chuỗi phản ứng gián tiếp nêu các gốc ion và gốc tự do gây biến đổi liên kết."
+    },
+    {
+      "id": "at-r06-q009",
+      "page": 24,
+      "prompt": "LET biểu thị đại lượng nào?",
+      "options": [
+        "Năng lượng truyền trên đơn vị chiều dài đường đi",
+        "Liều nhận trong một năm",
+        "Số phân rã trên một giây",
+        "Thời gian bán rã sinh học"
+      ],
+      "answer": 0,
+      "explanation": "Trang 24 ghi định nghĩa Linear Energy Transfer."
+    },
+    {
+      "id": "at-r06-q010",
+      "page": 30,
+      "prompt": "Hội chứng tạo máu trong bài liên quan đặc biệt tới cấu trúc nào?",
+      "options": [
+        "Tủy xương",
+        "Chỉ men răng",
+        "Chỉ thủy tinh thể",
+        "Chỉ lớp sừng ngoài da"
+      ],
+      "answer": 0,
+      "explanation": "Phần hội chứng huyết học mô tả tổn thương tủy xương và chức năng tạo máu."
+    },
+    {
+      "id": "at-r06-q011",
+      "page": 36,
+      "prompt": "Với phát sinh ung thư, bài liên hệ liều với yếu tố nào?",
+      "options": [
+        "Xác suất xảy ra",
+        "Luôn mức độ nghiêm trọng của từng ca",
+        "Chỉ màu của khối u",
+        "Chỉ vị trí đặt liều kế"
+      ],
+      "answer": 0,
+      "explanation": "Bài phân biệt xác suất phụ thuộc liều với mức độ nghiêm trọng của hiệu ứng ngẫu nhiên."
+    },
+    {
+      "id": "at-r06-q012",
+      "page": 34,
+      "prompt": "Bài nêu sự xuất hiện đột biến phụ thuộc những đại lượng nào?",
+      "options": [
+        "Liều và suất liều",
+        "Chỉ khoảng cách tới cửa sổ",
+        "Chỉ số lượng máy tính",
+        "Chỉ thời gian sửa chữa máy"
+      ],
+      "answer": 0,
+      "explanation": "Trang 34 nhấn mạnh cả liều và suất liều."
+    }
+  ],
+  "source": {
+    "file": "6. Anh huong cua BX ion hoa.pdf",
+    "url": "sources/at-r06.pdf",
+    "pages": 45,
+    "sha256": "dc3e390f338c9a4f4aef3c08a217187655b667f5be1c234c13c42326195707c4"
+  }
+}

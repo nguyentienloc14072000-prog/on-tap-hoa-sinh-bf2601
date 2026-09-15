@@ -1,0 +1,342 @@
+{
+  "id": "at-b03",
+  "courseId": "et4551",
+  "title": "Sinh học 3 · Đánh giá nguy cơ và kiểm soát",
+  "group": "An toàn sinh học",
+  "description": "Năm bước đánh giá, thực hành vi sinh tốt, khử nhiễm, chất thải và sự cố.",
+  "sections": [
+    {
+      "title": "Nhận diện và đánh giá nguy cơ",
+      "from": 1,
+      "to": 11,
+      "points": [
+        "Hazard là yếu tố có khả năng gây hại. Đánh giá nguy cơ xét khả năng và hậu quả của phơi nhiễm hoặc phát tán ngoài ý muốn.",
+        "Năm bước: thu thập thông tin → lượng giá nguy cơ → xây dựng chiến lược → chọn và thực hiện biện pháp → xem xét lại.",
+        "Cần đánh giá định kỳ và khi thay đổi kỹ thuật, tác nhân, cơ sở, thiết bị, nhân sự, quy trình hoặc có sự kiện không mong muốn.",
+        "Biện pháp bổ sung được nêu gồm giảm lượng mẫu, tránh tăng sinh, bất hoạt trước phân tích và sử dụng chủng an toàn."
+      ]
+    },
+    {
+      "title": "Các yêu cầu cốt lõi",
+      "from": 12,
+      "to": 19,
+      "points": [
+        "Đảm bảo năng lực nhân sự, cơ sở vật chất, GMPP, nhận và bảo quản mẫu, khử nhiễm, PPE và xử lý sự cố.",
+        "GMPP là Good Microbiological Practices and Procedures; hướng đến bảo vệ nhân viên và mẫu khỏi nhiễm và phát tán tác nhân.",
+        "Bề mặt cần nhẵn, dễ lau chùi và chống ăn mòn; khu ăn uống, nghỉ ngơi được bố trí ngoài phòng xét nghiệm.",
+        "Vật chứa mẫu cần kín, không rò rỉ, phù hợp thể tích và có nhãn, thông tin chính xác."
+      ]
+    },
+    {
+      "title": "Khử nhiễm và quản lý chất thải",
+      "from": 20,
+      "to": 27,
+      "points": [
+        "Theo bài, tiệt trùng tiêu diệt hoặc loại bỏ tất cả tác nhân sinh học, kể cả bào tử; khử trùng và làm sạch có mức tác động khác.",
+        "Chọn chất khử trùng cần xét hiệu quả, an toàn, môi trường và tương thích vật liệu; quá trình còn phụ thuộc nồng độ, chất hữu cơ, pH, thời gian tiếp xúc và nhiệt độ.",
+        "Trình tự được mô tả: làm sạch → dùng chất khử trùng → vệ sinh lại dụng cụ.",
+        "Vật sắc nhọn lây nhiễm phải vào hộp chuyên dụng chống đâm thủng; chất lỏng lây nhiễm cần khử nhiễm trước khi thải.",
+        "Nội dung về chu trình hấp và hóa chất trong slide là nội dung ôn học; thông số cần được đọc đầy đủ cùng điều kiện và loại vật liệu."
+      ]
+    },
+    {
+      "title": "Ứng phó sự cố trong bài giảng",
+      "from": 28,
+      "to": 33,
+      "points": [
+        "Bộ spill kit gồm PPE, vật liệu thấm, dụng cụ gắp, túi chất thải, hộp sắc nhọn, chất khử nhiễm, biển cảnh báo và SOP.",
+        "Phần tràn đổ hóa chất nêu cô lập khu vực, thông báo giám sát, thu gom từ ngoài vào trong và báo cáo an toàn.",
+        "Phần sự cố ly tâm nhấn mạnh không mở nắp ngay và chú ý khí dung; bài có các tình huống trước và sau khi mở nắp.",
+        "Quy trình sự cố bao gồm cảnh báo, bảo vệ người, xử lý theo SOP và báo cáo người phụ trách."
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "at-b03-q001",
+      "page": 1,
+      "prompt": "Đánh giá nguy cơ trong bài xét hai yếu tố chính nào?",
+      "options": [
+        "Khả năng xảy ra và hậu quả phơi nhiễm hoặc phát tán",
+        "Chỉ diện tích và màu phòng",
+        "Chỉ số lượng nhân viên",
+        "Chỉ giá mua thiết bị"
+      ],
+      "answer": 0,
+      "explanation": "Định nghĩa ở trang 1 liên hệ khả năng xảy ra với hậu quả của phơi nhiễm hoặc phát tán."
+    },
+    {
+      "id": "at-b03-q002",
+      "page": 3,
+      "prompt": "Hazard được định nghĩa là gì?",
+      "options": [
+        "Yếu tố có khả năng gây hại",
+        "Kết quả chấm bài trắc nghiệm",
+        "Một cấp tủ ATSH",
+        "Một đơn vị đo hạt bụi"
+      ],
+      "answer": 0,
+      "explanation": "Trang 3 dùng định nghĩa này cho nguy hiểm vật lý, hóa học và sinh học."
+    },
+    {
+      "id": "at-b03-q003",
+      "page": 6,
+      "prompt": "Ma trận nguy cơ trong bài kết hợp những trục nào?",
+      "options": [
+        "Khả năng phơi nhiễm/phát tán và mức hậu quả",
+        "Nhiệt độ và giá hóa chất",
+        "Màu nhãn và loại tủ",
+        "Thâm niên và học phí"
+      ],
+      "answer": 0,
+      "explanation": "Hai trục ma trận ở trang 6 là khả năng và hậu quả."
+    },
+    {
+      "id": "at-b03-q004",
+      "page": 7,
+      "prompt": "Bước đầu tiên trong năm bước đánh giá nguy cơ là gì?",
+      "options": [
+        "Thu thập thông tin",
+        "Chọn biện pháp mà không đánh giá",
+        "Xem xét lại sau cùng",
+        "Bỏ qua mô tả tác nhân"
+      ],
+      "answer": 0,
+      "explanation": "Thu thập thông tin là B1 trong sơ đồ."
+    },
+    {
+      "id": "at-b03-q005",
+      "page": 7,
+      "prompt": "Sau khi xây dựng chiến lược kiểm soát, bước tiếp theo là gì?",
+      "options": [
+        "Lựa chọn và thực hiện biện pháp kiểm soát",
+        "Kết thúc mọi hoạt động giám sát",
+        "Bỏ bước lượng giá nguy cơ",
+        "Chỉ thay đổi tên phòng"
+      ],
+      "answer": 0,
+      "explanation": "B4 theo sau B3 trong quy trình năm bước."
+    },
+    {
+      "id": "at-b03-q006",
+      "page": 7,
+      "prompt": "Bước cuối cùng của quy trình là gì?",
+      "options": [
+        "Xem xét lại nguy cơ và các biện pháp",
+        "Mua thiết bị theo giá cao nhất",
+        "Xóa hồ sơ sự cố",
+        "Chỉ xác định tên tác nhân"
+      ],
+      "answer": 0,
+      "explanation": "B5 bảo đảm việc đánh giá và kiểm soát được cập nhật."
+    },
+    {
+      "id": "at-b03-q007",
+      "page": 8,
+      "prompt": "Biện pháp nào được bài nêu để giảm nguy cơ?",
+      "options": [
+        "Dùng lượng mẫu siêu nhỏ khi phù hợp",
+        "Luôn tăng nồng độ mẫu",
+        "Luôn tăng sinh tác nhân trước mọi phân tích",
+        "Bỏ bất hoạt mẫu trong mọi tình huống"
+      ],
+      "answer": 0,
+      "explanation": "Sử dụng lượng mẫu siêu nhỏ là một biện pháp kiểm soát bổ sung trong slide."
+    },
+    {
+      "id": "at-b03-q008",
+      "page": 9,
+      "prompt": "Tình huống nào cần đánh giá nguy cơ lại?",
+      "options": [
+        "Thay đổi thiết bị, nhân sự hoặc quy trình",
+        "Chỉ khi khóa học kết thúc",
+        "Chỉ khi có đoàn tham quan",
+        "Không cần nếu đã đánh giá một lần"
+      ],
+      "answer": 0,
+      "explanation": "Trang 9 liệt kê các thay đổi này và những sự kiện không mong muốn."
+    },
+    {
+      "id": "at-b03-q009",
+      "page": 10,
+      "prompt": "Ai có thể tham gia đánh giá nguy cơ theo bài?",
+      "options": [
+        "Người phụ trách, nhân viên PXN, phụ trách ATSH và các bên liên quan",
+        "Chỉ người bán thiết bị",
+        "Chỉ người không làm trong PXN",
+        "Chỉ nhân viên bảo vệ tòa nhà"
+      ],
+      "answer": 0,
+      "explanation": "Danh sách còn có lãnh đạo và kỹ sư thiết kế phòng xét nghiệm, trang thiết bị."
+    },
+    {
+      "id": "at-b03-q010",
+      "page": 13,
+      "prompt": "Đào tạo nhân viên cần đi kèm hoạt động nào?",
+      "options": [
+        "Đánh giá, theo dõi và xác nhận năng lực thực hành",
+        "Chỉ ký nhận tài liệu một lần",
+        "Bỏ quan sát thao tác",
+        "Thay thế toàn bộ SOP bằng trí nhớ"
+      ],
+      "answer": 0,
+      "explanation": "Bài yêu cầu xác nhận nhân viên hiểu và thực hành đúng."
+    },
+    {
+      "id": "at-b03-q011",
+      "page": 14,
+      "prompt": "Bề mặt tường, sàn, bàn trong PXN nên có đặc tính nào?",
+      "options": [
+        "Nhẵn, dễ lau chùi, chống ăn mòn",
+        "Nhiều khe nứt để tăng thoáng khí",
+        "Hút nước mạnh để giữ hóa chất",
+        "Khó tiếp cận để hạn chế vệ sinh"
+      ],
+      "answer": 0,
+      "explanation": "Đặc tính bề mặt được nêu trong yêu cầu cơ sở vật chất bên trong PXN."
+    },
+    {
+      "id": "at-b03-q012",
+      "page": 15,
+      "prompt": "Khu ăn uống, nghỉ ngơi được bố trí ở đâu theo bài?",
+      "options": [
+        "Bên ngoài PXN",
+        "Ngay trên bàn xử lý mẫu",
+        "Trong tủ ATSH",
+        "Trong kho chất thải lây nhiễm"
+      ],
+      "answer": 0,
+      "explanation": "Trang 15 nêu có phòng ăn uống và nghỉ ngơi bên ngoài phòng xét nghiệm."
+    },
+    {
+      "id": "at-b03-q013",
+      "page": 16,
+      "prompt": "GMPP là viết tắt của cụm nào?",
+      "options": [
+        "Good Microbiological Practices and Procedures",
+        "General Medical Power Protection",
+        "Gamma Measurement and Particle Physics",
+        "Good Mechanical Pumping Process"
+      ],
+      "answer": 0,
+      "explanation": "Bài dùng GMPP cho quy trình và thực hành vi sinh tốt."
+    },
+    {
+      "id": "at-b03-q014",
+      "page": 19,
+      "prompt": "Vật chứa mẫu cần đáp ứng yêu cầu nào?",
+      "options": [
+        "Kín, không rò rỉ, phù hợp thể tích, có nhãn chính xác",
+        "Không cần nắp nếu ở trong phòng",
+        "Chỉ cần màu sắc giống nhau",
+        "Không cần ghi thông tin mẫu"
+      ],
+      "answer": 0,
+      "explanation": "Đây là các yêu cầu bảo quản mẫu được liệt kê ở trang 19."
+    },
+    {
+      "id": "at-b03-q015",
+      "page": 20,
+      "prompt": "Mức khử nhiễm nào bao gồm tiêu diệt hoặc loại bỏ cả bào tử?",
+      "options": [
+        "Tiệt trùng",
+        "Chỉ làm sạch",
+        "Chỉ rửa bằng nước",
+        "Chỉ lau bụi bề mặt"
+      ],
+      "answer": 0,
+      "explanation": "Bài phân biệt tiệt trùng bằng yêu cầu loại bỏ tất cả tác nhân, kể cả bào tử."
+    },
+    {
+      "id": "at-b03-q016",
+      "page": 21,
+      "prompt": "Yếu tố nào cần cân nhắc khi chọn chất khử trùng hóa học?",
+      "options": [
+        "Hiệu quả, an toàn, môi trường và tương thích vật liệu",
+        "Chỉ mùi dễ chịu",
+        "Chỉ màu dung dịch",
+        "Chỉ kích thước chai"
+      ],
+      "answer": 0,
+      "explanation": "Bốn yếu tố này được liệt kê cùng nhóm chất khử trùng."
+    },
+    {
+      "id": "at-b03-q017",
+      "page": 22,
+      "prompt": "Trình tự khử trùng được trình bày trong sơ đồ là gì?",
+      "options": [
+        "Làm sạch → dùng chất khử trùng → vệ sinh lại",
+        "Vệ sinh lại → cất đi → mới dùng chất khử trùng",
+        "Dùng chất khử trùng → làm bẩn lại → lưu kho",
+        "Chỉ làm khô, bỏ qua mọi bước khác"
+      ],
+      "answer": 0,
+      "explanation": "Sơ đồ trang 22 thể hiện ba bước theo thứ tự này."
+    },
+    {
+      "id": "at-b03-q018",
+      "page": 23,
+      "prompt": "Trước khi hấp, slide yêu cầu kiểm tra yếu tố nào?",
+      "options": [
+        "Không khí đã được đuổi hết hay chưa",
+        "Màu giấy ghi chép có giống nhau không",
+        "Có thể buộc thật kín mọi túi hay không",
+        "Có thể bỏ qua chỉ thị sinh học hay không"
+      ],
+      "answer": 0,
+      "explanation": "Không khí còn lại là một trong những yếu tố cần kiểm tra trước khi hấp."
+    },
+    {
+      "id": "at-b03-q019",
+      "page": 25,
+      "prompt": "Vật sắc nhọn lây nhiễm được thu gom vào đâu?",
+      "options": [
+        "Hộp chuyên dụng chống đâm thủng",
+        "Túi giấy mỏng cùng rác thông thường",
+        "Hộp không nắp để dễ lấy lại",
+        "Bồn rửa tay"
+      ],
+      "answer": 0,
+      "explanation": "Bảng xử lý chất thải yêu cầu hộp chuyên dụng chống đâm thủng."
+    },
+    {
+      "id": "at-b03-q020",
+      "page": 26,
+      "prompt": "Thải trực tiếp chất lỏng mang tác nhân sinh học ra ngoài có phải khử nhiễm không?",
+      "options": [
+        "Không, đây không phải quy trình khử nhiễm",
+        "Có, nếu chất lỏng trong suốt",
+        "Có, nếu đổ vào cuối ngày",
+        "Có, vì mọi hệ thống nước thải đều tiệt trùng"
+      ],
+      "answer": 0,
+      "explanation": "Trang 26 phân biệt rõ thải trực tiếp với các phương pháp khử nhiễm."
+    },
+    {
+      "id": "at-b03-q021",
+      "page": 29,
+      "prompt": "Mục nào thuộc bộ dụng cụ xử lý tràn đổ được nêu trong bài?",
+      "options": [
+        "Vật liệu thấm, hộp sắc nhọn và biển cảnh báo",
+        "Chỉ một khăn lau dùng chung",
+        "Chỉ đồng hồ đo nhiệt",
+        "Chỉ sổ điểm học phần"
+      ],
+      "answer": 0,
+      "explanation": "Spill kit gồm nhiều dụng cụ bảo hộ, thu gom, khử nhiễm và cảnh báo."
+    },
+    {
+      "id": "at-b03-q022",
+      "page": 32,
+      "prompt": "Trong tình huống sự cố khi máy ly tâm vẫn đang chạy, bài nhấn mạnh điều nào?",
+      "options": [
+        "Không mở nắp máy ngay",
+        "Mở nắp ngay để quan sát",
+        "Đưa mặt sát buồng quay để kiểm tra",
+        "Bỏ qua nguy cơ khí dung"
+      ],
+      "answer": 0,
+      "explanation": "Quy trình trong slide yêu cầu giữ nắp và chú ý thời gian lắng khí dung trước xử lý theo SOP."
+    }
+  ]
+}

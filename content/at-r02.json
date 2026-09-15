@@ -1,0 +1,197 @@
+{
+  "id": "at-r02",
+  "courseId": "et4551",
+  "title": "Bức xạ 2 · Nguyên tử và bức xạ ion hóa",
+  "group": "An toàn bức xạ",
+  "description": "Proton, neutron, đồng vị và đặc điểm alpha, beta, photon.",
+  "sections": [
+    {
+      "title": "Cấu trúc nguyên tử",
+      "from": 2,
+      "to": 8,
+      "points": [
+        "Hạt nhân gồm proton mang điện dương và neutron không mang điện; electron mang điện âm ở lớp vỏ.",
+        "Số khối A = số proton + số neutron; nguyên tử số Z = số proton.",
+        "Đồng vị: cùng số proton nhưng khác số neutron."
+      ]
+    },
+    {
+      "title": "Alpha và beta",
+      "from": 9,
+      "to": 16,
+      "points": [
+        "Hạt alpha gồm hai proton và hai neutron, mang điện dương; khả năng đâm xuyên thấp nhưng nguồn alpha bên trong cơ thể cần được chú ý.",
+        "Hạt beta có khối lượng, kích thước như electron và có thể mang điện âm hoặc dương; khả năng đâm xuyên phụ thuộc năng lượng.",
+        "Các ví dụ nguồn alpha, beta và ứng dụng được liệt kê ở trang 13 và 16."
+      ]
+    },
+    {
+      "title": "Photon và ví dụ đồng vị",
+      "from": 17,
+      "to": 20,
+      "points": [
+        "Tia X và gamma là photon, không mang điện, không có khối lượng nghỉ; khả năng đâm xuyên thay đổi theo năng lượng.",
+        "Bài nêu các nguồn phát photon và bảng ví dụ đồng vị, chu kỳ bán rã, hoạt độ và ứng dụng.",
+        "Theo bảng bài giảng, Tc-99m có chu kỳ bán rã khoảng 6 giờ, gắn với tạo ảnh; I-131 khoảng 8 ngày."
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "at-r02-q001",
+      "page": 4,
+      "prompt": "Hạt nào trong hạt nhân mang điện tích dương?",
+      "options": [
+        "Proton",
+        "Neutron",
+        "Electron",
+        "Photon"
+      ],
+      "answer": 0,
+      "explanation": "Trang 4 phân biệt proton mang điện dương và neutron không mang điện."
+    },
+    {
+      "id": "at-r02-q002",
+      "page": 4,
+      "prompt": "Thành phần nào không mang điện trong hạt nhân?",
+      "options": [
+        "Neutron",
+        "Proton",
+        "Electron",
+        "Positron"
+      ],
+      "answer": 0,
+      "explanation": "Neutron là hạt không mang điện được mô tả trong bài."
+    },
+    {
+      "id": "at-r02-q003",
+      "page": 6,
+      "prompt": "Số khối A bằng tổng nào?",
+      "options": [
+        "Proton cộng neutron",
+        "Proton cộng electron lớp vỏ",
+        "Neutron trừ proton",
+        "Chỉ số electron"
+      ],
+      "answer": 0,
+      "explanation": "Bài định nghĩa A là tổng proton và neutron."
+    },
+    {
+      "id": "at-r02-q004",
+      "page": 7,
+      "prompt": "Nguyên tử số Z là số hạt nào?",
+      "options": [
+        "Proton",
+        "Neutron",
+        "Photon",
+        "Tổng proton và neutron"
+      ],
+      "answer": 0,
+      "explanation": "Số proton quyết định nguyên tử số và loại nguyên tố."
+    },
+    {
+      "id": "at-r02-q005",
+      "page": 8,
+      "prompt": "Hai nguyên tử là đồng vị khi có đặc điểm nào?",
+      "options": [
+        "Cùng số proton, khác số neutron",
+        "Cùng số neutron, khác số proton",
+        "Khác số proton và cùng số khối luôn luôn",
+        "Chỉ cần cùng khối lượng điện tử"
+      ],
+      "answer": 0,
+      "explanation": "Định nghĩa đồng vị ở trang 8 dựa vào proton và neutron."
+    },
+    {
+      "id": "at-r02-q006",
+      "page": 12,
+      "prompt": "Một hạt alpha gồm những thành phần nào?",
+      "options": [
+        "2 proton và 2 neutron",
+        "1 proton và 1 electron",
+        "2 electron và 2 photon",
+        "Chỉ 4 neutron"
+      ],
+      "answer": 0,
+      "explanation": "Đây là thành phần hạt alpha được ghi trong slide."
+    },
+    {
+      "id": "at-r02-q007",
+      "page": 12,
+      "prompt": "Bài đặc biệt lưu ý nguy cơ alpha trong tình huống nào?",
+      "options": [
+        "Nguồn phát alpha đã ở bên trong cơ thể",
+        "Nguồn không phát bức xạ",
+        "Chỉ khi nhìn thấy ánh sáng",
+        "Chỉ khi nhiệt độ phòng tăng"
+      ],
+      "answer": 0,
+      "explanation": "Khả năng đâm xuyên thấp không loại bỏ nguy cơ khi nguồn đã đi vào cơ thể."
+    },
+    {
+      "id": "at-r02-q008",
+      "page": 14,
+      "prompt": "Điện tích của hạt beta có thể như thế nào?",
+      "options": [
+        "Âm hoặc dương",
+        "Chỉ trung hòa",
+        "Luôn bằng +2",
+        "Luôn bằng +3"
+      ],
+      "answer": 0,
+      "explanation": "Bài mô tả beta có thể là electron hoặc hạt mang điện dương tương ứng."
+    },
+    {
+      "id": "at-r02-q009",
+      "page": 14,
+      "prompt": "Khả năng đâm xuyên của beta được bài liên hệ với yếu tố nào?",
+      "options": [
+        "Năng lượng của hạt",
+        "Tên người vận hành",
+        "Màu của vật che chắn",
+        "Số lượng nhãn cảnh báo"
+      ],
+      "answer": 0,
+      "explanation": "Trang 14 so sánh beta năng lượng thấp và cao."
+    },
+    {
+      "id": "at-r02-q010",
+      "page": 17,
+      "prompt": "Photon tia X hoặc gamma có đặc điểm điện tích nào?",
+      "options": [
+        "Không mang điện",
+        "Mang điện âm như electron",
+        "Mang điện +2 như alpha",
+        "Luôn mang điện dương"
+      ],
+      "answer": 0,
+      "explanation": "Bài nêu photon không có điện tích."
+    },
+    {
+      "id": "at-r02-q011",
+      "page": 20,
+      "prompt": "Theo bảng trong bài, Tc-99m có chu kỳ bán rã khoảng bao lâu?",
+      "options": [
+        "6 giờ",
+        "8 ngày",
+        "30 năm",
+        "74 ngày"
+      ],
+      "answer": 0,
+      "explanation": "Bảng trang 20 gắn Tc-99m với 6 giờ và ứng dụng tạo ảnh."
+    },
+    {
+      "id": "at-r02-q012",
+      "page": 20,
+      "prompt": "Theo bảng trong bài, I-131 có chu kỳ bán rã khoảng bao lâu?",
+      "options": [
+        "8 ngày",
+        "6 giờ",
+        "12 năm",
+        "432 năm"
+      ],
+      "answer": 0,
+      "explanation": "Bảng ví dụ đồng vị ghi I-131 là 8 ngày."
+    }
+  ]
+}
